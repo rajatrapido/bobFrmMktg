@@ -1,0 +1,1330 @@
+[
+    {
+        "Week": "2026-W09",
+        "City": "Agartala",
+        "Installs": 1196,
+        "Cost": 44493.452248,
+        "Impressions": 637372,
+        "Clicks": 3585
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Agra",
+        "Installs": 8739,
+        "Cost": 128985.301069,
+        "Impressions": 1503464,
+        "Clicks": 16487
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ahmedabad",
+        "Installs": 20838,
+        "Cost": 838288.952127,
+        "Impressions": 15810489,
+        "Clicks": 194842
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Aligarh",
+        "Installs": 551,
+        "Cost": 18372.436489,
+        "Impressions": 326592,
+        "Clicks": 2314
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Alwar",
+        "Installs": 282,
+        "Cost": 9827.255388,
+        "Impressions": 167778,
+        "Clicks": 2727
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ambikapur",
+        "Installs": 19,
+        "Cost": 1829.422389,
+        "Impressions": 46045,
+        "Clicks": 889
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Amritsar",
+        "Installs": 1391,
+        "Cost": 51173.710776,
+        "Impressions": 495608,
+        "Clicks": 4368
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Anand_Nadiad",
+        "Installs": 417,
+        "Cost": 24570.997364,
+        "Impressions": 442934,
+        "Clicks": 5908
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Anantapur",
+        "Installs": 1674,
+        "Cost": 50043.246566,
+        "Impressions": 971466,
+        "Clicks": 9602
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Andhra Pradesh",
+        "Installs": 1042,
+        "Cost": 45712.578102,
+        "Impressions": 928489,
+        "Clicks": 14120
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Asansol",
+        "Installs": 516,
+        "Cost": 15902.692663,
+        "Impressions": 256812,
+        "Clicks": 1720
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ashoknagar",
+        "Installs": 17,
+        "Cost": 482.320905,
+        "Impressions": 10868,
+        "Clicks": 326
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Assam",
+        "Installs": 744,
+        "Cost": 38872.06952,
+        "Impressions": 914738,
+        "Clicks": 29365
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Balaghat",
+        "Installs": 12,
+        "Cost": 505.09466000000003,
+        "Impressions": 10853,
+        "Clicks": 309
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Balotra",
+        "Installs": 3,
+        "Cost": 356.892372,
+        "Impressions": 8128,
+        "Clicks": 259
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bangalore",
+        "Installs": 29250,
+        "Cost": 483718.967871,
+        "Impressions": 6663995,
+        "Clicks": 138940
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bareilly",
+        "Installs": 1000,
+        "Cost": 31536.678531,
+        "Impressions": 515852,
+        "Clicks": 3337
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Barnala",
+        "Installs": 6,
+        "Cost": 625.6963089999999,
+        "Impressions": 14989,
+        "Clicks": 499
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Belgaum",
+        "Installs": 860,
+        "Cost": 30956.841213,
+        "Impressions": 327713,
+        "Clicks": 3750
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bengal",
+        "Installs": 3400,
+        "Cost": 84171.960831,
+        "Impressions": 1400050,
+        "Clicks": 10102
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bettiah",
+        "Installs": 68,
+        "Cost": 3750.362183,
+        "Impressions": 84242,
+        "Clicks": 2077
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bhavnagar",
+        "Installs": 406,
+        "Cost": 18747.508088,
+        "Impressions": 351737,
+        "Clicks": 6041
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bhilai",
+        "Installs": 371,
+        "Cost": 10597.068188,
+        "Impressions": 164713,
+        "Clicks": 1840
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bhiwadi",
+        "Installs": 13,
+        "Cost": 1174.322608,
+        "Impressions": 24393,
+        "Clicks": 752
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bhopal",
+        "Installs": 6544,
+        "Cost": 135405.47972,
+        "Impressions": 2563538,
+        "Clicks": 20798
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bhubaneswar",
+        "Installs": 8125,
+        "Cost": 284475.30473699997,
+        "Impressions": 3687743,
+        "Clicks": 24775
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bihar",
+        "Installs": 4663,
+        "Cost": 196087.824858,
+        "Impressions": 4111647,
+        "Clicks": 121819
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bikaner",
+        "Installs": 645,
+        "Cost": 23473.116542,
+        "Impressions": 416345,
+        "Clicks": 4547
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Botad",
+        "Installs": 3,
+        "Cost": 212.904047,
+        "Impressions": 5379,
+        "Clicks": 200
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chakdaha",
+        "Installs": 9,
+        "Cost": 328.979199,
+        "Impressions": 4284,
+        "Clicks": 159
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chandausi",
+        "Installs": 34,
+        "Cost": 1237.971838,
+        "Impressions": 28136,
+        "Clicks": 985
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chandigarh",
+        "Installs": 7222,
+        "Cost": 197548.634965,
+        "Impressions": 1833287,
+        "Clicks": 31315
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chattisgarh",
+        "Installs": 2071,
+        "Cost": 210184.78863,
+        "Impressions": 3472893,
+        "Clicks": 92601
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chennai",
+        "Installs": 7633,
+        "Cost": 136112.924993,
+        "Impressions": 1358255,
+        "Clicks": 25025
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chhapra",
+        "Installs": 37,
+        "Cost": 1970.735257,
+        "Impressions": 42873,
+        "Clicks": 1304
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chhatarpur",
+        "Installs": 10,
+        "Cost": 467.46275299999996,
+        "Impressions": 10127,
+        "Clicks": 323
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chhattisgarh",
+        "Installs": 188,
+        "Cost": 10674.909507,
+        "Impressions": 155659,
+        "Clicks": 1068
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chittoor",
+        "Installs": 201,
+        "Cost": 7959.406282,
+        "Impressions": 130068,
+        "Clicks": 2044
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Coimbatore",
+        "Installs": 7435,
+        "Cost": 183346.159632,
+        "Impressions": 3385603,
+        "Clicks": 30045
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dahod",
+        "Installs": 11,
+        "Cost": 693.492515,
+        "Impressions": 12511,
+        "Clicks": 362
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dankuni",
+        "Installs": 6,
+        "Cost": 313.41121400000003,
+        "Impressions": 2398,
+        "Clicks": 85
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dehradun",
+        "Installs": 4010,
+        "Cost": 190223.625615,
+        "Impressions": 3280970,
+        "Clicks": 36407
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Delhi",
+        "Installs": 143019,
+        "Cost": 3969486.3831370003,
+        "Impressions": 51604995,
+        "Clicks": 842881
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Deoband",
+        "Installs": 22,
+        "Cost": 1130.535419,
+        "Impressions": 25995,
+        "Clicks": 1027
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dhar",
+        "Installs": 8,
+        "Cost": 529.600501,
+        "Impressions": 11330,
+        "Clicks": 439
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dholpur",
+        "Installs": 25,
+        "Cost": 1609.1905590000001,
+        "Impressions": 41545,
+        "Clicks": 1848
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dibrugarh",
+        "Installs": 212,
+        "Cost": 11435.176857999999,
+        "Impressions": 185307,
+        "Clicks": 2906
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dungarpur",
+        "Installs": 1,
+        "Cost": 240.62971100000001,
+        "Impressions": 6111,
+        "Clicks": 274
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Durgapur",
+        "Installs": 2253,
+        "Cost": 63837.9815,
+        "Impressions": 998837,
+        "Clicks": 6014
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dwarka",
+        "Installs": 3,
+        "Cost": 120.557088,
+        "Impressions": 439,
+        "Clicks": 24
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Eluru",
+        "Installs": 365,
+        "Cost": 13035.012781,
+        "Impressions": 234789,
+        "Clicks": 4170
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Gorakhpur",
+        "Installs": 2112,
+        "Cost": 75457.137592,
+        "Impressions": 1108839,
+        "Clicks": 12471
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Gudivada",
+        "Installs": 132,
+        "Cost": 8676.489529,
+        "Impressions": 157340,
+        "Clicks": 2546
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Gujrat",
+        "Installs": 5029,
+        "Cost": 258239.323348,
+        "Impressions": 4426390,
+        "Clicks": 104623
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Guwahati",
+        "Installs": 7653,
+        "Cost": 144718.24757,
+        "Impressions": 1601988,
+        "Clicks": 16234
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Gwalior",
+        "Installs": 1159,
+        "Cost": 29707.248974,
+        "Impressions": 496993,
+        "Clicks": 4160
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Harda",
+        "Installs": 14,
+        "Cost": 470.72480199999995,
+        "Impressions": 12178,
+        "Clicks": 502
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Haryana",
+        "Installs": 3772,
+        "Cost": 123237.09957,
+        "Impressions": 1843760,
+        "Clicks": 19592
+    },
+    {
+        "Week": "2026-W09",
+        "City": "HimanchalPradesh",
+        "Installs": 64,
+        "Cost": 4393.660777,
+        "Impressions": 97084,
+        "Clicks": 975
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Hisar",
+        "Installs": 493,
+        "Cost": 21432.914204,
+        "Impressions": 326692,
+        "Clicks": 4956
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Hyderabad",
+        "Installs": 61367,
+        "Cost": 238915.876081,
+        "Impressions": 2194224,
+        "Clicks": 110301
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Indore",
+        "Installs": 13419,
+        "Cost": 167998.009286,
+        "Impressions": 2198424,
+        "Clicks": 28635
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jabalpur",
+        "Installs": 1660,
+        "Cost": 54627.234377,
+        "Impressions": 1227861,
+        "Clicks": 6754
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jagdalpur Bastar",
+        "Installs": 319,
+        "Cost": 15644.927009,
+        "Impressions": 212106,
+        "Clicks": 14075
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jaipur",
+        "Installs": 29011,
+        "Cost": 403260.107411,
+        "Impressions": 3399400,
+        "Clicks": 194129
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jalandhar",
+        "Installs": 1052,
+        "Cost": 42146.461714,
+        "Impressions": 360919,
+        "Clicks": 2894
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jammu",
+        "Installs": 4627,
+        "Cost": 112013.789371,
+        "Impressions": 1967776,
+        "Clicks": 12475
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jamnagar",
+        "Installs": 557,
+        "Cost": 22569.461539,
+        "Impressions": 451601,
+        "Clicks": 3468
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jamsedhpur",
+        "Installs": 2892,
+        "Cost": 106388.939767,
+        "Impressions": 1917633,
+        "Clicks": 16555
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jhalawar",
+        "Installs": 2,
+        "Cost": 287.212576,
+        "Impressions": 2263,
+        "Clicks": 116
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jharkhand",
+        "Installs": 1843,
+        "Cost": 79624.30767899999,
+        "Impressions": 1548081,
+        "Clicks": 42963
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jodhpur",
+        "Installs": 4789,
+        "Cost": 188049.767588,
+        "Impressions": 4083382,
+        "Clicks": 37652
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jorhat",
+        "Installs": 141,
+        "Cost": 7494.638451,
+        "Impressions": 128567,
+        "Clicks": 2091
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kadapa",
+        "Installs": 307,
+        "Cost": 13109.456548,
+        "Impressions": 280868,
+        "Clicks": 5487
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kakinada",
+        "Installs": 712,
+        "Cost": 27389.655636,
+        "Impressions": 404431,
+        "Clicks": 6163
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kanpur",
+        "Installs": 6017,
+        "Cost": 204188.940124,
+        "Impressions": 3200237,
+        "Clicks": 26377
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Karaikudi",
+        "Installs": 36,
+        "Cost": 2064.6517989999998,
+        "Impressions": 37458,
+        "Clicks": 318
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Karimnagar",
+        "Installs": 413,
+        "Cost": 15533.476541,
+        "Impressions": 261516,
+        "Clicks": 4632
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Karnal",
+        "Installs": 302,
+        "Cost": 12090.614322,
+        "Impressions": 204361,
+        "Clicks": 1730
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Karnataka",
+        "Installs": 2635,
+        "Cost": 194654.298071,
+        "Impressions": 2723061,
+        "Clicks": 72986
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Khammam",
+        "Installs": 460,
+        "Cost": 16634.143863,
+        "Impressions": 281064,
+        "Clicks": 4699
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Khandwa",
+        "Installs": 28,
+        "Cost": 1536.016433,
+        "Impressions": 29820,
+        "Clicks": 1079
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kochi",
+        "Installs": 3638,
+        "Cost": 151215.855508,
+        "Impressions": 1452056,
+        "Clicks": 11490
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kolkata",
+        "Installs": 18391,
+        "Cost": 687450.144753,
+        "Impressions": 13087731,
+        "Clicks": 119174
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kota",
+        "Installs": 2070,
+        "Cost": 67612.01063399999,
+        "Impressions": 1347988,
+        "Clicks": 9458
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kothagudem",
+        "Installs": 120,
+        "Cost": 4666.487573,
+        "Impressions": 89849,
+        "Clicks": 1672
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Krishnanagar",
+        "Installs": 180,
+        "Cost": 9317.156504,
+        "Impressions": 184050,
+        "Clicks": 1608
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kurnool",
+        "Installs": 1344,
+        "Cost": 46066.619247,
+        "Impressions": 844891,
+        "Clicks": 9594
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Lucknow",
+        "Installs": 19351,
+        "Cost": 525577.689111,
+        "Impressions": 7726913,
+        "Clicks": 84104
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ludhiana",
+        "Installs": 8254,
+        "Cost": 158760.909009,
+        "Impressions": 1777507,
+        "Clicks": 17128
+    },
+    {
+        "Week": "2026-W09",
+        "City": "MP",
+        "Installs": 4102,
+        "Cost": 147472.886725,
+        "Impressions": 2926980,
+        "Clicks": 84071
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Machilipatnam",
+        "Installs": 127,
+        "Cost": 8851.65386,
+        "Impressions": 101076,
+        "Clicks": 861
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Madanapalle",
+        "Installs": 213,
+        "Cost": 9318.101311,
+        "Impressions": 178251,
+        "Clicks": 3071
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Madurai",
+        "Installs": 3252,
+        "Cost": 72193.489426,
+        "Impressions": 1001002,
+        "Clicks": 8331
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Maharashtra",
+        "Installs": 745,
+        "Cost": 28183.156579000002,
+        "Impressions": 261937,
+        "Clicks": 1836
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Mahbubnagar",
+        "Installs": 173,
+        "Cost": 7609.330892,
+        "Impressions": 109673,
+        "Clicks": 1153
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Mandsaur",
+        "Installs": 18,
+        "Cost": 1001.1078759999999,
+        "Impressions": 16020,
+        "Clicks": 399
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Mangalore",
+        "Installs": 298,
+        "Cost": 11056.435123,
+        "Impressions": 94008,
+        "Clicks": 1279
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Meerut",
+        "Installs": 4376,
+        "Cost": 127704.162849,
+        "Impressions": 1558521,
+        "Clicks": 12824
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Meghalaya",
+        "Installs": 44,
+        "Cost": 3987.26316,
+        "Impressions": 100347,
+        "Clicks": 424
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Moradabad",
+        "Installs": 1175,
+        "Cost": 39770.333763,
+        "Impressions": 721197,
+        "Clicks": 7149
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Mumbai",
+        "Installs": 49617,
+        "Cost": 2074149.8437760002,
+        "Impressions": 31120957,
+        "Clicks": 197598
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Murshidabad",
+        "Installs": 25,
+        "Cost": 2251.801417,
+        "Impressions": 49260,
+        "Clicks": 543
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Muzaffarpur",
+        "Installs": 1065,
+        "Cost": 36332.839809,
+        "Impressions": 545092,
+        "Clicks": 6691
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Mysore",
+        "Installs": 3253,
+        "Cost": 123838.674561,
+        "Impressions": 1549818,
+        "Clicks": 20163
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nagaur",
+        "Installs": 12,
+        "Cost": 1423.83523,
+        "Impressions": 32351,
+        "Clicks": 1103
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nagpur",
+        "Installs": 7442,
+        "Cost": 285064.08648,
+        "Impressions": 4066685,
+        "Clicks": 29113
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nalgonda",
+        "Installs": 211,
+        "Cost": 9344.032101,
+        "Impressions": 170173,
+        "Clicks": 2825
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Namakal",
+        "Installs": 107,
+        "Cost": 6439.100409,
+        "Impressions": 101482,
+        "Clicks": 1952
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Narasaraopet",
+        "Installs": 190,
+        "Cost": 8166.3868330000005,
+        "Impressions": 136305,
+        "Clicks": 1967
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Narsinghpur",
+        "Installs": 16,
+        "Cost": 1001.239163,
+        "Impressions": 25025,
+        "Clicks": 1013
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nashik",
+        "Installs": 2996,
+        "Cost": 101333.722059,
+        "Impressions": 1114355,
+        "Clicks": 7531
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Neemuch",
+        "Installs": 14,
+        "Cost": 828.23892,
+        "Impressions": 20558,
+        "Clicks": 802
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nellore",
+        "Installs": 834,
+        "Cost": 35973.267792,
+        "Impressions": 509458,
+        "Clicks": 8653
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nizamabad",
+        "Installs": 491,
+        "Cost": 17202.17043,
+        "Impressions": 350363,
+        "Clicks": 6907
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Odisha",
+        "Installs": 2240,
+        "Cost": 115835.666096,
+        "Impressions": 2212829,
+        "Clicks": 44485
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ongole",
+        "Installs": 325,
+        "Cost": 13337.92416,
+        "Impressions": 229110,
+        "Clicks": 3224
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Patiala",
+        "Installs": 255,
+        "Cost": 11703.130582,
+        "Impressions": 120937,
+        "Clicks": 841
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Patna",
+        "Installs": 18065,
+        "Cost": 397826.710551,
+        "Impressions": 7323595,
+        "Clicks": 62569
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Pollachi",
+        "Installs": 38,
+        "Cost": 4301.859342,
+        "Impressions": 58098,
+        "Clicks": 346
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Pratapgarh",
+        "Installs": 40,
+        "Cost": 2710.849411,
+        "Impressions": 40069,
+        "Clicks": 1365
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Prayagraj",
+        "Installs": 5159,
+        "Cost": 196514.711292,
+        "Impressions": 3892840,
+        "Clicks": 48878
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Puducherry",
+        "Installs": 258,
+        "Cost": 8960.316182,
+        "Impressions": 114129,
+        "Clicks": 1591
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Pune",
+        "Installs": 30558,
+        "Cost": 786895.734372,
+        "Impressions": 8449050,
+        "Clicks": 192579
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Punjab",
+        "Installs": 1617,
+        "Cost": 86211.71292800001,
+        "Impressions": 1431476,
+        "Clicks": 47023
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Raigarh",
+        "Installs": 53,
+        "Cost": 2916.9996069999997,
+        "Impressions": 54514,
+        "Clicks": 1316
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Raipur",
+        "Installs": 2956,
+        "Cost": 115552.71623,
+        "Impressions": 2245378,
+        "Clicks": 21454
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Rajahmundry",
+        "Installs": 701,
+        "Cost": 29732.044949,
+        "Impressions": 448361,
+        "Clicks": 8555
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Rajasthan",
+        "Installs": 3221,
+        "Cost": 146363.450265,
+        "Impressions": 2810579,
+        "Clicks": 72060
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Rajkot",
+        "Installs": 6324,
+        "Cost": 207313.857133,
+        "Impressions": 4112100,
+        "Clicks": 35272
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Rajsamand",
+        "Installs": 14,
+        "Cost": 1019.6580160000001,
+        "Impressions": 23926,
+        "Clicks": 954
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ramagundam",
+        "Installs": 210,
+        "Cost": 10182.279699,
+        "Impressions": 208117,
+        "Clicks": 3475
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ranchi",
+        "Installs": 1466,
+        "Cost": 60171.666894,
+        "Impressions": 811975,
+        "Clicks": 11483
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Saharanpur",
+        "Installs": 325,
+        "Cost": 12943.270687,
+        "Impressions": 290644,
+        "Clicks": 1672
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Saharsa",
+        "Installs": 76,
+        "Cost": 4284.193373,
+        "Impressions": 102782,
+        "Clicks": 3555
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Salem",
+        "Installs": 2323,
+        "Cost": 53830.562912,
+        "Impressions": 790649,
+        "Clicks": 5857
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Sambalpur",
+        "Installs": 174,
+        "Cost": 10606.254222,
+        "Impressions": 199786,
+        "Clicks": 1834
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Sasaram",
+        "Installs": 20,
+        "Cost": 1300.825113,
+        "Impressions": 33447,
+        "Clicks": 817
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Shaheed Bhagat Nagar",
+        "Installs": 323,
+        "Cost": 15790.209953,
+        "Impressions": 173107,
+        "Clicks": 4378
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Shillong",
+        "Installs": 458,
+        "Cost": 23280.496089,
+        "Impressions": 331016,
+        "Clicks": 4022
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Shimla",
+        "Installs": 904,
+        "Cost": 27288.698494,
+        "Impressions": 391413,
+        "Clicks": 2732
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Silchar",
+        "Installs": 151,
+        "Cost": 9911.330487,
+        "Impressions": 126334,
+        "Clicks": 1455
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Siliguri",
+        "Installs": 4690,
+        "Cost": 146817.152814,
+        "Impressions": 2230434,
+        "Clicks": 17449
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Surajpur",
+        "Installs": 1,
+        "Cost": 134.686561,
+        "Impressions": 3219,
+        "Clicks": 103
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Surat",
+        "Installs": 11485,
+        "Cost": 735569.091222,
+        "Impressions": 18519015,
+        "Clicks": 268469
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tamil Nadu",
+        "Installs": 1441,
+        "Cost": 44979.83132,
+        "Impressions": 640221,
+        "Clicks": 11128
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Telangana",
+        "Installs": 767,
+        "Cost": 25502.632027,
+        "Impressions": 589749,
+        "Clicks": 13662
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tezpur",
+        "Installs": 68,
+        "Cost": 4143.705722,
+        "Impressions": 93315,
+        "Clicks": 1174
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tinsukia",
+        "Installs": 45,
+        "Cost": 1883.893728,
+        "Impressions": 29883,
+        "Clicks": 1129
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tirupati",
+        "Installs": 3214,
+        "Cost": 97349.66011,
+        "Impressions": 1947359,
+        "Clicks": 18347
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tiruppur",
+        "Installs": 763,
+        "Cost": 36348.236503,
+        "Impressions": 552121,
+        "Clicks": 10839
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Trichy",
+        "Installs": 745,
+        "Cost": 35071.196891,
+        "Impressions": 484327,
+        "Clicks": 5049
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Trivandrum",
+        "Installs": 1551,
+        "Cost": 68149.992183,
+        "Impressions": 656023,
+        "Clicks": 5507
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tumakuru",
+        "Installs": 186,
+        "Cost": 8665.321648,
+        "Impressions": 65328,
+        "Clicks": 960
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Udaipur",
+        "Installs": 3441,
+        "Cost": 59674.870607,
+        "Impressions": 655002,
+        "Clicks": 7520
+    },
+    {
+        "Week": "2026-W09",
+        "City": "UttarPradesh",
+        "Installs": 4508,
+        "Cost": 165456.640955,
+        "Impressions": 3288735,
+        "Clicks": 48358
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Uttarakhand",
+        "Installs": 225,
+        "Cost": 11838.036903,
+        "Impressions": 203277,
+        "Clicks": 2658
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Vadodara",
+        "Installs": 4905,
+        "Cost": 232905.305628,
+        "Impressions": 4341596,
+        "Clicks": 48629
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Varanasi",
+        "Installs": 6017,
+        "Cost": 227865.040572,
+        "Impressions": 3592508,
+        "Clicks": 35528
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Vijaywada",
+        "Installs": 4623,
+        "Cost": 144002.514457,
+        "Impressions": 2271239,
+        "Clicks": 27240
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Villupuram",
+        "Installs": 60,
+        "Cost": 4753.044728,
+        "Impressions": 92216,
+        "Clicks": 1486
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Virudhunagar",
+        "Installs": 47,
+        "Cost": 3265.5095739999997,
+        "Impressions": 45298,
+        "Clicks": 695
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Visakhapatnam",
+        "Installs": 4093,
+        "Cost": 87053.166599,
+        "Impressions": 1018852,
+        "Clicks": 13084
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Warangal",
+        "Installs": 701,
+        "Cost": 27793.499042,
+        "Impressions": 581010,
+        "Clicks": 10661
+    },
+    {
+        "Week": "2026-W09",
+        "City": "West Bengal",
+        "Installs": 301,
+        "Cost": 9888.462996,
+        "Impressions": 162938,
+        "Clicks": 3856
+    },
+    {
+        "Week": "2026-W09",
+        "City": "bhuvangiri",
+        "Installs": 47,
+        "Cost": 2715.210487,
+        "Impressions": 49085,
+        "Clicks": 670
+    }
+]

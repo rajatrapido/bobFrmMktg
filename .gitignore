@@ -1,0 +1,57 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local env and secrets
+.env
+.env.*
+!.env.example
+backend/.env
+backend/app/google-ads.yaml
+backend/app/service_account.json
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+backend/.venv/
+
+# Node / Next.js
+node_modules/
+frontend/node_modules/
+.next/
+frontend/.next/
+out/
+build/
+dist/
+coverage/
+*.tsbuildinfo
+
+# Logs
+*.log
+backend.log
+server.log
+frontend.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Generated reports / local artifacts
+decoded_email.txt
+report_timeDiff.json
+performace_report_updated.py
+backend/storage/raw_reports/
+backend/storage/reports/
+backend/storage/backtests/
+walkThrough_*
+
+# Preserve nested repo history locally without treating it as a submodule
+frontend/.git
+frontend/.git.backup

@@ -1,0 +1,1649 @@
+[
+    {
+        "Week": "2026-W09",
+        "City": "Agartala",
+        "Campaign_Name": "BAU-Android-Agartala-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 1196,
+        "Cost": 44493.452248,
+        "Impressions": 637372,
+        "Clicks": 3585
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Agra",
+        "Campaign_Name": "BAU-Android-Agra-City-Platform-FTU_Firebase_Jul25",
+        "Installs": 8739,
+        "Cost": 128985.301069,
+        "Impressions": 1503464,
+        "Clicks": 16487
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ahmedabad",
+        "Campaign_Name": "BAU-Android-Ahmedabad-City-Platform-FTU_Firebase_Nov22",
+        "Installs": 20838,
+        "Cost": 838288.952127,
+        "Impressions": 15810489,
+        "Clicks": 194842
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Aligarh",
+        "Campaign_Name": "BAU-Android-Aligarh-City-Platform-FTU_Firebase_Sep25",
+        "Installs": 551,
+        "Cost": 18372.436489,
+        "Impressions": 326592,
+        "Clicks": 2314
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Alwar",
+        "Campaign_Name": "BAU-Android-Alwar-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 282,
+        "Cost": 9827.255388,
+        "Impressions": 167778,
+        "Clicks": 2727
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ambikapur",
+        "Campaign_Name": "BAU-Android-Ambikapur-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 19,
+        "Cost": 1829.422389,
+        "Impressions": 46045,
+        "Clicks": 889
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Amritsar",
+        "Campaign_Name": "BAU-Android-Amritsar-City-Platform-FTU_Firebase_May24",
+        "Installs": 1391,
+        "Cost": 51173.710776,
+        "Impressions": 495608,
+        "Clicks": 4368
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Anand_Nadiad",
+        "Campaign_Name": "BAU-Android-Anand_Nadiad-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 417,
+        "Cost": 24570.997364,
+        "Impressions": 442934,
+        "Clicks": 5908
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Anantapur",
+        "Campaign_Name": "BAU-Android-Anantapur-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 1674,
+        "Cost": 50043.246566,
+        "Impressions": 971466,
+        "Clicks": 9602
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Andhra Pradesh",
+        "Campaign_Name": "BAU-Android-Andhra Pradesh-City-Platform-FTU_Firebase_Nov24",
+        "Installs": 917,
+        "Cost": 38846.019629,
+        "Impressions": 804613,
+        "Clicks": 11803
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Andhra Pradesh",
+        "Campaign_Name": "BAU-Android-Andhra Pradesh-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 125,
+        "Cost": 6866.558473,
+        "Impressions": 123876,
+        "Clicks": 2317
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Asansol",
+        "Campaign_Name": "BAU-Android-Asansol-City-Platform-FTU_Firebase_Oct25",
+        "Installs": 516,
+        "Cost": 15902.692663,
+        "Impressions": 256812,
+        "Clicks": 1720
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ashoknagar",
+        "Campaign_Name": "BAU-Android-Ashoknagar-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 17,
+        "Cost": 482.320905,
+        "Impressions": 10868,
+        "Clicks": 326
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Assam",
+        "Campaign_Name": "BAU-Android-Assam-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 744,
+        "Cost": 38872.06952,
+        "Impressions": 914738,
+        "Clicks": 29365
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Balaghat",
+        "Campaign_Name": "BAU-Android-Balaghat-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 12,
+        "Cost": 505.09466000000003,
+        "Impressions": 10853,
+        "Clicks": 309
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Balotra",
+        "Campaign_Name": "BAU-Android-Balotra-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 3,
+        "Cost": 356.892372,
+        "Impressions": 8128,
+        "Clicks": 259
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bangalore",
+        "Campaign_Name": "BAU-Android-Bangalore-City-Platform-FTU_Firebase_Nov25_Search",
+        "Installs": 19616,
+        "Cost": 136792.64192400003,
+        "Impressions": 552597,
+        "Clicks": 28458
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bangalore",
+        "Campaign_Name": "BAU-Android-Bangalore-City-Platform-Install_Firebase_Jun24",
+        "Installs": 9634,
+        "Cost": 346926.325947,
+        "Impressions": 6111398,
+        "Clicks": 110482
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bareilly",
+        "Campaign_Name": "BAU-Android-Bareilly-City-Platform-FTU_Firebase_Jul25",
+        "Installs": 1000,
+        "Cost": 31536.678531,
+        "Impressions": 515852,
+        "Clicks": 3337
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Barnala",
+        "Campaign_Name": "BAU-Android-Barnala-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 6,
+        "Cost": 625.6963089999999,
+        "Impressions": 14989,
+        "Clicks": 499
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Belgaum",
+        "Campaign_Name": "BAU-Android-Belgaum-City-Platform-FTU_Firebase_Sep25",
+        "Installs": 860,
+        "Cost": 30956.841213,
+        "Impressions": 327713,
+        "Clicks": 3750
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bengal",
+        "Campaign_Name": "BAU-Android-Bengal-City-Platform-FTU_Firebase_Feb25",
+        "Installs": 3400,
+        "Cost": 84171.960831,
+        "Impressions": 1400050,
+        "Clicks": 10102
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bettiah",
+        "Campaign_Name": "BAU-Android-Bettiah-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 68,
+        "Cost": 3750.362183,
+        "Impressions": 84242,
+        "Clicks": 2077
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bhavnagar",
+        "Campaign_Name": "BAU-Android-Bhavnagar-City-Platform-FTU_Firebase_Oct25",
+        "Installs": 406,
+        "Cost": 18747.508088,
+        "Impressions": 351737,
+        "Clicks": 6041
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bhilai",
+        "Campaign_Name": "BAU-Android-Bhilai-City-Platform-FTU_Firebase_Jul25",
+        "Installs": 371,
+        "Cost": 10597.068188,
+        "Impressions": 164713,
+        "Clicks": 1840
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bhiwadi",
+        "Campaign_Name": "BAU-Android-Bhiwadi-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 13,
+        "Cost": 1174.322608,
+        "Impressions": 24393,
+        "Clicks": 752
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bhopal",
+        "Campaign_Name": "BAU-Android-Bhopal-City-Platform-FTU_Firebase_Nov20",
+        "Installs": 6544,
+        "Cost": 135405.47972,
+        "Impressions": 2563538,
+        "Clicks": 20798
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bhubaneswar",
+        "Campaign_Name": "BAU-Android-Bhubaneswar-City-Platform-FTU_Firebase_Jan23",
+        "Installs": 8125,
+        "Cost": 284475.30473699997,
+        "Impressions": 3687743,
+        "Clicks": 24775
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bihar",
+        "Campaign_Name": "BAU-Android-Bihar-City-Platform-FTU_Firebase_Aug25",
+        "Installs": 1838,
+        "Cost": 45363.759922,
+        "Impressions": 783308,
+        "Clicks": 6862
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bihar",
+        "Campaign_Name": "BAU-Android-Bihar-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 2825,
+        "Cost": 150724.064936,
+        "Impressions": 3328339,
+        "Clicks": 114957
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bikaner",
+        "Campaign_Name": "BAU-Android-Bikaner-City-Platform-FTU_Firebase_Oct25",
+        "Installs": 645,
+        "Cost": 23473.116542,
+        "Impressions": 416345,
+        "Clicks": 4547
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Botad",
+        "Campaign_Name": "BAU-Android-Botad-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 3,
+        "Cost": 212.904047,
+        "Impressions": 5379,
+        "Clicks": 200
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chakdaha",
+        "Campaign_Name": "BAU-Android-Chakdaha-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 9,
+        "Cost": 328.979199,
+        "Impressions": 4284,
+        "Clicks": 159
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chandausi",
+        "Campaign_Name": "BAU-Android-Chandausi-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 34,
+        "Cost": 1237.971838,
+        "Impressions": 28136,
+        "Clicks": 985
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chandigarh",
+        "Campaign_Name": "BAU-Android-Chandigarh-City-Install-FTU_Firebase_Feb26",
+        "Installs": 7222,
+        "Cost": 197548.634965,
+        "Impressions": 1833287,
+        "Clicks": 31315
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chattisgarh",
+        "Campaign_Name": "BAU-Android-Chattisgarh-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 2071,
+        "Cost": 210184.78863,
+        "Impressions": 3472893,
+        "Clicks": 92601
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chennai",
+        "Campaign_Name": "BAU-Android-Chennai-City-Platform-FTU_Firebase_Nov25_Search",
+        "Installs": 7633,
+        "Cost": 136112.924993,
+        "Impressions": 1358255,
+        "Clicks": 25025
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chhapra",
+        "Campaign_Name": "BAU-Android-Chhapra-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 37,
+        "Cost": 1970.735257,
+        "Impressions": 42873,
+        "Clicks": 1304
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chhatarpur",
+        "Campaign_Name": "BAU-Android-Chhatarpur-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 10,
+        "Cost": 467.46275299999996,
+        "Impressions": 10127,
+        "Clicks": 323
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chhattisgarh",
+        "Campaign_Name": "BAU-Android-Chhattisgarh-City-Platform-FTU_Firebase_Aug25",
+        "Installs": 188,
+        "Cost": 10674.909507,
+        "Impressions": 155659,
+        "Clicks": 1068
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chittoor",
+        "Campaign_Name": "BAU-Android-Chittoor-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 201,
+        "Cost": 7959.406282,
+        "Impressions": 130068,
+        "Clicks": 2044
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Coimbatore",
+        "Campaign_Name": "BAU-Android-Coimbatore-City-Platform-FTU_Firebase_Mar23",
+        "Installs": 7435,
+        "Cost": 183346.159632,
+        "Impressions": 3385603,
+        "Clicks": 30045
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dahod",
+        "Campaign_Name": "BAU-Android-Dahod-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 11,
+        "Cost": 693.492515,
+        "Impressions": 12511,
+        "Clicks": 362
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dankuni",
+        "Campaign_Name": "BAU-Android-Dankuni-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 6,
+        "Cost": 313.41121400000003,
+        "Impressions": 2398,
+        "Clicks": 85
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dehradun",
+        "Campaign_Name": "BAU-Android-Dehradun-City-Platform-FTU_Firebase_Apr24",
+        "Installs": 4010,
+        "Cost": 190223.625615,
+        "Impressions": 3280970,
+        "Clicks": 36407
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Delhi",
+        "Campaign_Name": "BAU-Android-Delhi-City-Platform-Install_Firebase_Aug25",
+        "Installs": 140941,
+        "Cost": 3905386.167639,
+        "Impressions": 50910096,
+        "Clicks": 837953
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Delhi",
+        "Campaign_Name": "BAU-Android-Delhi-City-Platform-MetroTicket_Firebase_Sep25",
+        "Installs": 2078,
+        "Cost": 64100.215498,
+        "Impressions": 694899,
+        "Clicks": 4928
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Deoband",
+        "Campaign_Name": "BAU-Android-Deoband-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 22,
+        "Cost": 1130.535419,
+        "Impressions": 25995,
+        "Clicks": 1027
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dhar",
+        "Campaign_Name": "BAU-Android-Dhar-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 8,
+        "Cost": 529.600501,
+        "Impressions": 11330,
+        "Clicks": 439
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dholpur",
+        "Campaign_Name": "BAU-Android-Dholpur-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 25,
+        "Cost": 1609.1905590000001,
+        "Impressions": 41545,
+        "Clicks": 1848
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dibrugarh",
+        "Campaign_Name": "BAU-Android-Dibrugarh-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 212,
+        "Cost": 11435.176857999999,
+        "Impressions": 185307,
+        "Clicks": 2906
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dungarpur",
+        "Campaign_Name": "BAU-Android-Dungarpur-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 1,
+        "Cost": 240.62971100000001,
+        "Impressions": 6111,
+        "Clicks": 274
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Durgapur",
+        "Campaign_Name": "BAU-Android-Durgapur-City-Platform-FTU_Firebase_Oct25",
+        "Installs": 2253,
+        "Cost": 63837.9815,
+        "Impressions": 998837,
+        "Clicks": 6014
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dwarka",
+        "Campaign_Name": "BAU-Android-Dwarka-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 3,
+        "Cost": 120.557088,
+        "Impressions": 439,
+        "Clicks": 24
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Eluru",
+        "Campaign_Name": "BAU-Android-Eluru-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 365,
+        "Cost": 13035.012781,
+        "Impressions": 234789,
+        "Clicks": 4170
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Gorakhpur",
+        "Campaign_Name": "BAU-Android-Gorakhpur-City-Platform-FTU_Firebase_Jul25",
+        "Installs": 2112,
+        "Cost": 75457.137592,
+        "Impressions": 1108839,
+        "Clicks": 12471
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Gudivada",
+        "Campaign_Name": "BAU-Android-Gudivada-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 132,
+        "Cost": 8676.489529,
+        "Impressions": 157340,
+        "Clicks": 2546
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Gujrat",
+        "Campaign_Name": "BAU-Android-Gujrat-City-Platform-FTU_Firebase_Jan25",
+        "Installs": 1869,
+        "Cost": 72020.588432,
+        "Impressions": 1362619,
+        "Clicks": 20978
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Gujrat",
+        "Campaign_Name": "BAU-Android-Gujrat-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 3160,
+        "Cost": 186218.734916,
+        "Impressions": 3063771,
+        "Clicks": 83645
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Guwahati",
+        "Campaign_Name": "BAU-Android-Guwahati-City-Platform-Install_Firebase_Jan23",
+        "Installs": 7653,
+        "Cost": 144718.24757,
+        "Impressions": 1601988,
+        "Clicks": 16234
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Gwalior",
+        "Campaign_Name": "BAU-Android-Gwalior-City-Platform-FTU_Firebase_Jul25",
+        "Installs": 1159,
+        "Cost": 29707.248974,
+        "Impressions": 496993,
+        "Clicks": 4160
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Harda",
+        "Campaign_Name": "BAU-Android-Harda-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 14,
+        "Cost": 470.72480199999995,
+        "Impressions": 12178,
+        "Clicks": 502
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Haryana",
+        "Campaign_Name": "BAU-Android-Haryana-City-Platform-FTU_Firebase_Jul25",
+        "Installs": 3539,
+        "Cost": 108448.151431,
+        "Impressions": 1588079,
+        "Clicks": 12665
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Haryana",
+        "Campaign_Name": "BAU-Android-Haryana-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 233,
+        "Cost": 14788.948139,
+        "Impressions": 255681,
+        "Clicks": 6927
+    },
+    {
+        "Week": "2026-W09",
+        "City": "HimanchalPradesh",
+        "Campaign_Name": "BAU-Android-HimanchalPradesh-City-Platform-FTU_Firebase_Sep25",
+        "Installs": 64,
+        "Cost": 4393.660777,
+        "Impressions": 97084,
+        "Clicks": 975
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Hisar",
+        "Campaign_Name": "BAU-Android-Hisar-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 493,
+        "Cost": 21432.914204,
+        "Impressions": 326692,
+        "Clicks": 4956
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Hyderabad",
+        "Campaign_Name": "BAU-Android-Hyderabad-City-Platform-FTU_Firebase_Nov25_Search",
+        "Installs": 51354,
+        "Cost": 135799.208454,
+        "Impressions": 991656,
+        "Clicks": 73652
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Hyderabad",
+        "Campaign_Name": "BAU-Android-Hyderabad-Pincode-Platform-FTU_Firebase_May25",
+        "Installs": 10013,
+        "Cost": 103116.667627,
+        "Impressions": 1202568,
+        "Clicks": 36649
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Indore",
+        "Campaign_Name": "BAU-Android-Indore-City-Platform-FTU_Firebase_Jan23",
+        "Installs": 13419,
+        "Cost": 167998.009286,
+        "Impressions": 2198424,
+        "Clicks": 28635
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jabalpur",
+        "Campaign_Name": "BAU-Android-Jabalpur-City-Platform-FTU_Firebase_Jul25",
+        "Installs": 1660,
+        "Cost": 54627.234377,
+        "Impressions": 1227861,
+        "Clicks": 6754
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jagdalpur Bastar",
+        "Campaign_Name": "BAU-Android-Jagdalpur Bastar-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 319,
+        "Cost": 15644.927009,
+        "Impressions": 212106,
+        "Clicks": 14075
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jaipur",
+        "Campaign_Name": "BAU-Android-Jaipur-City-Platform-Install_Firebase_Apr25",
+        "Installs": 29011,
+        "Cost": 403260.107411,
+        "Impressions": 3399400,
+        "Clicks": 194129
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jalandhar",
+        "Campaign_Name": "BAU-Android-Jalandhar-City-Platform-FTU_Firebase_Feb25",
+        "Installs": 1052,
+        "Cost": 42146.461714,
+        "Impressions": 360919,
+        "Clicks": 2894
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jammu",
+        "Campaign_Name": "BAU-Android-Jammu-City-Platform-FTU_Firebase_Sep25",
+        "Installs": 4627,
+        "Cost": 112013.789371,
+        "Impressions": 1967776,
+        "Clicks": 12475
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jamnagar",
+        "Campaign_Name": "BAU-Android-Jamnagar-City-Platform-FTU_Firebase_Oct25",
+        "Installs": 557,
+        "Cost": 22569.461539,
+        "Impressions": 451601,
+        "Clicks": 3468
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jamsedhpur",
+        "Campaign_Name": "BAU-Android-Jamsedhpur-City-Platform-FTU_Firebase_Feb25",
+        "Installs": 2892,
+        "Cost": 106388.939767,
+        "Impressions": 1917633,
+        "Clicks": 16555
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jhalawar",
+        "Campaign_Name": "BAU-Android-Jhalawar-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 2,
+        "Cost": 287.212576,
+        "Impressions": 2263,
+        "Clicks": 116
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jharkhand",
+        "Campaign_Name": "BAU-Android-Jharkhand-City-Platform-FTU_Firebase_Aug25",
+        "Installs": 898,
+        "Cost": 26475.730476,
+        "Impressions": 459353,
+        "Clicks": 4009
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jharkhand",
+        "Campaign_Name": "BAU-Android-Jharkhand-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 945,
+        "Cost": 53148.577203,
+        "Impressions": 1088728,
+        "Clicks": 38954
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jodhpur",
+        "Campaign_Name": "BAU-Android-Jodhpur-City-Platform-FTU_Firebase_Sep24",
+        "Installs": 4789,
+        "Cost": 188049.767588,
+        "Impressions": 4083382,
+        "Clicks": 37652
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jorhat",
+        "Campaign_Name": "BAU-Android-Jorhat-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 141,
+        "Cost": 7494.638451,
+        "Impressions": 128567,
+        "Clicks": 2091
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kadapa",
+        "Campaign_Name": "BAU-Android-Kadapa-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 307,
+        "Cost": 13109.456548,
+        "Impressions": 280868,
+        "Clicks": 5487
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kakinada",
+        "Campaign_Name": "BAU-Android-Kakinada-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 712,
+        "Cost": 27389.655636,
+        "Impressions": 404431,
+        "Clicks": 6163
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kanpur",
+        "Campaign_Name": "BAU-Android-Kanpur-City-Platform-FTU_Firebase_Jul25",
+        "Installs": 6017,
+        "Cost": 204188.940124,
+        "Impressions": 3200237,
+        "Clicks": 26377
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Karaikudi",
+        "Campaign_Name": "BAU-Android-Karaikudi-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 36,
+        "Cost": 2064.6517989999998,
+        "Impressions": 37458,
+        "Clicks": 318
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Karimnagar",
+        "Campaign_Name": "BAU-Android-Karimnagar-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 413,
+        "Cost": 15533.476541,
+        "Impressions": 261516,
+        "Clicks": 4632
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Karnal",
+        "Campaign_Name": "BAU-Android-Karnal-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 302,
+        "Cost": 12090.614322,
+        "Impressions": 204361,
+        "Clicks": 1730
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Karnataka",
+        "Campaign_Name": "BAU-Android-Karnataka-City-Platform-FTU_Firebase_Aug25",
+        "Installs": 1654,
+        "Cost": 69780.050144,
+        "Impressions": 963716,
+        "Clicks": 16096
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Karnataka",
+        "Campaign_Name": "BAU-Android-Karnataka-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 981,
+        "Cost": 124874.247927,
+        "Impressions": 1759345,
+        "Clicks": 56890
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Khammam",
+        "Campaign_Name": "BAU-Android-Khammam-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 460,
+        "Cost": 16634.143863,
+        "Impressions": 281064,
+        "Clicks": 4699
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Khandwa",
+        "Campaign_Name": "BAU-Android-Khandwa-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 28,
+        "Cost": 1536.016433,
+        "Impressions": 29820,
+        "Clicks": 1079
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kochi",
+        "Campaign_Name": "BAU-Android-Kochi-City-Platform-FTU_Firebase_Sep24",
+        "Installs": 3638,
+        "Cost": 151215.855508,
+        "Impressions": 1452056,
+        "Clicks": 11490
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kolkata",
+        "Campaign_Name": "BAU-Android-Kolkata-City-Platform-FTU_Firebase_May22",
+        "Installs": 18391,
+        "Cost": 687450.144753,
+        "Impressions": 13087731,
+        "Clicks": 119174
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kota",
+        "Campaign_Name": "BAU-Android-Kota-City-Platform-FTU_Firebase_Jul25",
+        "Installs": 2070,
+        "Cost": 67612.01063399999,
+        "Impressions": 1347988,
+        "Clicks": 9458
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kothagudem",
+        "Campaign_Name": "BAU-Android-Kothagudem-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 120,
+        "Cost": 4666.487573,
+        "Impressions": 89849,
+        "Clicks": 1672
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Krishnanagar",
+        "Campaign_Name": "BAU-Android-Krishnanagar-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 180,
+        "Cost": 9317.156504,
+        "Impressions": 184050,
+        "Clicks": 1608
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kurnool",
+        "Campaign_Name": "BAU-Android-Kurnool-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 1344,
+        "Cost": 46066.619247,
+        "Impressions": 844891,
+        "Clicks": 9594
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Lucknow",
+        "Campaign_Name": "BAU-Android-Lucknow-City-Platform-FTU_Firebase_Sep24",
+        "Installs": 19351,
+        "Cost": 525577.689111,
+        "Impressions": 7726913,
+        "Clicks": 84104
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ludhiana",
+        "Campaign_Name": "BAU-Android-Ludhiana-City-Platform-FTU_Firebase_Apr24",
+        "Installs": 8254,
+        "Cost": 158760.909009,
+        "Impressions": 1777507,
+        "Clicks": 17128
+    },
+    {
+        "Week": "2026-W09",
+        "City": "MP",
+        "Campaign_Name": "BAU-Android-MP-City-Platform-FTU_Firebase_Apr25",
+        "Installs": 1686,
+        "Cost": 42506.31449,
+        "Impressions": 737766,
+        "Clicks": 12746
+    },
+    {
+        "Week": "2026-W09",
+        "City": "MP",
+        "Campaign_Name": "BAU-Android-MP-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 2416,
+        "Cost": 104966.572235,
+        "Impressions": 2189214,
+        "Clicks": 71325
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Machilipatnam",
+        "Campaign_Name": "BAU-Android-Machilipatnam-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 127,
+        "Cost": 8851.65386,
+        "Impressions": 101076,
+        "Clicks": 861
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Madanapalle",
+        "Campaign_Name": "BAU-Android-Madanapalle-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 213,
+        "Cost": 9318.101311,
+        "Impressions": 178251,
+        "Clicks": 3071
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Madurai",
+        "Campaign_Name": "BAU-Android-Madurai-City-Platform-FTU_Firebase_Sep24",
+        "Installs": 3252,
+        "Cost": 72193.489426,
+        "Impressions": 1001002,
+        "Clicks": 8331
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Maharashtra",
+        "Campaign_Name": "BAU-Android-Maharashtra-City-Platform-FTU_Firebase_Aug25",
+        "Installs": 745,
+        "Cost": 28183.156579000002,
+        "Impressions": 261937,
+        "Clicks": 1836
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Mahbubnagar",
+        "Campaign_Name": "BAU-Android-Mahbubnagar-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 173,
+        "Cost": 7609.330892,
+        "Impressions": 109673,
+        "Clicks": 1153
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Mandsaur",
+        "Campaign_Name": "BAU-Android-Mandsaur-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 18,
+        "Cost": 1001.1078759999999,
+        "Impressions": 16020,
+        "Clicks": 399
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Mangalore",
+        "Campaign_Name": "BAU-Android-Mangalore-City-Platform-FTU_Firebase_Sep25",
+        "Installs": 298,
+        "Cost": 11056.435123,
+        "Impressions": 94008,
+        "Clicks": 1279
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Meerut",
+        "Campaign_Name": "BAU-Android-Meerut-City-Platform-FTU_Firebase_Jul25",
+        "Installs": 4376,
+        "Cost": 127704.162849,
+        "Impressions": 1558521,
+        "Clicks": 12824
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Meghalaya",
+        "Campaign_Name": "BAU-Android-Meghalaya-City-Platform-FTU_Firebase_Aug25",
+        "Installs": 44,
+        "Cost": 3987.26316,
+        "Impressions": 100347,
+        "Clicks": 424
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Moradabad",
+        "Campaign_Name": "BAU-Android-Moradabad-City-Platform-FTU_Firebase_Jul25",
+        "Installs": 1175,
+        "Cost": 39770.333763,
+        "Impressions": 721197,
+        "Clicks": 7149
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Mumbai",
+        "Campaign_Name": "BAU-Android-Mumbai-City-Platform-FTU_Firebase_Feb24",
+        "Installs": 49617,
+        "Cost": 2074149.8437760002,
+        "Impressions": 31120957,
+        "Clicks": 197598
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Murshidabad",
+        "Campaign_Name": "BAU-Android-Murshidabad-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 25,
+        "Cost": 2251.801417,
+        "Impressions": 49260,
+        "Clicks": 543
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Muzaffarpur",
+        "Campaign_Name": "BAU-Android-Muzaffarpur-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 1065,
+        "Cost": 36332.839809,
+        "Impressions": 545092,
+        "Clicks": 6691
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Mysore",
+        "Campaign_Name": "BAU-Android-Mysore-City-Platform-FTU_Firebase_Sep25",
+        "Installs": 3253,
+        "Cost": 123838.674561,
+        "Impressions": 1549818,
+        "Clicks": 20163
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nagaur",
+        "Campaign_Name": "BAU-Android-Nagaur-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 12,
+        "Cost": 1423.83523,
+        "Impressions": 32351,
+        "Clicks": 1103
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nagpur",
+        "Campaign_Name": "BAU-Android-Nagpur-City-Platform-FTU_Firebase_Jan25",
+        "Installs": 7442,
+        "Cost": 285064.08648,
+        "Impressions": 4066685,
+        "Clicks": 29113
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nalgonda",
+        "Campaign_Name": "BAU-Android-Nalgonda-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 211,
+        "Cost": 9344.032101,
+        "Impressions": 170173,
+        "Clicks": 2825
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Namakal",
+        "Campaign_Name": "BAU-Android-Namakal-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 107,
+        "Cost": 6439.100409,
+        "Impressions": 101482,
+        "Clicks": 1952
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Narasaraopet",
+        "Campaign_Name": "BAU-Android-Narasaraopet-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 190,
+        "Cost": 8166.3868330000005,
+        "Impressions": 136305,
+        "Clicks": 1967
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Narsinghpur",
+        "Campaign_Name": "BAU-Android-Narsinghpur-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 16,
+        "Cost": 1001.239163,
+        "Impressions": 25025,
+        "Clicks": 1013
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nashik",
+        "Campaign_Name": "BAU-Android-Nashik-City-Platform-FTU_Firebase_July25",
+        "Installs": 2996,
+        "Cost": 101333.722059,
+        "Impressions": 1114355,
+        "Clicks": 7531
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Neemuch",
+        "Campaign_Name": "BAU-Android-Neemuch-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 14,
+        "Cost": 828.23892,
+        "Impressions": 20558,
+        "Clicks": 802
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nellore",
+        "Campaign_Name": "BAU-Android-Nellore-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 834,
+        "Cost": 35973.267792,
+        "Impressions": 509458,
+        "Clicks": 8653
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nizamabad",
+        "Campaign_Name": "BAU-Android-Nizamabad-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 491,
+        "Cost": 17202.17043,
+        "Impressions": 350363,
+        "Clicks": 6907
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Odisha",
+        "Campaign_Name": "BAU-Android-Odisha-City-Platform-FTU_Firebase_Apr25",
+        "Installs": 1252,
+        "Cost": 47920.598058999996,
+        "Impressions": 770150,
+        "Clicks": 4377
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Odisha",
+        "Campaign_Name": "BAU-Android-Odisha-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 988,
+        "Cost": 67915.068037,
+        "Impressions": 1442679,
+        "Clicks": 40108
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ongole",
+        "Campaign_Name": "BAU-Android-Ongole-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 325,
+        "Cost": 13337.92416,
+        "Impressions": 229110,
+        "Clicks": 3224
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Patiala",
+        "Campaign_Name": "BAU-Android-Patiala-City-Platform-FTU_Firebase_May24",
+        "Installs": 255,
+        "Cost": 11703.130582,
+        "Impressions": 120937,
+        "Clicks": 841
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Patna",
+        "Campaign_Name": "BAU-Android-Patna-City-Platform-FTU_Firebase_Jul23",
+        "Installs": 18065,
+        "Cost": 397826.710551,
+        "Impressions": 7323595,
+        "Clicks": 62569
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Pollachi",
+        "Campaign_Name": "BAU-Android-Pollachi-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 38,
+        "Cost": 4301.859342,
+        "Impressions": 58098,
+        "Clicks": 346
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Pratapgarh",
+        "Campaign_Name": "BAU-Android-Pratapgarh-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 40,
+        "Cost": 2710.849411,
+        "Impressions": 40069,
+        "Clicks": 1365
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Prayagraj",
+        "Campaign_Name": "BAU-Android-Prayagraj-City-Platform-FTU_Firebase_Jul25",
+        "Installs": 5159,
+        "Cost": 196514.711292,
+        "Impressions": 3892840,
+        "Clicks": 48878
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Puducherry",
+        "Campaign_Name": "BAU-Android-Puducherry-City-Platform-FTU_Firebase_Oct25",
+        "Installs": 258,
+        "Cost": 8960.316182,
+        "Impressions": 114129,
+        "Clicks": 1591
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Pune",
+        "Campaign_Name": "BAU-Android-Pune-City-Platform-FTU_Firebase_Feb24",
+        "Installs": 30558,
+        "Cost": 786895.734372,
+        "Impressions": 8449050,
+        "Clicks": 192579
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Punjab",
+        "Campaign_Name": "BAU-Android-Punjab-City-Platform-FTU_Firebase_Aug25",
+        "Installs": 462,
+        "Cost": 11983.128176999999,
+        "Impressions": 99965,
+        "Clicks": 944
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Punjab",
+        "Campaign_Name": "BAU-Android-Punjab-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 1155,
+        "Cost": 74228.584751,
+        "Impressions": 1331511,
+        "Clicks": 46079
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Raigarh",
+        "Campaign_Name": "BAU-Android-Raigarh-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 53,
+        "Cost": 2916.9996069999997,
+        "Impressions": 54514,
+        "Clicks": 1316
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Raipur",
+        "Campaign_Name": "BAU-Android-Raipur-City-Platform-FTU_Firebase_Jul25",
+        "Installs": 2956,
+        "Cost": 115552.71623,
+        "Impressions": 2245378,
+        "Clicks": 21454
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Rajahmundry",
+        "Campaign_Name": "BAU-Android-Rajahmundry-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 701,
+        "Cost": 29732.044949,
+        "Impressions": 448361,
+        "Clicks": 8555
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Rajasthan",
+        "Campaign_Name": "BAU-Android-Rajasthan-City-Platform-FTU_Firebase_Apr25",
+        "Installs": 1343,
+        "Cost": 40028.379328,
+        "Impressions": 698887,
+        "Clicks": 8255
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Rajasthan",
+        "Campaign_Name": "BAU-Android-Rajasthan-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 1878,
+        "Cost": 106335.070937,
+        "Impressions": 2111692,
+        "Clicks": 63805
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Rajkot",
+        "Campaign_Name": "BAU-Android-Rajkot-City-Platform-FTU_Firebase_Sep24",
+        "Installs": 6324,
+        "Cost": 207313.857133,
+        "Impressions": 4112100,
+        "Clicks": 35272
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Rajsamand",
+        "Campaign_Name": "BAU-Android-Rajsamand-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 14,
+        "Cost": 1019.6580160000001,
+        "Impressions": 23926,
+        "Clicks": 954
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ramagundam",
+        "Campaign_Name": "BAU-Android-Ramagundam-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 210,
+        "Cost": 10182.279699,
+        "Impressions": 208117,
+        "Clicks": 3475
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ranchi",
+        "Campaign_Name": "BAU-Android-Ranchi-City-Platform-FTU_Firebase_Apr24",
+        "Installs": 1466,
+        "Cost": 60171.666894,
+        "Impressions": 811975,
+        "Clicks": 11483
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Saharanpur",
+        "Campaign_Name": "BAU-Android-Saharanpur-City-Platform-FTU_Firebase_Jul25",
+        "Installs": 325,
+        "Cost": 12943.270687,
+        "Impressions": 290644,
+        "Clicks": 1672
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Saharsa",
+        "Campaign_Name": "BAU-Android-Saharsa-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 76,
+        "Cost": 4284.193373,
+        "Impressions": 102782,
+        "Clicks": 3555
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Salem",
+        "Campaign_Name": "BAU-Android-Salem-City-Platform-FTU_Firebase_Apr25",
+        "Installs": 2323,
+        "Cost": 53830.562912,
+        "Impressions": 790649,
+        "Clicks": 5857
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Sambalpur",
+        "Campaign_Name": "BAU-Android-Sambalpur-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 174,
+        "Cost": 10606.254222,
+        "Impressions": 199786,
+        "Clicks": 1834
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Sasaram",
+        "Campaign_Name": "BAU-Android-Sasaram-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 20,
+        "Cost": 1300.825113,
+        "Impressions": 33447,
+        "Clicks": 817
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Shaheed Bhagat Nagar",
+        "Campaign_Name": "BAU-Android-Shaheed Bhagat Nagar-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 323,
+        "Cost": 15790.209953,
+        "Impressions": 173107,
+        "Clicks": 4378
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Shillong",
+        "Campaign_Name": "BAU-Android-Shillong-Other-Platform-FTU_Firebase_Dec25",
+        "Installs": 458,
+        "Cost": 23280.496089,
+        "Impressions": 331016,
+        "Clicks": 4022
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Shimla",
+        "Campaign_Name": "BAU-Android-Shimla-City-Platform-FTU_Firebase_Jul25",
+        "Installs": 904,
+        "Cost": 27288.698494,
+        "Impressions": 391413,
+        "Clicks": 2732
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Silchar",
+        "Campaign_Name": "BAU-Android-Silchar-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 151,
+        "Cost": 9911.330487,
+        "Impressions": 126334,
+        "Clicks": 1455
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Siliguri",
+        "Campaign_Name": "BAU-Android-Siliguri-City-Platform-FTU_Firebase_Oct25",
+        "Installs": 4690,
+        "Cost": 146817.152814,
+        "Impressions": 2230434,
+        "Clicks": 17449
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Surajpur",
+        "Campaign_Name": "BAU-Android-Surajpur-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 1,
+        "Cost": 134.686561,
+        "Impressions": 3219,
+        "Clicks": 103
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Surat",
+        "Campaign_Name": "BAU-Android-Surat-City-Platform-FTU_Firebase_Apr24",
+        "Installs": 11485,
+        "Cost": 735569.091222,
+        "Impressions": 18519015,
+        "Clicks": 268469
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tamil Nadu",
+        "Campaign_Name": "BAU-Android-Tamil Nadu-City-Platform-FTU_Firebase_Jan25",
+        "Installs": 1441,
+        "Cost": 44979.83132,
+        "Impressions": 640221,
+        "Clicks": 11128
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Telangana",
+        "Campaign_Name": "BAU-Android-Telangana-City-Platform-FTU_Firebase_Nov24",
+        "Installs": 705,
+        "Cost": 22944.010497,
+        "Impressions": 548224,
+        "Clicks": 12927
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Telangana",
+        "Campaign_Name": "BAU-Android-Telangana-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 62,
+        "Cost": 2558.62153,
+        "Impressions": 41525,
+        "Clicks": 735
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tezpur",
+        "Campaign_Name": "BAU-Android-Tezpur-City-Platform-FTU_Firebase_Apr25",
+        "Installs": 68,
+        "Cost": 4143.705722,
+        "Impressions": 93315,
+        "Clicks": 1174
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tinsukia",
+        "Campaign_Name": "BAU-Android-Tinsukia-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 45,
+        "Cost": 1883.893728,
+        "Impressions": 29883,
+        "Clicks": 1129
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tirupati",
+        "Campaign_Name": "BAU-Android-Tirupati-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 3214,
+        "Cost": 97349.66011,
+        "Impressions": 1947359,
+        "Clicks": 18347
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tiruppur",
+        "Campaign_Name": "BAU-Android-Tiruppur-City-Platform-FTU_Firebase_Oct25",
+        "Installs": 763,
+        "Cost": 36348.236503,
+        "Impressions": 552121,
+        "Clicks": 10839
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Trichy",
+        "Campaign_Name": "BAU-Android-Trichy-City-Platform-FTU_Firebase_March25",
+        "Installs": 745,
+        "Cost": 35071.196891,
+        "Impressions": 484327,
+        "Clicks": 5049
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Trivandrum",
+        "Campaign_Name": "BAU-Android-Trivandrum-City-Platform-FTU_Firebase_Apr24",
+        "Installs": 1551,
+        "Cost": 68149.992183,
+        "Impressions": 656023,
+        "Clicks": 5507
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tumakuru",
+        "Campaign_Name": "BAU-Android-Tumakuru-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 186,
+        "Cost": 8665.321648,
+        "Impressions": 65328,
+        "Clicks": 960
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Udaipur",
+        "Campaign_Name": "BAU-Android-Udaipur-City-Platform-Install_Firebase_Feb26",
+        "Installs": 3441,
+        "Cost": 59674.870607,
+        "Impressions": 655002,
+        "Clicks": 7520
+    },
+    {
+        "Week": "2026-W09",
+        "City": "UttarPradesh",
+        "Campaign_Name": "BAU-Android-UttarPradesh-Central-Platform-FTU_Firebase_Jul25",
+        "Installs": 1453,
+        "Cost": 45235.483342,
+        "Impressions": 928762,
+        "Clicks": 7334
+    },
+    {
+        "Week": "2026-W09",
+        "City": "UttarPradesh",
+        "Campaign_Name": "BAU-Android-UttarPradesh-East-Platform-FTU_Firebase_Jul25",
+        "Installs": 841,
+        "Cost": 38946.055963,
+        "Impressions": 721852,
+        "Clicks": 7062
+    },
+    {
+        "Week": "2026-W09",
+        "City": "UttarPradesh",
+        "Campaign_Name": "BAU-Android-UttarPradesh-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 952,
+        "Cost": 42445.049138,
+        "Impressions": 887484,
+        "Clicks": 29330
+    },
+    {
+        "Week": "2026-W09",
+        "City": "UttarPradesh",
+        "Campaign_Name": "BAU-Android-UttarPradesh-West-Platform-FTU_Firebase_Jul25",
+        "Installs": 1262,
+        "Cost": 38830.052511999995,
+        "Impressions": 750637,
+        "Clicks": 4632
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Uttarakhand",
+        "Campaign_Name": "BAU-Android-Uttarakhand-City-Platform-FTU_Firebase_Apr25",
+        "Installs": 225,
+        "Cost": 11838.036903,
+        "Impressions": 203277,
+        "Clicks": 2658
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Vadodara",
+        "Campaign_Name": "BAU-Android-Vadodara-City-Platform-FTU_Firebase_May24",
+        "Installs": 4905,
+        "Cost": 232905.305628,
+        "Impressions": 4341596,
+        "Clicks": 48629
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Varanasi",
+        "Campaign_Name": "BAU-Android-Varanasi-City-Platform-FTU_Firebase_Sep24",
+        "Installs": 6017,
+        "Cost": 227865.040572,
+        "Impressions": 3592508,
+        "Clicks": 35528
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Vijaywada",
+        "Campaign_Name": "BAU-Android-Vijaywada-City-Platform-FTU_Firebase_Jun23",
+        "Installs": 4623,
+        "Cost": 144002.514457,
+        "Impressions": 2271239,
+        "Clicks": 27240
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Villupuram",
+        "Campaign_Name": "BAU-Android-Villupuram-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 60,
+        "Cost": 4753.044728,
+        "Impressions": 92216,
+        "Clicks": 1486
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Virudhunagar",
+        "Campaign_Name": "BAU-Android-Virudhunagar-City-Platform-FTU_Firebase_Dec25",
+        "Installs": 47,
+        "Cost": 3265.5095739999997,
+        "Impressions": 45298,
+        "Clicks": 695
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Visakhapatnam",
+        "Campaign_Name": "BAU-Android-Visakhapatnam-City-Platform-FTU_Firebase_Mar23",
+        "Installs": 4093,
+        "Cost": 87053.166599,
+        "Impressions": 1018852,
+        "Clicks": 13084
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Warangal",
+        "Campaign_Name": "BAU-Android-Warangal-City-Platform-FTU_Firebase_May24",
+        "Installs": 701,
+        "Cost": 27793.499042,
+        "Impressions": 581010,
+        "Clicks": 10661
+    },
+    {
+        "Week": "2026-W09",
+        "City": "West Bengal",
+        "Campaign_Name": "BAU-Android-West Bengal-NewLaunch-Platform-FTU_Firebase_Feb26",
+        "Installs": 301,
+        "Cost": 9888.462996,
+        "Impressions": 162938,
+        "Clicks": 3856
+    },
+    {
+        "Week": "2026-W09",
+        "City": "bhuvangiri",
+        "Campaign_Name": "BAU-Android-bhuvangiri-City-Platform-FTU_Firebase_Sep25",
+        "Installs": 47,
+        "Cost": 2715.210487,
+        "Impressions": 49085,
+        "Clicks": 670
+    }
+]

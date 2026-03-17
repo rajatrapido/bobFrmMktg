@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+google-ads
+google-cloud-firestore
+google-generativeai
+pandas
+numpy
+fpdf2
+python-dotenv
+gspread
+google-cloud-storage
+google-auth
+apscheduler
+firebase-admin
+google-auth-oauthlib

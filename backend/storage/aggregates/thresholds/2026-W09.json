@@ -1,0 +1,10 @@
+{
+  "min_impressions": 18115,
+  "min_clicks": 4,
+  "min_installs": 1,
+  "impact_floor_ratio": 0.015,
+  "pct_change_floor": 12.0,
+  "zscore_floor": 1.5,
+  "city_coverage_target": 0.4,
+  "city_contrib_floor": 0.05
+}

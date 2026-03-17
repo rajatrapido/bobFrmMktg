@@ -1,0 +1,5933 @@
+[
+    {
+        "Week": "2026-W09",
+        "City": "Agartala",
+        "Ad Network Type": "CONTENT",
+        "Installs": 362,
+        "Cost": 32486.393915999997,
+        "Impressions": 609017,
+        "Clicks": 2082
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Agartala",
+        "Ad Network Type": "SEARCH",
+        "Installs": 817,
+        "Cost": 11602.962088,
+        "Impressions": 21445,
+        "Clicks": 1391
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Agartala",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 3,
+        "Cost": 56.66,
+        "Impressions": 711,
+        "Clicks": 10
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Agartala",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 14,
+        "Cost": 347.436244,
+        "Impressions": 6199,
+        "Clicks": 102
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Agra",
+        "Ad Network Type": "CONTENT",
+        "Installs": 1963,
+        "Cost": 62866.933721999994,
+        "Impressions": 1407231,
+        "Clicks": 5505
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Agra",
+        "Ad Network Type": "SEARCH",
+        "Installs": 6737,
+        "Cost": 65640.567177,
+        "Impressions": 90681,
+        "Clicks": 10870
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Agra",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 11,
+        "Cost": 214.43,
+        "Impressions": 1685,
+        "Clicks": 42
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Agra",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 28,
+        "Cost": 263.37017,
+        "Impressions": 3867,
+        "Clicks": 70
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ahmedabad",
+        "Ad Network Type": "CONTENT",
+        "Installs": 7990,
+        "Cost": 465044.511378,
+        "Impressions": 10446805,
+        "Clicks": 52587
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ahmedabad",
+        "Ad Network Type": "SEARCH",
+        "Installs": 9585,
+        "Cost": 216474.176303,
+        "Impressions": 370984,
+        "Clicks": 18923
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ahmedabad",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 42,
+        "Cost": 1757.5990219999999,
+        "Impressions": 6999,
+        "Clicks": 151
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ahmedabad",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 3221,
+        "Cost": 155012.665424,
+        "Impressions": 4985701,
+        "Clicks": 123181
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Aligarh",
+        "Ad Network Type": "CONTENT",
+        "Installs": 188,
+        "Cost": 11426.610427,
+        "Impressions": 291156,
+        "Clicks": 988
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Aligarh",
+        "Ad Network Type": "SEARCH",
+        "Installs": 342,
+        "Cost": 5850.186428,
+        "Impressions": 9732,
+        "Clicks": 630
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Aligarh",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 2,
+        "Cost": 43.05,
+        "Impressions": 388,
+        "Clicks": 6
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Aligarh",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 19,
+        "Cost": 1052.589634,
+        "Impressions": 25316,
+        "Clicks": 690
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Alwar",
+        "Ad Network Type": "CONTENT",
+        "Installs": 89,
+        "Cost": 4625.959756,
+        "Impressions": 85989,
+        "Clicks": 351
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Alwar",
+        "Ad Network Type": "SEARCH",
+        "Installs": 137,
+        "Cost": 2281.898951,
+        "Impressions": 5730,
+        "Clicks": 268
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Alwar",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 48.24,
+        "Impressions": 101,
+        "Clicks": 2
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Alwar",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 56,
+        "Cost": 2871.156681,
+        "Impressions": 75958,
+        "Clicks": 2106
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ambikapur",
+        "Ad Network Type": "CONTENT",
+        "Installs": 7,
+        "Cost": 709.226695,
+        "Impressions": 17006,
+        "Clicks": 291
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ambikapur",
+        "Ad Network Type": "SEARCH",
+        "Installs": 8,
+        "Cost": 126.043884,
+        "Impressions": 1378,
+        "Clicks": 25
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ambikapur",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 14,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ambikapur",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 4,
+        "Cost": 994.15181,
+        "Impressions": 27647,
+        "Clicks": 573
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Amritsar",
+        "Ad Network Type": "CONTENT",
+        "Installs": 387,
+        "Cost": 22718.262853,
+        "Impressions": 429498,
+        "Clicks": 1755
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Amritsar",
+        "Ad Network Type": "SEARCH",
+        "Installs": 962,
+        "Cost": 26279.59284,
+        "Impressions": 22205,
+        "Clicks": 1618
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Amritsar",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 3,
+        "Cost": 67.53,
+        "Impressions": 712,
+        "Clicks": 11
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Amritsar",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 39,
+        "Cost": 2108.3250829999997,
+        "Impressions": 43193,
+        "Clicks": 984
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Anand_Nadiad",
+        "Ad Network Type": "CONTENT",
+        "Installs": 143,
+        "Cost": 11912.614316,
+        "Impressions": 201640,
+        "Clicks": 883
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Anand_Nadiad",
+        "Ad Network Type": "SEARCH",
+        "Installs": 180,
+        "Cost": 3659.903045,
+        "Impressions": 7894,
+        "Clicks": 334
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Anand_Nadiad",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 1,
+        "Cost": 11.069999999999999,
+        "Impressions": 197,
+        "Clicks": 3
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Anand_Nadiad",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 93,
+        "Cost": 8987.410003,
+        "Impressions": 233203,
+        "Clicks": 4688
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Anantapur",
+        "Ad Network Type": "CONTENT",
+        "Installs": 675,
+        "Cost": 34581.64883,
+        "Impressions": 755855,
+        "Clicks": 3317
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Anantapur",
+        "Ad Network Type": "SEARCH",
+        "Installs": 811,
+        "Cost": 8467.781281,
+        "Impressions": 24366,
+        "Clicks": 1307
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Anantapur",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 2,
+        "Cost": 24.41,
+        "Impressions": 209,
+        "Clicks": 7
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Anantapur",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 186,
+        "Cost": 6969.406455,
+        "Impressions": 191036,
+        "Clicks": 4971
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Andhra Pradesh",
+        "Ad Network Type": "CONTENT",
+        "Installs": 458,
+        "Cost": 27042.225407,
+        "Impressions": 598678,
+        "Clicks": 5554
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Andhra Pradesh",
+        "Ad Network Type": "SEARCH",
+        "Installs": 343,
+        "Cost": 6516.0805789999995,
+        "Impressions": 12933,
+        "Clicks": 669
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Andhra Pradesh",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 2,
+        "Cost": 3.41,
+        "Impressions": 292,
+        "Clicks": 2
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Andhra Pradesh",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 239,
+        "Cost": 12150.862116,
+        "Impressions": 316586,
+        "Clicks": 7895
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Asansol",
+        "Ad Network Type": "CONTENT",
+        "Installs": 144,
+        "Cost": 9759.048309,
+        "Impressions": 230634,
+        "Clicks": 787
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Asansol",
+        "Ad Network Type": "SEARCH",
+        "Installs": 347,
+        "Cost": 5280.70564,
+        "Impressions": 8648,
+        "Clicks": 605
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Asansol",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 1,
+        "Cost": 32.181777,
+        "Impressions": 429,
+        "Clicks": 11
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Asansol",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 24,
+        "Cost": 830.756937,
+        "Impressions": 17101,
+        "Clicks": 317
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ashoknagar",
+        "Ad Network Type": "CONTENT",
+        "Installs": 8,
+        "Cost": 220.345137,
+        "Impressions": 4387,
+        "Clicks": 90
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ashoknagar",
+        "Ad Network Type": "SEARCH",
+        "Installs": 4,
+        "Cost": 26.484577,
+        "Impressions": 197,
+        "Clicks": 8
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ashoknagar",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 6,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ashoknagar",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 5,
+        "Cost": 235.491191,
+        "Impressions": 6278,
+        "Clicks": 228
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Assam",
+        "Ad Network Type": "CONTENT",
+        "Installs": 326,
+        "Cost": 20180.697261,
+        "Impressions": 539697,
+        "Clicks": 18569
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Assam",
+        "Ad Network Type": "SEARCH",
+        "Installs": 230,
+        "Cost": 4826.894704,
+        "Impressions": 7770,
+        "Clicks": 445
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Assam",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 2,
+        "Cost": 61.32,
+        "Impressions": 761,
+        "Clicks": 6
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Assam",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 186,
+        "Cost": 13803.157555000002,
+        "Impressions": 366510,
+        "Clicks": 10345
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Balaghat",
+        "Ad Network Type": "CONTENT",
+        "Installs": 5,
+        "Cost": 274.561365,
+        "Impressions": 4577,
+        "Clicks": 129
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Balaghat",
+        "Ad Network Type": "SEARCH",
+        "Installs": 1,
+        "Cost": 2.246423,
+        "Impressions": 223,
+        "Clicks": 2
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Balaghat",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 6,
+        "Cost": 228.28687200000002,
+        "Impressions": 6053,
+        "Clicks": 178
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Balotra",
+        "Ad Network Type": "CONTENT",
+        "Installs": 2,
+        "Cost": 140.242123,
+        "Impressions": 2790,
+        "Clicks": 77
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Balotra",
+        "Ad Network Type": "SEARCH",
+        "Installs": 0,
+        "Cost": 24.81,
+        "Impressions": 95,
+        "Clicks": 1
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Balotra",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 1,
+        "Cost": 191.840249,
+        "Impressions": 5243,
+        "Clicks": 181
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bangalore",
+        "Ad Network Type": "CONTENT",
+        "Installs": 5613,
+        "Cost": 129196.05121599999,
+        "Impressions": 3304720,
+        "Clicks": 33601
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bangalore",
+        "Ad Network Type": "SEARCH",
+        "Installs": 20842,
+        "Cost": 243177.084544,
+        "Impressions": 302119,
+        "Clicks": 32512
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bangalore",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 39,
+        "Cost": 891.656649,
+        "Impressions": 7381,
+        "Clicks": 107
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bangalore",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 2756,
+        "Cost": 110454.175462,
+        "Impressions": 3049775,
+        "Clicks": 72720
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bareilly",
+        "Ad Network Type": "CONTENT",
+        "Installs": 344,
+        "Cost": 21861.361112,
+        "Impressions": 495940,
+        "Clicks": 2097
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bareilly",
+        "Ad Network Type": "SEARCH",
+        "Installs": 628,
+        "Cost": 9274.329641,
+        "Impressions": 12673,
+        "Clicks": 1096
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bareilly",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 2,
+        "Cost": 14.11,
+        "Impressions": 324,
+        "Clicks": 4
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bareilly",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 26,
+        "Cost": 386.877778,
+        "Impressions": 6915,
+        "Clicks": 140
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Barnala",
+        "Ad Network Type": "CONTENT",
+        "Installs": 3,
+        "Cost": 266.563798,
+        "Impressions": 6413,
+        "Clicks": 184
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Barnala",
+        "Ad Network Type": "SEARCH",
+        "Installs": 0,
+        "Cost": 0.682183,
+        "Impressions": 229,
+        "Clicks": 1
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Barnala",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 3,
+        "Cost": 358.450328,
+        "Impressions": 8347,
+        "Clicks": 314
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Belgaum",
+        "Ad Network Type": "CONTENT",
+        "Installs": 200,
+        "Cost": 14217.164487,
+        "Impressions": 259678,
+        "Clicks": 1120
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Belgaum",
+        "Ad Network Type": "SEARCH",
+        "Installs": 612,
+        "Cost": 14007.310224,
+        "Impressions": 12617,
+        "Clicks": 1173
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Belgaum",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 3,
+        "Cost": 83.958847,
+        "Impressions": 1128,
+        "Clicks": 20
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Belgaum",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 45,
+        "Cost": 2648.407655,
+        "Impressions": 54290,
+        "Clicks": 1437
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bengal",
+        "Ad Network Type": "CONTENT",
+        "Installs": 909,
+        "Cost": 48269.641751,
+        "Impressions": 1239075,
+        "Clicks": 4047
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bengal",
+        "Ad Network Type": "SEARCH",
+        "Installs": 2344,
+        "Cost": 31040.569951,
+        "Impressions": 49085,
+        "Clicks": 3797
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bengal",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 9,
+        "Cost": 97.948035,
+        "Impressions": 1796,
+        "Clicks": 29
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bengal",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 138,
+        "Cost": 4763.801094,
+        "Impressions": 110094,
+        "Clicks": 2229
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bettiah",
+        "Ad Network Type": "CONTENT",
+        "Installs": 22,
+        "Cost": 994.061343,
+        "Impressions": 18064,
+        "Clicks": 512
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bettiah",
+        "Ad Network Type": "SEARCH",
+        "Installs": 10,
+        "Cost": 450.72436700000003,
+        "Impressions": 943,
+        "Clicks": 31
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bettiah",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 23,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bettiah",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 36,
+        "Cost": 2305.576473,
+        "Impressions": 65212,
+        "Clicks": 1534
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bhavnagar",
+        "Ad Network Type": "CONTENT",
+        "Installs": 135,
+        "Cost": 8988.606324,
+        "Impressions": 147478,
+        "Clicks": 1346
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bhavnagar",
+        "Ad Network Type": "SEARCH",
+        "Installs": 148,
+        "Cost": 2559.017693,
+        "Impressions": 5627,
+        "Clicks": 292
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bhavnagar",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 2,
+        "Cost": 59.58,
+        "Impressions": 254,
+        "Clicks": 7
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bhavnagar",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 121,
+        "Cost": 7140.304071,
+        "Impressions": 198378,
+        "Clicks": 4396
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bhilai",
+        "Ad Network Type": "CONTENT",
+        "Installs": 117,
+        "Cost": 5646.491936,
+        "Impressions": 119462,
+        "Clicks": 476
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bhilai",
+        "Ad Network Type": "SEARCH",
+        "Installs": 215,
+        "Cost": 3401.5264720000005,
+        "Impressions": 3656,
+        "Clicks": 365
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bhilai",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 1.95,
+        "Impressions": 161,
+        "Clicks": 1
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bhilai",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 39,
+        "Cost": 1547.0997799999998,
+        "Impressions": 41434,
+        "Clicks": 998
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bhiwadi",
+        "Ad Network Type": "CONTENT",
+        "Installs": 6,
+        "Cost": 204.42259,
+        "Impressions": 4202,
+        "Clicks": 124
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bhiwadi",
+        "Ad Network Type": "SEARCH",
+        "Installs": 3,
+        "Cost": 136.564673,
+        "Impressions": 210,
+        "Clicks": 8
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bhiwadi",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 4,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bhiwadi",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 4,
+        "Cost": 833.335345,
+        "Impressions": 19977,
+        "Clicks": 620
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bhopal",
+        "Ad Network Type": "CONTENT",
+        "Installs": 2318,
+        "Cost": 80779.746094,
+        "Impressions": 2236712,
+        "Clicks": 7956
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bhopal",
+        "Ad Network Type": "SEARCH",
+        "Installs": 3906,
+        "Cost": 43704.314689,
+        "Impressions": 53597,
+        "Clicks": 7035
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bhopal",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 4,
+        "Cost": 250.49374699999998,
+        "Impressions": 1435,
+        "Clicks": 19
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bhopal",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 316,
+        "Cost": 10670.92519,
+        "Impressions": 271794,
+        "Clicks": 5788
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bhubaneswar",
+        "Ad Network Type": "CONTENT",
+        "Installs": 2604,
+        "Cost": 137342.980006,
+        "Impressions": 3372928,
+        "Clicks": 11812
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bhubaneswar",
+        "Ad Network Type": "SEARCH",
+        "Installs": 5253,
+        "Cost": 137888.479465,
+        "Impressions": 112639,
+        "Clicks": 9532
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bhubaneswar",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 8,
+        "Cost": 688.968659,
+        "Impressions": 3535,
+        "Clicks": 45
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bhubaneswar",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 260,
+        "Cost": 8554.876607,
+        "Impressions": 198641,
+        "Clicks": 3386
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bihar",
+        "Ad Network Type": "CONTENT",
+        "Installs": 2134,
+        "Cost": 117348.473416,
+        "Impressions": 3110264,
+        "Clicks": 76072
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bihar",
+        "Ad Network Type": "SEARCH",
+        "Installs": 1716,
+        "Cost": 36803.905888,
+        "Impressions": 56234,
+        "Clicks": 3424
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bihar",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 20,
+        "Cost": 831.535534,
+        "Impressions": 2315,
+        "Clicks": 60
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bihar",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 793,
+        "Cost": 41103.910019999996,
+        "Impressions": 942834,
+        "Clicks": 42263
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bikaner",
+        "Ad Network Type": "CONTENT",
+        "Installs": 257,
+        "Cost": 14838.992011,
+        "Impressions": 315542,
+        "Clicks": 2161
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bikaner",
+        "Ad Network Type": "SEARCH",
+        "Installs": 303,
+        "Cost": 5142.049422,
+        "Impressions": 11111,
+        "Clicks": 559
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bikaner",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 1,
+        "Cost": 21.43,
+        "Impressions": 159,
+        "Clicks": 2
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Bikaner",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 84,
+        "Cost": 3470.645109,
+        "Impressions": 89533,
+        "Clicks": 1825
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Botad",
+        "Ad Network Type": "CONTENT",
+        "Installs": 2,
+        "Cost": 75.84193499999999,
+        "Impressions": 2000,
+        "Clicks": 30
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Botad",
+        "Ad Network Type": "SEARCH",
+        "Installs": 0,
+        "Cost": 3.291554,
+        "Impressions": 90,
+        "Clicks": 1
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Botad",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 4,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Botad",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 1,
+        "Cost": 133.770558,
+        "Impressions": 3285,
+        "Clicks": 169
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chakdaha",
+        "Ad Network Type": "CONTENT",
+        "Installs": 4,
+        "Cost": 238.073869,
+        "Impressions": 2753,
+        "Clicks": 95
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chakdaha",
+        "Ad Network Type": "SEARCH",
+        "Installs": 1,
+        "Cost": 46.6623,
+        "Impressions": 104,
+        "Clicks": 3
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chakdaha",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 4,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chakdaha",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 4,
+        "Cost": 44.243030000000005,
+        "Impressions": 1423,
+        "Clicks": 61
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chandausi",
+        "Ad Network Type": "CONTENT",
+        "Installs": 19,
+        "Cost": 527.490411,
+        "Impressions": 10623,
+        "Clicks": 283
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chandausi",
+        "Ad Network Type": "SEARCH",
+        "Installs": 3,
+        "Cost": 46.95181,
+        "Impressions": 293,
+        "Clicks": 10
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chandausi",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 9,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chandausi",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 12,
+        "Cost": 663.5296169999999,
+        "Impressions": 17211,
+        "Clicks": 692
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chandigarh",
+        "Ad Network Type": "CONTENT",
+        "Installs": 2422,
+        "Cost": 78297.177696,
+        "Impressions": 1435998,
+        "Clicks": 11892
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chandigarh",
+        "Ad Network Type": "SEARCH",
+        "Installs": 4399,
+        "Cost": 106635.597427,
+        "Impressions": 133931,
+        "Clicks": 8117
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chandigarh",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 18,
+        "Cost": 731.877428,
+        "Impressions": 2633,
+        "Clicks": 44
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chandigarh",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 383,
+        "Cost": 11883.982414,
+        "Impressions": 260725,
+        "Clicks": 11262
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chattisgarh",
+        "Ad Network Type": "CONTENT",
+        "Installs": 1475,
+        "Cost": 135720.232189,
+        "Impressions": 2223499,
+        "Clicks": 62473
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chattisgarh",
+        "Ad Network Type": "SEARCH",
+        "Installs": 205,
+        "Cost": 13404.329668,
+        "Impressions": 21945,
+        "Clicks": 582
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chattisgarh",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 4,
+        "Cost": 171.22,
+        "Impressions": 983,
+        "Clicks": 18
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chattisgarh",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 387,
+        "Cost": 60889.006773,
+        "Impressions": 1226466,
+        "Clicks": 29528
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chennai",
+        "Ad Network Type": "CONTENT",
+        "Installs": 2495,
+        "Cost": 65188.476533,
+        "Impressions": 1095221,
+        "Clicks": 12517
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chennai",
+        "Ad Network Type": "SEARCH",
+        "Installs": 4819,
+        "Cost": 64840.57258199999,
+        "Impressions": 165706,
+        "Clicks": 9533
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chennai",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 11,
+        "Cost": 427.18753499999997,
+        "Impressions": 2414,
+        "Clicks": 41
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chennai",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 308,
+        "Cost": 5656.688343,
+        "Impressions": 94914,
+        "Clicks": 2934
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chhapra",
+        "Ad Network Type": "CONTENT",
+        "Installs": 16,
+        "Cost": 678.568423,
+        "Impressions": 13034,
+        "Clicks": 306
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chhapra",
+        "Ad Network Type": "SEARCH",
+        "Installs": 5,
+        "Cost": 175.03506399999998,
+        "Impressions": 780,
+        "Clicks": 15
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chhapra",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 12,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chhapra",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 16,
+        "Cost": 1117.13177,
+        "Impressions": 29047,
+        "Clicks": 983
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chhatarpur",
+        "Ad Network Type": "CONTENT",
+        "Installs": 4,
+        "Cost": 291.204497,
+        "Impressions": 5356,
+        "Clicks": 153
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chhatarpur",
+        "Ad Network Type": "SEARCH",
+        "Installs": 1,
+        "Cost": 16.126003,
+        "Impressions": 291,
+        "Clicks": 6
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chhatarpur",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 2,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chhatarpur",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 5,
+        "Cost": 160.132253,
+        "Impressions": 4478,
+        "Clicks": 164
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chhattisgarh",
+        "Ad Network Type": "CONTENT",
+        "Installs": 60,
+        "Cost": 5941.177361,
+        "Impressions": 122210,
+        "Clicks": 385
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chhattisgarh",
+        "Ad Network Type": "SEARCH",
+        "Installs": 104,
+        "Cost": 3426.601519,
+        "Impressions": 2258,
+        "Clicks": 188
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chhattisgarh",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 3.5,
+        "Impressions": 224,
+        "Clicks": 1
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chhattisgarh",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 24,
+        "Cost": 1303.630627,
+        "Impressions": 30967,
+        "Clicks": 494
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chittoor",
+        "Ad Network Type": "CONTENT",
+        "Installs": 66,
+        "Cost": 4160.834581,
+        "Impressions": 49818,
+        "Clicks": 370
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chittoor",
+        "Ad Network Type": "SEARCH",
+        "Installs": 84,
+        "Cost": 1019.426829,
+        "Impressions": 1920,
+        "Clicks": 134
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chittoor",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 1,
+        "Cost": 8.928258,
+        "Impressions": 50,
+        "Clicks": 1
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Chittoor",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 50,
+        "Cost": 2770.216614,
+        "Impressions": 78280,
+        "Clicks": 1539
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Coimbatore",
+        "Ad Network Type": "CONTENT",
+        "Installs": 2326,
+        "Cost": 104595.78012299999,
+        "Impressions": 2899738,
+        "Clicks": 12019
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Coimbatore",
+        "Ad Network Type": "SEARCH",
+        "Installs": 4716,
+        "Cost": 63739.057559,
+        "Impressions": 73173,
+        "Clicks": 8698
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Coimbatore",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 10,
+        "Cost": 249.879492,
+        "Impressions": 2224,
+        "Clicks": 38
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Coimbatore",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 383,
+        "Cost": 14761.442458,
+        "Impressions": 410468,
+        "Clicks": 9290
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dahod",
+        "Ad Network Type": "CONTENT",
+        "Installs": 7,
+        "Cost": 456.81375199999997,
+        "Impressions": 8212,
+        "Clicks": 204
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dahod",
+        "Ad Network Type": "SEARCH",
+        "Installs": 0,
+        "Cost": 36.702523,
+        "Impressions": 274,
+        "Clicks": 4
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dahod",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 1,
+        "Cost": 38.91,
+        "Impressions": 3,
+        "Clicks": 1
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dahod",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 3,
+        "Cost": 161.06624,
+        "Impressions": 4022,
+        "Clicks": 153
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dankuni",
+        "Ad Network Type": "CONTENT",
+        "Installs": 3,
+        "Cost": 101.838119,
+        "Impressions": 1091,
+        "Clicks": 47
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dankuni",
+        "Ad Network Type": "SEARCH",
+        "Installs": 3,
+        "Cost": 174.035514,
+        "Impressions": 43,
+        "Clicks": 6
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dankuni",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 7,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dankuni",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 0,
+        "Cost": 37.537581,
+        "Impressions": 1257,
+        "Clicks": 32
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dehradun",
+        "Ad Network Type": "CONTENT",
+        "Installs": 1511,
+        "Cost": 112479.13501700001,
+        "Impressions": 2474319,
+        "Clicks": 14512
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dehradun",
+        "Ad Network Type": "SEARCH",
+        "Installs": 2052,
+        "Cost": 51148.904961,
+        "Impressions": 59537,
+        "Clicks": 3947
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dehradun",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 7,
+        "Cost": 342.379769,
+        "Impressions": 1239,
+        "Clicks": 25
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dehradun",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 440,
+        "Cost": 26253.205868,
+        "Impressions": 745875,
+        "Clicks": 17923
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Delhi",
+        "Ad Network Type": "CONTENT",
+        "Installs": 63744,
+        "Cost": 2315793.5548420004,
+        "Impressions": 39462323,
+        "Clicks": 324760
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Delhi",
+        "Ad Network Type": "SEARCH",
+        "Installs": 65416,
+        "Cost": 1221979.105548,
+        "Impressions": 1836405,
+        "Clicks": 127640
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Delhi",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 236,
+        "Cost": 14196.096388,
+        "Impressions": 66296,
+        "Clicks": 1079
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Delhi",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 13623,
+        "Cost": 417517.626359,
+        "Impressions": 10239971,
+        "Clicks": 389402
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Deoband",
+        "Ad Network Type": "CONTENT",
+        "Installs": 12,
+        "Cost": 549.628906,
+        "Impressions": 11092,
+        "Clicks": 332
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Deoband",
+        "Ad Network Type": "SEARCH",
+        "Installs": 0,
+        "Cost": 36.568491,
+        "Impressions": 282,
+        "Clicks": 4
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Deoband",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 11,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Deoband",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 10,
+        "Cost": 544.338022,
+        "Impressions": 14610,
+        "Clicks": 691
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dhar",
+        "Ad Network Type": "CONTENT",
+        "Installs": 2,
+        "Cost": 265.562912,
+        "Impressions": 5892,
+        "Clicks": 150
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dhar",
+        "Ad Network Type": "SEARCH",
+        "Installs": 1,
+        "Cost": 50.701788,
+        "Impressions": 203,
+        "Clicks": 5
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dhar",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 34,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dhar",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 5,
+        "Cost": 213.335801,
+        "Impressions": 5201,
+        "Clicks": 284
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dholpur",
+        "Ad Network Type": "CONTENT",
+        "Installs": 4,
+        "Cost": 222.07291899999998,
+        "Impressions": 8330,
+        "Clicks": 317
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dholpur",
+        "Ad Network Type": "SEARCH",
+        "Installs": 0,
+        "Cost": 0.508844,
+        "Impressions": 149,
+        "Clicks": 1
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dholpur",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.42,
+        "Impressions": 28,
+        "Clicks": 1
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dholpur",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 21,
+        "Cost": 1386.188796,
+        "Impressions": 33038,
+        "Clicks": 1529
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dibrugarh",
+        "Ad Network Type": "CONTENT",
+        "Installs": 51,
+        "Cost": 4736.431073,
+        "Impressions": 66231,
+        "Clicks": 283
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dibrugarh",
+        "Ad Network Type": "SEARCH",
+        "Installs": 103,
+        "Cost": 2250.282582,
+        "Impressions": 3730,
+        "Clicks": 193
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dibrugarh",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 2,
+        "Cost": 94.16,
+        "Impressions": 108,
+        "Clicks": 4
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dibrugarh",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 56,
+        "Cost": 4354.3032029999995,
+        "Impressions": 115238,
+        "Clicks": 2426
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dungarpur",
+        "Ad Network Type": "CONTENT",
+        "Installs": 0,
+        "Cost": 75.360029,
+        "Impressions": 1829,
+        "Clicks": 77
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dungarpur",
+        "Ad Network Type": "SEARCH",
+        "Installs": 0,
+        "Cost": 6.564051,
+        "Impressions": 29,
+        "Clicks": 3
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dungarpur",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 8,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dungarpur",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 1,
+        "Cost": 158.705631,
+        "Impressions": 4245,
+        "Clicks": 194
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Durgapur",
+        "Ad Network Type": "CONTENT",
+        "Installs": 655,
+        "Cost": 39720.355609000006,
+        "Impressions": 932936,
+        "Clicks": 2937
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Durgapur",
+        "Ad Network Type": "SEARCH",
+        "Installs": 1554,
+        "Cost": 22756.165574,
+        "Impressions": 38910,
+        "Clicks": 2588
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Durgapur",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 8,
+        "Cost": 132.293554,
+        "Impressions": 1284,
+        "Clicks": 33
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Durgapur",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 36,
+        "Cost": 1229.166763,
+        "Impressions": 25707,
+        "Clicks": 456
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dwarka",
+        "Ad Network Type": "CONTENT",
+        "Installs": 2,
+        "Cost": 69.387088,
+        "Impressions": 429,
+        "Clicks": 23
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dwarka",
+        "Ad Network Type": "SEARCH",
+        "Installs": 1,
+        "Cost": 51.17,
+        "Impressions": 6,
+        "Clicks": 1
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Dwarka",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 4,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Eluru",
+        "Ad Network Type": "CONTENT",
+        "Installs": 117,
+        "Cost": 5611.168713,
+        "Impressions": 74826,
+        "Clicks": 446
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Eluru",
+        "Ad Network Type": "SEARCH",
+        "Installs": 103,
+        "Cost": 1513.58569,
+        "Impressions": 3901,
+        "Clicks": 187
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Eluru",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.73,
+        "Impressions": 79,
+        "Clicks": 1
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Eluru",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 145,
+        "Cost": 5909.528378,
+        "Impressions": 155983,
+        "Clicks": 3536
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Gorakhpur",
+        "Ad Network Type": "CONTENT",
+        "Installs": 674,
+        "Cost": 40468.632583,
+        "Impressions": 839663,
+        "Clicks": 5115
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Gorakhpur",
+        "Ad Network Type": "SEARCH",
+        "Installs": 1273,
+        "Cost": 26126.329706,
+        "Impressions": 41274,
+        "Clicks": 2257
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Gorakhpur",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 5,
+        "Cost": 110.01986099999999,
+        "Impressions": 932,
+        "Clicks": 19
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Gorakhpur",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 160,
+        "Cost": 8752.155442,
+        "Impressions": 226970,
+        "Clicks": 5080
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Gudivada",
+        "Ad Network Type": "CONTENT",
+        "Installs": 56,
+        "Cost": 3914.722264,
+        "Impressions": 61620,
+        "Clicks": 438
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Gudivada",
+        "Ad Network Type": "SEARCH",
+        "Installs": 30,
+        "Cost": 1008.298032,
+        "Impressions": 2177,
+        "Clicks": 78
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Gudivada",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 43.150000000000006,
+        "Impressions": 64,
+        "Clicks": 4
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Gudivada",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 46,
+        "Cost": 3710.3192329999997,
+        "Impressions": 93479,
+        "Clicks": 2026
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Gujrat",
+        "Ad Network Type": "CONTENT",
+        "Installs": 1981,
+        "Cost": 120189.954331,
+        "Impressions": 2395887,
+        "Clicks": 40445
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Gujrat",
+        "Ad Network Type": "SEARCH",
+        "Installs": 1784,
+        "Cost": 58897.656176000004,
+        "Impressions": 64485,
+        "Clicks": 3614
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Gujrat",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 13,
+        "Cost": 709.571618,
+        "Impressions": 3798,
+        "Clicks": 54
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Gujrat",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 1251,
+        "Cost": 78442.141223,
+        "Impressions": 1962220,
+        "Clicks": 60510
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Guwahati",
+        "Ad Network Type": "CONTENT",
+        "Installs": 1710,
+        "Cost": 62596.081167000004,
+        "Impressions": 1451815,
+        "Clicks": 5507
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Guwahati",
+        "Ad Network Type": "SEARCH",
+        "Installs": 5784,
+        "Cost": 78195.133667,
+        "Impressions": 68728,
+        "Clicks": 9379
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Guwahati",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 19,
+        "Cost": 406.52930299999997,
+        "Impressions": 2502,
+        "Clicks": 41
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Guwahati",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 140,
+        "Cost": 3520.503433,
+        "Impressions": 78943,
+        "Clicks": 1307
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Gwalior",
+        "Ad Network Type": "CONTENT",
+        "Installs": 364,
+        "Cost": 16273.359982999998,
+        "Impressions": 428498,
+        "Clicks": 1577
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Gwalior",
+        "Ad Network Type": "SEARCH",
+        "Installs": 718,
+        "Cost": 11143.685513,
+        "Impressions": 11343,
+        "Clicks": 1176
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Gwalior",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 5,
+        "Cost": 55.37,
+        "Impressions": 489,
+        "Clicks": 13
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Gwalior",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 72,
+        "Cost": 2234.833478,
+        "Impressions": 56663,
+        "Clicks": 1394
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Harda",
+        "Ad Network Type": "CONTENT",
+        "Installs": 3,
+        "Cost": 121.206934,
+        "Impressions": 4007,
+        "Clicks": 99
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Harda",
+        "Ad Network Type": "SEARCH",
+        "Installs": 3,
+        "Cost": 33.927228,
+        "Impressions": 179,
+        "Clicks": 3
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Harda",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 16,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Harda",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 8,
+        "Cost": 315.59064,
+        "Impressions": 7976,
+        "Clicks": 400
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Haryana",
+        "Ad Network Type": "CONTENT",
+        "Installs": 1247,
+        "Cost": 73342.800828,
+        "Impressions": 1520608,
+        "Clicks": 8843
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Haryana",
+        "Ad Network Type": "SEARCH",
+        "Installs": 2300,
+        "Cost": 37455.492218,
+        "Impressions": 31948,
+        "Clicks": 3883
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Haryana",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 13,
+        "Cost": 291.131541,
+        "Impressions": 1714,
+        "Clicks": 32
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Haryana",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 212,
+        "Cost": 12147.674982999999,
+        "Impressions": 289490,
+        "Clicks": 6834
+    },
+    {
+        "Week": "2026-W09",
+        "City": "HimanchalPradesh",
+        "Ad Network Type": "CONTENT",
+        "Installs": 14,
+        "Cost": 2227.557805,
+        "Impressions": 67155,
+        "Clicks": 229
+    },
+    {
+        "Week": "2026-W09",
+        "City": "HimanchalPradesh",
+        "Ad Network Type": "SEARCH",
+        "Installs": 39,
+        "Cost": 1042.944789,
+        "Impressions": 1440,
+        "Clicks": 84
+    },
+    {
+        "Week": "2026-W09",
+        "City": "HimanchalPradesh",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 25.73,
+        "Impressions": 48,
+        "Clicks": 1
+    },
+    {
+        "Week": "2026-W09",
+        "City": "HimanchalPradesh",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 11,
+        "Cost": 1097.428183,
+        "Impressions": 28441,
+        "Clicks": 661
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Hisar",
+        "Ad Network Type": "CONTENT",
+        "Installs": 146,
+        "Cost": 10675.654550000001,
+        "Impressions": 174586,
+        "Clicks": 939
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Hisar",
+        "Ad Network Type": "SEARCH",
+        "Installs": 277,
+        "Cost": 5321.590307,
+        "Impressions": 8526,
+        "Clicks": 486
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Hisar",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 1,
+        "Cost": 50.59,
+        "Impressions": 201,
+        "Clicks": 2
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Hisar",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 69,
+        "Cost": 5385.079347,
+        "Impressions": 143379,
+        "Clicks": 3529
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Hyderabad",
+        "Ad Network Type": "CONTENT",
+        "Installs": 9818,
+        "Cost": 16094.921038,
+        "Impressions": 369202,
+        "Clicks": 12322
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Hyderabad",
+        "Ad Network Type": "SEARCH",
+        "Installs": 49577,
+        "Cost": 192281.894917,
+        "Impressions": 666157,
+        "Clicks": 73974
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Hyderabad",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 21,
+        "Cost": 68.86261999999999,
+        "Impressions": 2512,
+        "Clicks": 49
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Hyderabad",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 1951,
+        "Cost": 30470.197506,
+        "Impressions": 1156353,
+        "Clicks": 23956
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Indore",
+        "Ad Network Type": "CONTENT",
+        "Installs": 2803,
+        "Cost": 80244.11374300001,
+        "Impressions": 1938990,
+        "Clicks": 8622
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Indore",
+        "Ad Network Type": "SEARCH",
+        "Installs": 10367,
+        "Cost": 81863.968751,
+        "Impressions": 111436,
+        "Clicks": 17190
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Indore",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 14,
+        "Cost": 274.36022,
+        "Impressions": 1457,
+        "Clicks": 31
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Indore",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 235,
+        "Cost": 5615.566572,
+        "Impressions": 146541,
+        "Clicks": 2792
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jabalpur",
+        "Ad Network Type": "CONTENT",
+        "Installs": 646,
+        "Cost": 34606.347579,
+        "Impressions": 1142624,
+        "Clicks": 3773
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jabalpur",
+        "Ad Network Type": "SEARCH",
+        "Installs": 958,
+        "Cost": 17118.676141,
+        "Impressions": 20090,
+        "Clicks": 1697
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jabalpur",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 5,
+        "Cost": 123.89999999999999,
+        "Impressions": 510,
+        "Clicks": 10
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jabalpur",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 51,
+        "Cost": 2778.310657,
+        "Impressions": 64637,
+        "Clicks": 1274
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jagdalpur Bastar",
+        "Ad Network Type": "CONTENT",
+        "Installs": 247,
+        "Cost": 13037.934995,
+        "Impressions": 167126,
+        "Clicks": 11023
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jagdalpur Bastar",
+        "Ad Network Type": "SEARCH",
+        "Installs": 31,
+        "Cost": 759.138545,
+        "Impressions": 2322,
+        "Clicks": 90
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jagdalpur Bastar",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 40,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jagdalpur Bastar",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 41,
+        "Cost": 1847.853469,
+        "Impressions": 42618,
+        "Clicks": 2962
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jaipur",
+        "Ad Network Type": "CONTENT",
+        "Installs": 9267,
+        "Cost": 149635.504359,
+        "Impressions": 2333351,
+        "Clicks": 96580
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jaipur",
+        "Ad Network Type": "SEARCH",
+        "Installs": 17814,
+        "Cost": 215401.78331199999,
+        "Impressions": 327297,
+        "Clicks": 31532
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jaipur",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 38,
+        "Cost": 638.87249,
+        "Impressions": 5241,
+        "Clicks": 105
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jaipur",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 1892,
+        "Cost": 37583.94725,
+        "Impressions": 733511,
+        "Clicks": 65912
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jalandhar",
+        "Ad Network Type": "CONTENT",
+        "Installs": 273,
+        "Cost": 19069.984241,
+        "Impressions": 326165,
+        "Clicks": 1218
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jalandhar",
+        "Ad Network Type": "SEARCH",
+        "Installs": 745,
+        "Cost": 21893.735605,
+        "Impressions": 15729,
+        "Clicks": 1302
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jalandhar",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 3,
+        "Cost": 158.023554,
+        "Impressions": 725,
+        "Clicks": 15
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jalandhar",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 31,
+        "Cost": 1024.718314,
+        "Impressions": 18300,
+        "Clicks": 359
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jammu",
+        "Ad Network Type": "CONTENT",
+        "Installs": 1666,
+        "Cost": 77602.363501,
+        "Impressions": 1876686,
+        "Clicks": 7311
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jammu",
+        "Ad Network Type": "SEARCH",
+        "Installs": 2908,
+        "Cost": 32516.506871999998,
+        "Impressions": 48807,
+        "Clicks": 4363
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jammu",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 9,
+        "Cost": 107.791432,
+        "Impressions": 953,
+        "Clicks": 24
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jammu",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 44,
+        "Cost": 1787.127566,
+        "Impressions": 41330,
+        "Clicks": 777
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jamnagar",
+        "Ad Network Type": "CONTENT",
+        "Installs": 239,
+        "Cost": 15620.728289,
+        "Impressions": 376272,
+        "Clicks": 1721
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jamnagar",
+        "Ad Network Type": "SEARCH",
+        "Installs": 260,
+        "Cost": 4373.7999899999995,
+        "Impressions": 10604,
+        "Clicks": 513
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jamnagar",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 2,
+        "Cost": 14.479237999999999,
+        "Impressions": 202,
+        "Clicks": 8
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jamnagar",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 56,
+        "Cost": 2560.454022,
+        "Impressions": 64523,
+        "Clicks": 1226
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jamsedhpur",
+        "Ad Network Type": "CONTENT",
+        "Installs": 1037,
+        "Cost": 67556.220883,
+        "Impressions": 1596306,
+        "Clicks": 7001
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jamsedhpur",
+        "Ad Network Type": "SEARCH",
+        "Installs": 1622,
+        "Cost": 28395.409469000002,
+        "Impressions": 43843,
+        "Clicks": 2909
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jamsedhpur",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 8,
+        "Cost": 284.09177700000004,
+        "Impressions": 1247,
+        "Clicks": 29
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jamsedhpur",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 225,
+        "Cost": 10153.217638,
+        "Impressions": 276237,
+        "Clicks": 6616
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jhalawar",
+        "Ad Network Type": "CONTENT",
+        "Installs": 2,
+        "Cost": 286.482576,
+        "Impressions": 2248,
+        "Clicks": 115
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jhalawar",
+        "Ad Network Type": "SEARCH",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 7,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jhalawar",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.73,
+        "Impressions": 8,
+        "Clicks": 1
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jharkhand",
+        "Ad Network Type": "CONTENT",
+        "Installs": 845,
+        "Cost": 45216.064191,
+        "Impressions": 1084844,
+        "Clicks": 25301
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jharkhand",
+        "Ad Network Type": "SEARCH",
+        "Installs": 719,
+        "Cost": 15990.680769999999,
+        "Impressions": 22440,
+        "Clicks": 1431
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jharkhand",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 8,
+        "Cost": 296.96999999999997,
+        "Impressions": 1253,
+        "Clicks": 21
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jharkhand",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 271,
+        "Cost": 18120.592718,
+        "Impressions": 439544,
+        "Clicks": 16210
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jodhpur",
+        "Ad Network Type": "CONTENT",
+        "Installs": 2048,
+        "Cost": 125022.105073,
+        "Impressions": 3338177,
+        "Clicks": 16576
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jodhpur",
+        "Ad Network Type": "SEARCH",
+        "Installs": 2318,
+        "Cost": 40316.540567,
+        "Impressions": 64902,
+        "Clicks": 4266
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jodhpur",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 7,
+        "Cost": 317.071777,
+        "Impressions": 1024,
+        "Clicks": 17
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jodhpur",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 416,
+        "Cost": 22394.050171,
+        "Impressions": 679279,
+        "Clicks": 16793
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jorhat",
+        "Ad Network Type": "CONTENT",
+        "Installs": 41,
+        "Cost": 2891.97448,
+        "Impressions": 47722,
+        "Clicks": 231
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jorhat",
+        "Ad Network Type": "SEARCH",
+        "Installs": 58,
+        "Cost": 1725.678982,
+        "Impressions": 2342,
+        "Clicks": 135
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jorhat",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 1.46,
+        "Impressions": 92,
+        "Clicks": 2
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Jorhat",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 42,
+        "Cost": 2875.524989,
+        "Impressions": 78411,
+        "Clicks": 1723
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kadapa",
+        "Ad Network Type": "CONTENT",
+        "Installs": 97,
+        "Cost": 5783.342968,
+        "Impressions": 114226,
+        "Clicks": 731
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kadapa",
+        "Ad Network Type": "SEARCH",
+        "Installs": 102,
+        "Cost": 1753.499918,
+        "Impressions": 3770,
+        "Clicks": 198
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kadapa",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 7.9,
+        "Impressions": 92,
+        "Clicks": 2
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kadapa",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 108,
+        "Cost": 5564.713662,
+        "Impressions": 162780,
+        "Clicks": 4556
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kakinada",
+        "Ad Network Type": "CONTENT",
+        "Installs": 285,
+        "Cost": 15383.231455,
+        "Impressions": 181178,
+        "Clicks": 1092
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kakinada",
+        "Ad Network Type": "SEARCH",
+        "Installs": 243,
+        "Cost": 3752.317254,
+        "Impressions": 9388,
+        "Clicks": 464
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kakinada",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 2,
+        "Cost": 150.24,
+        "Impressions": 131,
+        "Clicks": 7
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kakinada",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 182,
+        "Cost": 8103.866927,
+        "Impressions": 213734,
+        "Clicks": 4600
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kanpur",
+        "Ad Network Type": "CONTENT",
+        "Installs": 2095,
+        "Cost": 122755.251601,
+        "Impressions": 2803905,
+        "Clicks": 11427
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kanpur",
+        "Ad Network Type": "SEARCH",
+        "Installs": 3601,
+        "Cost": 68419.735704,
+        "Impressions": 76531,
+        "Clicks": 6610
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kanpur",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 12,
+        "Cost": 371.005111,
+        "Impressions": 1809,
+        "Clicks": 43
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kanpur",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 309,
+        "Cost": 12642.947708,
+        "Impressions": 317992,
+        "Clicks": 8297
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Karaikudi",
+        "Ad Network Type": "CONTENT",
+        "Installs": 11,
+        "Cost": 1090.0622859999999,
+        "Impressions": 28903,
+        "Clicks": 112
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Karaikudi",
+        "Ad Network Type": "SEARCH",
+        "Installs": 21,
+        "Cost": 692.4403609999999,
+        "Impressions": 789,
+        "Clicks": 46
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Karaikudi",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 27,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Karaikudi",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 4,
+        "Cost": 282.149152,
+        "Impressions": 7739,
+        "Clicks": 160
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Karimnagar",
+        "Ad Network Type": "CONTENT",
+        "Installs": 142,
+        "Cost": 7430.043905,
+        "Impressions": 96144,
+        "Clicks": 614
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Karimnagar",
+        "Ad Network Type": "SEARCH",
+        "Installs": 131,
+        "Cost": 2437.869423,
+        "Impressions": 3983,
+        "Clicks": 251
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Karimnagar",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 1,
+        "Cost": 2.9,
+        "Impressions": 84,
+        "Clicks": 1
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Karimnagar",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 139,
+        "Cost": 5662.663213,
+        "Impressions": 161305,
+        "Clicks": 3766
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Karnal",
+        "Ad Network Type": "CONTENT",
+        "Installs": 112,
+        "Cost": 7908.048639,
+        "Impressions": 167696,
+        "Clicks": 588
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Karnal",
+        "Ad Network Type": "SEARCH",
+        "Installs": 168,
+        "Cost": 2806.806426,
+        "Impressions": 5058,
+        "Clicks": 290
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Karnal",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 115,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Karnal",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 22,
+        "Cost": 1375.759257,
+        "Impressions": 31492,
+        "Clicks": 852
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Karnataka",
+        "Ad Network Type": "CONTENT",
+        "Installs": 823,
+        "Cost": 87848.86934,
+        "Impressions": 1389969,
+        "Clicks": 29266
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Karnataka",
+        "Ad Network Type": "SEARCH",
+        "Installs": 1184,
+        "Cost": 40573.002541,
+        "Impressions": 30473,
+        "Clicks": 2383
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Karnataka",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 21,
+        "Cost": 729.669049,
+        "Impressions": 3802,
+        "Clicks": 65
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Karnataka",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 607,
+        "Cost": 65502.757141,
+        "Impressions": 1298817,
+        "Clicks": 41272
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Khammam",
+        "Ad Network Type": "CONTENT",
+        "Installs": 169,
+        "Cost": 7932.987109,
+        "Impressions": 102599,
+        "Clicks": 769
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Khammam",
+        "Ad Network Type": "SEARCH",
+        "Installs": 147,
+        "Cost": 2221.158049,
+        "Impressions": 3959,
+        "Clicks": 263
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Khammam",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 59,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Khammam",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 144,
+        "Cost": 6479.998705,
+        "Impressions": 174447,
+        "Clicks": 3667
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Khandwa",
+        "Ad Network Type": "CONTENT",
+        "Installs": 8,
+        "Cost": 497.81762000000003,
+        "Impressions": 11405,
+        "Clicks": 309
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Khandwa",
+        "Ad Network Type": "SEARCH",
+        "Installs": 7,
+        "Cost": 383.567389,
+        "Impressions": 546,
+        "Clicks": 19
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Khandwa",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 12.61,
+        "Impressions": 49,
+        "Clicks": 1
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Khandwa",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 13,
+        "Cost": 642.021424,
+        "Impressions": 17820,
+        "Clicks": 750
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kochi",
+        "Ad Network Type": "CONTENT",
+        "Installs": 966,
+        "Cost": 68764.772688,
+        "Impressions": 1349367,
+        "Clicks": 6063
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kochi",
+        "Ad Network Type": "SEARCH",
+        "Installs": 2643,
+        "Cost": 81597.561192,
+        "Impressions": 95344,
+        "Clicks": 5265
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kochi",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 18,
+        "Cost": 675.97014,
+        "Impressions": 4871,
+        "Clicks": 82
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kochi",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 11,
+        "Cost": 177.551488,
+        "Impressions": 2474,
+        "Clicks": 80
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kolkata",
+        "Ad Network Type": "CONTENT",
+        "Installs": 6618,
+        "Cost": 376926.694971,
+        "Impressions": 8085655,
+        "Clicks": 35880
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kolkata",
+        "Ad Network Type": "SEARCH",
+        "Installs": 9379,
+        "Cost": 184809.214257,
+        "Impressions": 164719,
+        "Clicks": 16063
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kolkata",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 25,
+        "Cost": 840.899131,
+        "Impressions": 7112,
+        "Clicks": 104
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kolkata",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 2369,
+        "Cost": 124873.336394,
+        "Impressions": 4830245,
+        "Clicks": 67127
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kota",
+        "Ad Network Type": "CONTENT",
+        "Installs": 814,
+        "Cost": 43627.575405999996,
+        "Impressions": 1221587,
+        "Clicks": 4791
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kota",
+        "Ad Network Type": "SEARCH",
+        "Installs": 1136,
+        "Cost": 19632.515296,
+        "Impressions": 24825,
+        "Clicks": 2216
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kota",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 6,
+        "Cost": 127.005117,
+        "Impressions": 531,
+        "Clicks": 15
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kota",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 114,
+        "Cost": 4224.914815,
+        "Impressions": 101045,
+        "Clicks": 2436
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kothagudem",
+        "Ad Network Type": "CONTENT",
+        "Installs": 47,
+        "Cost": 1997.9277200000001,
+        "Impressions": 30611,
+        "Clicks": 233
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kothagudem",
+        "Ad Network Type": "SEARCH",
+        "Installs": 36,
+        "Cost": 432.53008900000003,
+        "Impressions": 1268,
+        "Clicks": 72
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kothagudem",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 26,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kothagudem",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 37,
+        "Cost": 2236.029764,
+        "Impressions": 57944,
+        "Clicks": 1367
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Krishnanagar",
+        "Ad Network Type": "CONTENT",
+        "Installs": 67,
+        "Cost": 5491.989337,
+        "Impressions": 131136,
+        "Clicks": 474
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Krishnanagar",
+        "Ad Network Type": "SEARCH",
+        "Installs": 91,
+        "Cost": 2086.768206,
+        "Impressions": 4493,
+        "Clicks": 177
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Krishnanagar",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 1.04,
+        "Impressions": 139,
+        "Clicks": 1
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Krishnanagar",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 22,
+        "Cost": 1737.358961,
+        "Impressions": 48282,
+        "Clicks": 956
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kurnool",
+        "Ad Network Type": "CONTENT",
+        "Installs": 564,
+        "Cost": 32076.150766,
+        "Impressions": 631580,
+        "Clicks": 2913
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kurnool",
+        "Ad Network Type": "SEARCH",
+        "Installs": 588,
+        "Cost": 7316.9501199999995,
+        "Impressions": 23596,
+        "Clicks": 1092
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kurnool",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 55.029999999999994,
+        "Impressions": 237,
+        "Clicks": 2
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Kurnool",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 192,
+        "Cost": 6618.488361000001,
+        "Impressions": 189478,
+        "Clicks": 5587
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Lucknow",
+        "Ad Network Type": "CONTENT",
+        "Installs": 5818,
+        "Cost": 270815.857022,
+        "Impressions": 6150011,
+        "Clicks": 26212
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Lucknow",
+        "Ad Network Type": "SEARCH",
+        "Installs": 12257,
+        "Cost": 205767.27915199997,
+        "Impressions": 192506,
+        "Clicks": 21410
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Lucknow",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 16,
+        "Cost": 323.224812,
+        "Impressions": 3052,
+        "Clicks": 41
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Lucknow",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 1260,
+        "Cost": 48671.328125,
+        "Impressions": 1381344,
+        "Clicks": 36441
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ludhiana",
+        "Ad Network Type": "CONTENT",
+        "Installs": 2095,
+        "Cost": 80696.900092,
+        "Impressions": 1672211,
+        "Clicks": 6903
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ludhiana",
+        "Ad Network Type": "SEARCH",
+        "Installs": 6130,
+        "Cost": 77640.922938,
+        "Impressions": 100754,
+        "Clicks": 10124
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ludhiana",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 5,
+        "Cost": 134.320198,
+        "Impressions": 896,
+        "Clicks": 21
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ludhiana",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 24,
+        "Cost": 288.765781,
+        "Impressions": 3646,
+        "Clicks": 80
+    },
+    {
+        "Week": "2026-W09",
+        "City": "MP",
+        "Ad Network Type": "CONTENT",
+        "Installs": 1558,
+        "Cost": 81982.56371799999,
+        "Impressions": 2042655,
+        "Clicks": 50394
+    },
+    {
+        "Week": "2026-W09",
+        "City": "MP",
+        "Ad Network Type": "SEARCH",
+        "Installs": 1827,
+        "Cost": 29721.33507,
+        "Impressions": 42731,
+        "Clicks": 3260
+    },
+    {
+        "Week": "2026-W09",
+        "City": "MP",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 23,
+        "Cost": 665.093563,
+        "Impressions": 2432,
+        "Clicks": 74
+    },
+    {
+        "Week": "2026-W09",
+        "City": "MP",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 694,
+        "Cost": 35103.894374,
+        "Impressions": 839162,
+        "Clicks": 30343
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Machilipatnam",
+        "Ad Network Type": "CONTENT",
+        "Installs": 92,
+        "Cost": 7689.387025,
+        "Impressions": 97120,
+        "Clicks": 770
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Machilipatnam",
+        "Ad Network Type": "SEARCH",
+        "Installs": 35,
+        "Cost": 1139.750704,
+        "Impressions": 3658,
+        "Clicks": 85
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Machilipatnam",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 14.32,
+        "Impressions": 54,
+        "Clicks": 3
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Machilipatnam",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 0,
+        "Cost": 8.196131,
+        "Impressions": 244,
+        "Clicks": 3
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Madanapalle",
+        "Ad Network Type": "CONTENT",
+        "Installs": 76,
+        "Cost": 4359.9276150000005,
+        "Impressions": 63604,
+        "Clicks": 386
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Madanapalle",
+        "Ad Network Type": "SEARCH",
+        "Installs": 63,
+        "Cost": 916.6422150000001,
+        "Impressions": 3526,
+        "Clicks": 122
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Madanapalle",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 1,
+        "Cost": 11.030000000000001,
+        "Impressions": 66,
+        "Clicks": 2
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Madanapalle",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 73,
+        "Cost": 4030.5014810000002,
+        "Impressions": 111055,
+        "Clicks": 2561
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Madurai",
+        "Ad Network Type": "CONTENT",
+        "Installs": 876,
+        "Cost": 38157.659264,
+        "Impressions": 910753,
+        "Clicks": 2995
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Madurai",
+        "Ad Network Type": "SEARCH",
+        "Installs": 2280,
+        "Cost": 31923.592337000002,
+        "Impressions": 42018,
+        "Clicks": 4193
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Madurai",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 4,
+        "Cost": 114.391717,
+        "Impressions": 1354,
+        "Clicks": 15
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Madurai",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 92,
+        "Cost": 1997.846108,
+        "Impressions": 46877,
+        "Clicks": 1128
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Maharashtra",
+        "Ad Network Type": "CONTENT",
+        "Installs": 155,
+        "Cost": 11388.921422,
+        "Impressions": 239182,
+        "Clicks": 603
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Maharashtra",
+        "Ad Network Type": "SEARCH",
+        "Installs": 569,
+        "Cost": 16315.235390000002,
+        "Impressions": 15455,
+        "Clicks": 1063
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Maharashtra",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 5,
+        "Cost": 136.38,
+        "Impressions": 715,
+        "Clicks": 13
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Maharashtra",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 16,
+        "Cost": 342.619767,
+        "Impressions": 6585,
+        "Clicks": 157
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Mahbubnagar",
+        "Ad Network Type": "CONTENT",
+        "Installs": 105,
+        "Cost": 5804.311385,
+        "Impressions": 89363,
+        "Clicks": 541
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Mahbubnagar",
+        "Ad Network Type": "SEARCH",
+        "Installs": 57,
+        "Cost": 1233.296128,
+        "Impressions": 3157,
+        "Clicks": 124
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Mahbubnagar",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 2.17,
+        "Impressions": 93,
+        "Clicks": 1
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Mahbubnagar",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 11,
+        "Cost": 569.5533790000001,
+        "Impressions": 17060,
+        "Clicks": 487
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Mandsaur",
+        "Ad Network Type": "CONTENT",
+        "Installs": 10,
+        "Cost": 660.7766839999999,
+        "Impressions": 8494,
+        "Clicks": 158
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Mandsaur",
+        "Ad Network Type": "SEARCH",
+        "Installs": 6,
+        "Cost": 53.23835699999999,
+        "Impressions": 332,
+        "Clicks": 14
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Mandsaur",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 2,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Mandsaur",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 2,
+        "Cost": 287.092835,
+        "Impressions": 7192,
+        "Clicks": 227
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Mangalore",
+        "Ad Network Type": "CONTENT",
+        "Installs": 67,
+        "Cost": 3866.645301,
+        "Impressions": 74242,
+        "Clicks": 391
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Mangalore",
+        "Ad Network Type": "SEARCH",
+        "Installs": 212,
+        "Cost": 6469.807117,
+        "Impressions": 3756,
+        "Clicks": 399
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Mangalore",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 24.490000000000002,
+        "Impressions": 340,
+        "Clicks": 6
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Mangalore",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 19,
+        "Cost": 695.492705,
+        "Impressions": 15670,
+        "Clicks": 483
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Meerut",
+        "Ad Network Type": "CONTENT",
+        "Installs": 1110,
+        "Cost": 72348.139574,
+        "Impressions": 1392762,
+        "Clicks": 5197
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Meerut",
+        "Ad Network Type": "SEARCH",
+        "Installs": 3164,
+        "Cost": 50511.571341,
+        "Impressions": 66098,
+        "Clicks": 5097
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Meerut",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 5,
+        "Cost": 179.29,
+        "Impressions": 1574,
+        "Clicks": 19
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Meerut",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 97,
+        "Cost": 4665.161934,
+        "Impressions": 98087,
+        "Clicks": 2511
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Meghalaya",
+        "Ad Network Type": "CONTENT",
+        "Installs": 22,
+        "Cost": 3078.627028,
+        "Impressions": 97154,
+        "Clicks": 305
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Meghalaya",
+        "Ad Network Type": "SEARCH",
+        "Installs": 20,
+        "Cost": 761.1710089999999,
+        "Impressions": 897,
+        "Clicks": 42
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Meghalaya",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 1,
+        "Cost": 61.23,
+        "Impressions": 101,
+        "Clicks": 3
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Meghalaya",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 1,
+        "Cost": 86.235123,
+        "Impressions": 2195,
+        "Clicks": 74
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Moradabad",
+        "Ad Network Type": "CONTENT",
+        "Installs": 363,
+        "Cost": 23793.397331,
+        "Impressions": 576529,
+        "Clicks": 2798
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Moradabad",
+        "Ad Network Type": "SEARCH",
+        "Installs": 712,
+        "Cost": 11009.457223999998,
+        "Impressions": 19761,
+        "Clicks": 1233
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Moradabad",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 3,
+        "Cost": 68.03,
+        "Impressions": 468,
+        "Clicks": 18
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Moradabad",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 97,
+        "Cost": 4899.449208,
+        "Impressions": 124439,
+        "Clicks": 3100
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Mumbai",
+        "Ad Network Type": "CONTENT",
+        "Installs": 22919,
+        "Cost": 1534698.3597320002,
+        "Impressions": 28570777,
+        "Clicks": 108375
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Mumbai",
+        "Ad Network Type": "SEARCH",
+        "Installs": 24156,
+        "Cost": 455606.780929,
+        "Impressions": 621277,
+        "Clicks": 43991
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Mumbai",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 67,
+        "Cost": 2609.173715,
+        "Impressions": 18161,
+        "Clicks": 230
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Mumbai",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 2475,
+        "Cost": 81235.5294,
+        "Impressions": 1910742,
+        "Clicks": 45002
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Murshidabad",
+        "Ad Network Type": "CONTENT",
+        "Installs": 11,
+        "Cost": 1244.536871,
+        "Impressions": 30941,
+        "Clicks": 202
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Murshidabad",
+        "Ad Network Type": "SEARCH",
+        "Installs": 9,
+        "Cost": 279.370498,
+        "Impressions": 339,
+        "Clicks": 17
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Murshidabad",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 1,
+        "Cost": 0.73,
+        "Impressions": 66,
+        "Clicks": 1
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Murshidabad",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 4,
+        "Cost": 727.164048,
+        "Impressions": 17914,
+        "Clicks": 323
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Muzaffarpur",
+        "Ad Network Type": "CONTENT",
+        "Installs": 325,
+        "Cost": 18987.862712000002,
+        "Impressions": 330873,
+        "Clicks": 1746
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Muzaffarpur",
+        "Ad Network Type": "SEARCH",
+        "Installs": 563,
+        "Cost": 10449.04856,
+        "Impressions": 17918,
+        "Clicks": 979
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Muzaffarpur",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 4,
+        "Cost": 74.030717,
+        "Impressions": 360,
+        "Clicks": 13
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Muzaffarpur",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 173,
+        "Cost": 6821.89782,
+        "Impressions": 195941,
+        "Clicks": 3953
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Mysore",
+        "Ad Network Type": "CONTENT",
+        "Installs": 966,
+        "Cost": 65340.401912,
+        "Impressions": 1140081,
+        "Clicks": 6192
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Mysore",
+        "Ad Network Type": "SEARCH",
+        "Installs": 1996,
+        "Cost": 44043.832079,
+        "Impressions": 33610,
+        "Clicks": 3451
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Mysore",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 5,
+        "Cost": 423.27157299999993,
+        "Impressions": 1243,
+        "Clicks": 22
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Mysore",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 286,
+        "Cost": 14031.168997,
+        "Impressions": 374884,
+        "Clicks": 10498
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nagaur",
+        "Ad Network Type": "CONTENT",
+        "Installs": 3,
+        "Cost": 478.27667,
+        "Impressions": 12303,
+        "Clicks": 305
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nagaur",
+        "Ad Network Type": "SEARCH",
+        "Installs": 6,
+        "Cost": 200.967197,
+        "Impressions": 347,
+        "Clicks": 14
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nagaur",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 3.46,
+        "Impressions": 55,
+        "Clicks": 1
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nagaur",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 3,
+        "Cost": 741.131363,
+        "Impressions": 19646,
+        "Clicks": 783
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nagpur",
+        "Ad Network Type": "CONTENT",
+        "Installs": 2298,
+        "Cost": 161445.093664,
+        "Impressions": 3644045,
+        "Clicks": 12405
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nagpur",
+        "Ad Network Type": "SEARCH",
+        "Installs": 4770,
+        "Cost": 110154.45958499999,
+        "Impressions": 116851,
+        "Clicks": 8931
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nagpur",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 11,
+        "Cost": 528.69828,
+        "Impressions": 3548,
+        "Clicks": 51
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nagpur",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 363,
+        "Cost": 12935.834951,
+        "Impressions": 302241,
+        "Clicks": 7726
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nalgonda",
+        "Ad Network Type": "CONTENT",
+        "Installs": 93,
+        "Cost": 5164.18048,
+        "Impressions": 73587,
+        "Clicks": 483
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nalgonda",
+        "Ad Network Type": "SEARCH",
+        "Installs": 62,
+        "Cost": 745.40803,
+        "Impressions": 2342,
+        "Clicks": 115
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nalgonda",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 54,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nalgonda",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 56,
+        "Cost": 3434.443591,
+        "Impressions": 94190,
+        "Clicks": 2227
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Namakal",
+        "Ad Network Type": "CONTENT",
+        "Installs": 14,
+        "Cost": 1074.8837859999999,
+        "Impressions": 31890,
+        "Clicks": 122
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Namakal",
+        "Ad Network Type": "SEARCH",
+        "Installs": 64,
+        "Cost": 2920.8145640000002,
+        "Impressions": 1438,
+        "Clicks": 158
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Namakal",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 21.79,
+        "Impressions": 224,
+        "Clicks": 2
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Namakal",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 29,
+        "Cost": 2421.612059,
+        "Impressions": 67930,
+        "Clicks": 1670
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Narasaraopet",
+        "Ad Network Type": "CONTENT",
+        "Installs": 73,
+        "Cost": 3846.753978,
+        "Impressions": 52956,
+        "Clicks": 391
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Narasaraopet",
+        "Ad Network Type": "SEARCH",
+        "Installs": 54,
+        "Cost": 748.897962,
+        "Impressions": 1909,
+        "Clicks": 100
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Narasaraopet",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 26.58,
+        "Impressions": 57,
+        "Clicks": 2
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Narasaraopet",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 63,
+        "Cost": 3544.154893,
+        "Impressions": 81383,
+        "Clicks": 1474
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Narsinghpur",
+        "Ad Network Type": "CONTENT",
+        "Installs": 2,
+        "Cost": 224.584646,
+        "Impressions": 5807,
+        "Clicks": 154
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Narsinghpur",
+        "Ad Network Type": "SEARCH",
+        "Installs": 2,
+        "Cost": 36.502359999999996,
+        "Impressions": 255,
+        "Clicks": 5
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Narsinghpur",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 6.18,
+        "Impressions": 19,
+        "Clicks": 1
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Narsinghpur",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 12,
+        "Cost": 733.972157,
+        "Impressions": 18944,
+        "Clicks": 853
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nashik",
+        "Ad Network Type": "CONTENT",
+        "Installs": 811,
+        "Cost": 55208.140272000004,
+        "Impressions": 1040721,
+        "Clicks": 3085
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nashik",
+        "Ad Network Type": "SEARCH",
+        "Installs": 2149,
+        "Cost": 45181.053066,
+        "Impressions": 55183,
+        "Clicks": 3956
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nashik",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 7,
+        "Cost": 143.72378,
+        "Impressions": 1402,
+        "Clicks": 20
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nashik",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 29,
+        "Cost": 800.804941,
+        "Impressions": 17049,
+        "Clicks": 470
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Neemuch",
+        "Ad Network Type": "CONTENT",
+        "Installs": 2,
+        "Cost": 231.621603,
+        "Impressions": 7470,
+        "Clicks": 200
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Neemuch",
+        "Ad Network Type": "SEARCH",
+        "Installs": 1,
+        "Cost": 95.607011,
+        "Impressions": 298,
+        "Clicks": 5
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Neemuch",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 9,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Neemuch",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 11,
+        "Cost": 501.010306,
+        "Impressions": 12781,
+        "Clicks": 597
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nellore",
+        "Ad Network Type": "CONTENT",
+        "Installs": 322,
+        "Cost": 19768.745528,
+        "Impressions": 227732,
+        "Clicks": 1357
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nellore",
+        "Ad Network Type": "SEARCH",
+        "Installs": 308,
+        "Cost": 6169.7165079999995,
+        "Impressions": 10657,
+        "Clicks": 579
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nellore",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 37.589999999999996,
+        "Impressions": 194,
+        "Clicks": 5
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nellore",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 204,
+        "Cost": 9997.215756,
+        "Impressions": 270875,
+        "Clicks": 6712
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nizamabad",
+        "Ad Network Type": "CONTENT",
+        "Installs": 132,
+        "Cost": 6605.899985999999,
+        "Impressions": 99657,
+        "Clicks": 720
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nizamabad",
+        "Ad Network Type": "SEARCH",
+        "Installs": 151,
+        "Cost": 1891.079456,
+        "Impressions": 5102,
+        "Clicks": 274
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nizamabad",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 12.259271,
+        "Impressions": 133,
+        "Clicks": 4
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Nizamabad",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 208,
+        "Cost": 8692.931717,
+        "Impressions": 245471,
+        "Clicks": 5909
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Odisha",
+        "Ad Network Type": "CONTENT",
+        "Installs": 769,
+        "Cost": 56526.325041000004,
+        "Impressions": 1452183,
+        "Clicks": 19232
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Odisha",
+        "Ad Network Type": "SEARCH",
+        "Installs": 1115,
+        "Cost": 30110.675892,
+        "Impressions": 39432,
+        "Clicks": 2198
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Odisha",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 3,
+        "Cost": 285.108953,
+        "Impressions": 2143,
+        "Clicks": 22
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Odisha",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 353,
+        "Cost": 28913.55621,
+        "Impressions": 719071,
+        "Clicks": 23033
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ongole",
+        "Ad Network Type": "CONTENT",
+        "Installs": 117,
+        "Cost": 7360.340072999999,
+        "Impressions": 118332,
+        "Clicks": 624
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ongole",
+        "Ad Network Type": "SEARCH",
+        "Installs": 129,
+        "Cost": 1980.2926260000002,
+        "Impressions": 4856,
+        "Clicks": 240
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ongole",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 1,
+        "Cost": 21.849999999999998,
+        "Impressions": 81,
+        "Clicks": 2
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ongole",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 78,
+        "Cost": 3975.441461,
+        "Impressions": 105841,
+        "Clicks": 2358
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Patiala",
+        "Ad Network Type": "CONTENT",
+        "Installs": 85,
+        "Cost": 5089.32363,
+        "Impressions": 107674,
+        "Clicks": 386
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Patiala",
+        "Ad Network Type": "SEARCH",
+        "Installs": 156,
+        "Cost": 6094.841403,
+        "Impressions": 5015,
+        "Clicks": 303
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Patiala",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 74.2,
+        "Impressions": 190,
+        "Clicks": 2
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Patiala",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 14,
+        "Cost": 444.765549,
+        "Impressions": 8058,
+        "Clicks": 150
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Patna",
+        "Ad Network Type": "CONTENT",
+        "Installs": 5157,
+        "Cost": 217961.26188,
+        "Impressions": 6269773,
+        "Clicks": 23072
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Patna",
+        "Ad Network Type": "SEARCH",
+        "Installs": 12054,
+        "Cost": 147727.254189,
+        "Impressions": 190009,
+        "Clicks": 21129
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Patna",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 28,
+        "Cost": 730.318928,
+        "Impressions": 3686,
+        "Clicks": 65
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Patna",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 826,
+        "Cost": 31407.875554,
+        "Impressions": 860127,
+        "Clicks": 18303
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Pollachi",
+        "Ad Network Type": "CONTENT",
+        "Installs": 25,
+        "Cost": 3331.8470899999998,
+        "Impressions": 55278,
+        "Clicks": 264
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Pollachi",
+        "Ad Network Type": "SEARCH",
+        "Installs": 12,
+        "Cost": 909.6846129999999,
+        "Impressions": 1057,
+        "Clicks": 34
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Pollachi",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 9,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Pollachi",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 1,
+        "Cost": 60.327639,
+        "Impressions": 1754,
+        "Clicks": 48
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Pratapgarh",
+        "Ad Network Type": "CONTENT",
+        "Installs": 14,
+        "Cost": 1030.322939,
+        "Impressions": 17238,
+        "Clicks": 468
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Pratapgarh",
+        "Ad Network Type": "SEARCH",
+        "Installs": 13,
+        "Cost": 809.636859,
+        "Impressions": 699,
+        "Clicks": 45
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Pratapgarh",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 1,
+        "Cost": 8.04,
+        "Impressions": 77,
+        "Clicks": 2
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Pratapgarh",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 12,
+        "Cost": 862.849613,
+        "Impressions": 22055,
+        "Clicks": 850
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Prayagraj",
+        "Ad Network Type": "CONTENT",
+        "Installs": 1464,
+        "Cost": 90873.008656,
+        "Impressions": 2527438,
+        "Clicks": 9459
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Prayagraj",
+        "Ad Network Type": "SEARCH",
+        "Installs": 2987,
+        "Cost": 63170.102419999996,
+        "Impressions": 92033,
+        "Clicks": 5582
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Prayagraj",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 10,
+        "Cost": 244.62,
+        "Impressions": 1649,
+        "Clicks": 33
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Prayagraj",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 698,
+        "Cost": 42226.980216,
+        "Impressions": 1271720,
+        "Clicks": 33804
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Puducherry",
+        "Ad Network Type": "CONTENT",
+        "Installs": 82,
+        "Cost": 3675.603301,
+        "Impressions": 65930,
+        "Clicks": 365
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Puducherry",
+        "Ad Network Type": "SEARCH",
+        "Installs": 141,
+        "Cost": 3359.164769,
+        "Impressions": 3410,
+        "Clicks": 269
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Puducherry",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 1,
+        "Cost": 54.64,
+        "Impressions": 118,
+        "Clicks": 2
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Puducherry",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 34,
+        "Cost": 1870.908112,
+        "Impressions": 44671,
+        "Clicks": 955
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Pune",
+        "Ad Network Type": "CONTENT",
+        "Installs": 9867,
+        "Cost": 334121.699423,
+        "Impressions": 6959899,
+        "Clicks": 68947
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Pune",
+        "Ad Network Type": "SEARCH",
+        "Installs": 18350,
+        "Cost": 403750.449809,
+        "Impressions": 511009,
+        "Clicks": 35813
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Pune",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 61,
+        "Cost": 2658.203041,
+        "Impressions": 21976,
+        "Clicks": 266
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Pune",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 2280,
+        "Cost": 46365.382098999995,
+        "Impressions": 956166,
+        "Clicks": 87553
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Punjab",
+        "Ad Network Type": "CONTENT",
+        "Installs": 813,
+        "Cost": 52028.596838,
+        "Impressions": 990428,
+        "Clicks": 30128
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Punjab",
+        "Ad Network Type": "SEARCH",
+        "Installs": 553,
+        "Cost": 16659.497271,
+        "Impressions": 23993,
+        "Clicks": 1172
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Punjab",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 6,
+        "Cost": 86.34889799999999,
+        "Impressions": 758,
+        "Clicks": 14
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Punjab",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 245,
+        "Cost": 17437.269921,
+        "Impressions": 416297,
+        "Clicks": 15709
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Raigarh",
+        "Ad Network Type": "CONTENT",
+        "Installs": 16,
+        "Cost": 1039.936896,
+        "Impressions": 21265,
+        "Clicks": 297
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Raigarh",
+        "Ad Network Type": "SEARCH",
+        "Installs": 19,
+        "Cost": 630.38616,
+        "Impressions": 1353,
+        "Clicks": 53
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Raigarh",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 4.75,
+        "Impressions": 62,
+        "Clicks": 1
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Raigarh",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 18,
+        "Cost": 1241.926551,
+        "Impressions": 31834,
+        "Clicks": 965
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Raipur",
+        "Ad Network Type": "CONTENT",
+        "Installs": 985,
+        "Cost": 62594.089555,
+        "Impressions": 1592711,
+        "Clicks": 6503
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Raipur",
+        "Ad Network Type": "SEARCH",
+        "Installs": 1619,
+        "Cost": 31230.241654999998,
+        "Impressions": 38912,
+        "Clicks": 2823
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Raipur",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 9,
+        "Cost": 286.235632,
+        "Impressions": 1053,
+        "Clicks": 26
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Raipur",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 343,
+        "Cost": 21442.149388,
+        "Impressions": 612702,
+        "Clicks": 12102
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Rajahmundry",
+        "Ad Network Type": "CONTENT",
+        "Installs": 275,
+        "Cost": 14336.729975,
+        "Impressions": 162829,
+        "Clicks": 1096
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Rajahmundry",
+        "Ad Network Type": "SEARCH",
+        "Installs": 224,
+        "Cost": 4615.267422,
+        "Impressions": 9829,
+        "Clicks": 464
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Rajahmundry",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 2,
+        "Cost": 15.2,
+        "Impressions": 149,
+        "Clicks": 7
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Rajahmundry",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 200,
+        "Cost": 10764.847552,
+        "Impressions": 275554,
+        "Clicks": 6988
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Rajasthan",
+        "Ad Network Type": "CONTENT",
+        "Installs": 1468,
+        "Cost": 86312.429798,
+        "Impressions": 2092340,
+        "Clicks": 43331
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Rajasthan",
+        "Ad Network Type": "SEARCH",
+        "Installs": 1234,
+        "Cost": 30630.518762,
+        "Impressions": 46004,
+        "Clicks": 2477
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Rajasthan",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 13,
+        "Cost": 593.34983,
+        "Impressions": 1922,
+        "Clicks": 36
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Rajasthan",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 506,
+        "Cost": 28827.151875,
+        "Impressions": 670313,
+        "Clicks": 26216
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Rajkot",
+        "Ad Network Type": "CONTENT",
+        "Installs": 2644,
+        "Cost": 143958.293404,
+        "Impressions": 3207532,
+        "Clicks": 14546
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Rajkot",
+        "Ad Network Type": "SEARCH",
+        "Installs": 3081,
+        "Cost": 34745.028128,
+        "Impressions": 68967,
+        "Clicks": 4852
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Rajkot",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 8,
+        "Cost": 189.42710800000003,
+        "Impressions": 1123,
+        "Clicks": 26
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Rajkot",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 591,
+        "Cost": 28421.108493,
+        "Impressions": 834478,
+        "Clicks": 15848
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Rajsamand",
+        "Ad Network Type": "CONTENT",
+        "Installs": 4,
+        "Cost": 147.345569,
+        "Impressions": 3143,
+        "Clicks": 102
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Rajsamand",
+        "Ad Network Type": "SEARCH",
+        "Installs": 1,
+        "Cost": 61.30938,
+        "Impressions": 75,
+        "Clicks": 3
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Rajsamand",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 31,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Rajsamand",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 9,
+        "Cost": 811.003067,
+        "Impressions": 20677,
+        "Clicks": 849
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ramagundam",
+        "Ad Network Type": "CONTENT",
+        "Installs": 80,
+        "Cost": 4201.669356,
+        "Impressions": 66607,
+        "Clicks": 482
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ramagundam",
+        "Ad Network Type": "SEARCH",
+        "Installs": 51,
+        "Cost": 859.0944450000001,
+        "Impressions": 2720,
+        "Clicks": 95
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ramagundam",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 2.77,
+        "Impressions": 63,
+        "Clicks": 1
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ramagundam",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 79,
+        "Cost": 5118.745898,
+        "Impressions": 138727,
+        "Clicks": 2897
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ranchi",
+        "Ad Network Type": "CONTENT",
+        "Installs": 368,
+        "Cost": 22215.352373,
+        "Impressions": 432894,
+        "Clicks": 2524
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ranchi",
+        "Ad Network Type": "SEARCH",
+        "Installs": 782,
+        "Cost": 23597.206348,
+        "Impressions": 17849,
+        "Clicks": 1467
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ranchi",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 9,
+        "Cost": 332.15999999999997,
+        "Impressions": 833,
+        "Clicks": 15
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Ranchi",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 307,
+        "Cost": 14026.948173,
+        "Impressions": 360399,
+        "Clicks": 7477
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Saharanpur",
+        "Ad Network Type": "CONTENT",
+        "Installs": 129,
+        "Cost": 9309.416369,
+        "Impressions": 268702,
+        "Clicks": 944
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Saharanpur",
+        "Ad Network Type": "SEARCH",
+        "Installs": 177,
+        "Cost": 2911.348235,
+        "Impressions": 5366,
+        "Clicks": 318
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Saharanpur",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 42.69,
+        "Impressions": 210,
+        "Clicks": 4
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Saharanpur",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 19,
+        "Cost": 679.816083,
+        "Impressions": 16366,
+        "Clicks": 406
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Saharsa",
+        "Ad Network Type": "CONTENT",
+        "Installs": 15,
+        "Cost": 873.753841,
+        "Impressions": 23963,
+        "Clicks": 634
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Saharsa",
+        "Ad Network Type": "SEARCH",
+        "Installs": 8,
+        "Cost": 382.9902,
+        "Impressions": 887,
+        "Clicks": 30
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Saharsa",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 27.18,
+        "Impressions": 41,
+        "Clicks": 1
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Saharsa",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 53,
+        "Cost": 3000.2693320000003,
+        "Impressions": 77891,
+        "Clicks": 2890
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Salem",
+        "Ad Network Type": "CONTENT",
+        "Installs": 644,
+        "Cost": 29933.383447,
+        "Impressions": 736830,
+        "Clicks": 2409
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Salem",
+        "Ad Network Type": "SEARCH",
+        "Installs": 1651,
+        "Cost": 22914.158188,
+        "Impressions": 32896,
+        "Clicks": 2940
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Salem",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 6,
+        "Cost": 85.62,
+        "Impressions": 889,
+        "Clicks": 15
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Salem",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 22,
+        "Cost": 897.4012769999999,
+        "Impressions": 20034,
+        "Clicks": 493
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Sambalpur",
+        "Ad Network Type": "CONTENT",
+        "Installs": 51,
+        "Cost": 6581.355414,
+        "Impressions": 151959,
+        "Clicks": 541
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Sambalpur",
+        "Ad Network Type": "SEARCH",
+        "Installs": 99,
+        "Cost": 2411.283188,
+        "Impressions": 5042,
+        "Clicks": 213
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Sambalpur",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 9.39,
+        "Impressions": 190,
+        "Clicks": 2
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Sambalpur",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 24,
+        "Cost": 1604.2256200000002,
+        "Impressions": 42595,
+        "Clicks": 1078
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Sasaram",
+        "Ad Network Type": "CONTENT",
+        "Installs": 8,
+        "Cost": 383.68393100000003,
+        "Impressions": 10768,
+        "Clicks": 197
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Sasaram",
+        "Ad Network Type": "SEARCH",
+        "Installs": 4,
+        "Cost": 92.888413,
+        "Impressions": 557,
+        "Clicks": 14
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Sasaram",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 17,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Sasaram",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 8,
+        "Cost": 824.252769,
+        "Impressions": 22105,
+        "Clicks": 606
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Shaheed Bhagat Nagar",
+        "Ad Network Type": "CONTENT",
+        "Installs": 165,
+        "Cost": 9674.733363,
+        "Impressions": 136165,
+        "Clicks": 2840
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Shaheed Bhagat Nagar",
+        "Ad Network Type": "SEARCH",
+        "Installs": 145,
+        "Cost": 5033.016605,
+        "Impressions": 10832,
+        "Clicks": 311
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Shaheed Bhagat Nagar",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 18,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Shaheed Bhagat Nagar",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 13,
+        "Cost": 1082.459985,
+        "Impressions": 26092,
+        "Clicks": 1227
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Shillong",
+        "Ad Network Type": "CONTENT",
+        "Installs": 154,
+        "Cost": 14919.010159,
+        "Impressions": 204465,
+        "Clicks": 831
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Shillong",
+        "Ad Network Type": "SEARCH",
+        "Installs": 254,
+        "Cost": 4272.013575,
+        "Impressions": 8930,
+        "Clicks": 532
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Shillong",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 38.61,
+        "Impressions": 252,
+        "Clicks": 6
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Shillong",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 50,
+        "Cost": 4050.862355,
+        "Impressions": 117369,
+        "Clicks": 2653
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Shimla",
+        "Ad Network Type": "CONTENT",
+        "Installs": 223,
+        "Cost": 14905.434969,
+        "Impressions": 367242,
+        "Clicks": 1313
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Shimla",
+        "Ad Network Type": "SEARCH",
+        "Installs": 671,
+        "Cost": 12046.154827,
+        "Impressions": 17092,
+        "Clicks": 1186
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Shimla",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 2,
+        "Cost": 23.77,
+        "Impressions": 276,
+        "Clicks": 7
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Shimla",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 8,
+        "Cost": 313.33869799999997,
+        "Impressions": 6803,
+        "Clicks": 226
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Silchar",
+        "Ad Network Type": "CONTENT",
+        "Installs": 63,
+        "Cost": 6632.851847,
+        "Impressions": 82866,
+        "Clicks": 365
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Silchar",
+        "Ad Network Type": "SEARCH",
+        "Installs": 69,
+        "Cost": 1784.611351,
+        "Impressions": 3894,
+        "Clicks": 166
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Silchar",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 13.0,
+        "Impressions": 122,
+        "Clicks": 4
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Silchar",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 19,
+        "Cost": 1480.867289,
+        "Impressions": 39452,
+        "Clicks": 920
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Siliguri",
+        "Ad Network Type": "CONTENT",
+        "Installs": 1389,
+        "Cost": 83035.250556,
+        "Impressions": 1899306,
+        "Clicks": 7467
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Siliguri",
+        "Ad Network Type": "SEARCH",
+        "Installs": 3072,
+        "Cost": 53098.099578,
+        "Impressions": 58240,
+        "Clicks": 4823
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Siliguri",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 3,
+        "Cost": 146.372616,
+        "Impressions": 1725,
+        "Clicks": 30
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Siliguri",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 226,
+        "Cost": 10537.430064,
+        "Impressions": 271163,
+        "Clicks": 5129
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Surajpur",
+        "Ad Network Type": "CONTENT",
+        "Installs": 0,
+        "Cost": 54.417644,
+        "Impressions": 1286,
+        "Clicks": 31
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Surajpur",
+        "Ad Network Type": "SEARCH",
+        "Installs": 1,
+        "Cost": 14.529865,
+        "Impressions": 35,
+        "Clicks": 2
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Surajpur",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 6,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Surajpur",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 0,
+        "Cost": 65.739052,
+        "Impressions": 1892,
+        "Clicks": 70
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Surat",
+        "Ad Network Type": "CONTENT",
+        "Installs": 4202,
+        "Cost": 340735.298047,
+        "Impressions": 7289501,
+        "Clicks": 49524
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Surat",
+        "Ad Network Type": "SEARCH",
+        "Installs": 3544,
+        "Cost": 94546.670901,
+        "Impressions": 160702,
+        "Clicks": 7083
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Surat",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 28,
+        "Cost": 1139.034789,
+        "Impressions": 4562,
+        "Clicks": 97
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Surat",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 3711,
+        "Cost": 299148.087485,
+        "Impressions": 11064250,
+        "Clicks": 211765
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tamil Nadu",
+        "Ad Network Type": "CONTENT",
+        "Installs": 312,
+        "Cost": 14784.581848,
+        "Impressions": 314800,
+        "Clicks": 1953
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tamil Nadu",
+        "Ad Network Type": "SEARCH",
+        "Installs": 856,
+        "Cost": 18720.092751,
+        "Impressions": 15316,
+        "Clicks": 1693
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tamil Nadu",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 5,
+        "Cost": 149.831777,
+        "Impressions": 999,
+        "Clicks": 17
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tamil Nadu",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 268,
+        "Cost": 11325.324944,
+        "Impressions": 309106,
+        "Clicks": 7465
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Telangana",
+        "Ad Network Type": "CONTENT",
+        "Installs": 270,
+        "Cost": 10925.963727999999,
+        "Impressions": 262618,
+        "Clicks": 4956
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Telangana",
+        "Ad Network Type": "SEARCH",
+        "Installs": 230,
+        "Cost": 3659.744852,
+        "Impressions": 4741,
+        "Clicks": 424
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Telangana",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 3,
+        "Cost": 34.55,
+        "Impressions": 389,
+        "Clicks": 7
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Telangana",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 264,
+        "Cost": 10882.373447,
+        "Impressions": 322001,
+        "Clicks": 8275
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tezpur",
+        "Ad Network Type": "CONTENT",
+        "Installs": 15,
+        "Cost": 1739.468643,
+        "Impressions": 50114,
+        "Clicks": 179
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tezpur",
+        "Ad Network Type": "SEARCH",
+        "Installs": 33,
+        "Cost": 848.1162260000001,
+        "Impressions": 1319,
+        "Clicks": 56
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tezpur",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 3.34,
+        "Impressions": 92,
+        "Clicks": 1
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tezpur",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 20,
+        "Cost": 1552.780853,
+        "Impressions": 41790,
+        "Clicks": 938
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tinsukia",
+        "Ad Network Type": "CONTENT",
+        "Installs": 22,
+        "Cost": 1116.372653,
+        "Impressions": 14724,
+        "Clicks": 475
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tinsukia",
+        "Ad Network Type": "SEARCH",
+        "Installs": 8,
+        "Cost": 206.037336,
+        "Impressions": 365,
+        "Clicks": 17
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tinsukia",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 22,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tinsukia",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 15,
+        "Cost": 561.483739,
+        "Impressions": 14772,
+        "Clicks": 637
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tirupati",
+        "Ad Network Type": "CONTENT",
+        "Installs": 1452,
+        "Cost": 63608.02142,
+        "Impressions": 1570088,
+        "Clicks": 6600
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tirupati",
+        "Ad Network Type": "SEARCH",
+        "Installs": 1380,
+        "Cost": 21063.781915,
+        "Impressions": 36772,
+        "Clicks": 2447
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tirupati",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 1,
+        "Cost": 89.846626,
+        "Impressions": 343,
+        "Clicks": 5
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tirupati",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 381,
+        "Cost": 12588.010149,
+        "Impressions": 340156,
+        "Clicks": 9295
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tiruppur",
+        "Ad Network Type": "CONTENT",
+        "Installs": 149,
+        "Cost": 9524.557182999999,
+        "Impressions": 173969,
+        "Clicks": 2210
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tiruppur",
+        "Ad Network Type": "SEARCH",
+        "Installs": 373,
+        "Cost": 12986.421786,
+        "Impressions": 6988,
+        "Clicks": 813
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tiruppur",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 6,
+        "Cost": 247.62020800000002,
+        "Impressions": 1058,
+        "Clicks": 21
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tiruppur",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 235,
+        "Cost": 13589.637326,
+        "Impressions": 370106,
+        "Clicks": 7795
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Trichy",
+        "Ad Network Type": "CONTENT",
+        "Installs": 247,
+        "Cost": 17723.596374,
+        "Impressions": 361096,
+        "Clicks": 1757
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Trichy",
+        "Ad Network Type": "SEARCH",
+        "Installs": 416,
+        "Cost": 12878.166967000001,
+        "Impressions": 12959,
+        "Clicks": 885
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Trichy",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 3,
+        "Cost": 167.41,
+        "Impressions": 589,
+        "Clicks": 10
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Trichy",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 79,
+        "Cost": 4302.02355,
+        "Impressions": 109683,
+        "Clicks": 2397
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Trivandrum",
+        "Ad Network Type": "CONTENT",
+        "Installs": 390,
+        "Cost": 30248.216572,
+        "Impressions": 605900,
+        "Clicks": 3097
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Trivandrum",
+        "Ad Network Type": "SEARCH",
+        "Installs": 1145,
+        "Cost": 37287.636877,
+        "Impressions": 41911,
+        "Clicks": 2247
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Trivandrum",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 6,
+        "Cost": 227.944287,
+        "Impressions": 1703,
+        "Clicks": 29
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Trivandrum",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 10,
+        "Cost": 386.19444699999997,
+        "Impressions": 6509,
+        "Clicks": 134
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tumakuru",
+        "Ad Network Type": "CONTENT",
+        "Installs": 32,
+        "Cost": 2364.0021110000002,
+        "Impressions": 43929,
+        "Clicks": 163
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tumakuru",
+        "Ad Network Type": "SEARCH",
+        "Installs": 137,
+        "Cost": 5528.490907,
+        "Impressions": 2935,
+        "Clicks": 312
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tumakuru",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 2,
+        "Cost": 42.99,
+        "Impressions": 903,
+        "Clicks": 6
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Tumakuru",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 15,
+        "Cost": 729.8386300000001,
+        "Impressions": 17561,
+        "Clicks": 479
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Udaipur",
+        "Ad Network Type": "CONTENT",
+        "Installs": 889,
+        "Cost": 26405.749282,
+        "Impressions": 584169,
+        "Clicks": 2742
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Udaipur",
+        "Ad Network Type": "SEARCH",
+        "Installs": 2499,
+        "Cost": 32171.251677,
+        "Impressions": 50695,
+        "Clicks": 4343
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Udaipur",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 4,
+        "Cost": 180.080509,
+        "Impressions": 1199,
+        "Clicks": 23
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Udaipur",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 49,
+        "Cost": 917.789139,
+        "Impressions": 18939,
+        "Clicks": 412
+    },
+    {
+        "Week": "2026-W09",
+        "City": "UttarPradesh",
+        "Ad Network Type": "CONTENT",
+        "Installs": 1770,
+        "Cost": 98359.104529,
+        "Impressions": 2650321,
+        "Clicks": 24300
+    },
+    {
+        "Week": "2026-W09",
+        "City": "UttarPradesh",
+        "Ad Network Type": "SEARCH",
+        "Installs": 2254,
+        "Cost": 43755.345092999996,
+        "Impressions": 64005,
+        "Clicks": 4275
+    },
+    {
+        "Week": "2026-W09",
+        "City": "UttarPradesh",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 21,
+        "Cost": 463.39357,
+        "Impressions": 3060,
+        "Clicks": 64
+    },
+    {
+        "Week": "2026-W09",
+        "City": "UttarPradesh",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 463,
+        "Cost": 22878.797763,
+        "Impressions": 571349,
+        "Clicks": 19719
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Uttarakhand",
+        "Ad Network Type": "CONTENT",
+        "Installs": 64,
+        "Cost": 5493.15771,
+        "Impressions": 143994,
+        "Clicks": 1083
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Uttarakhand",
+        "Ad Network Type": "SEARCH",
+        "Installs": 137,
+        "Cost": 3899.005164,
+        "Impressions": 2367,
+        "Clicks": 296
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Uttarakhand",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 21.75,
+        "Impressions": 347,
+        "Clicks": 4
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Uttarakhand",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 24,
+        "Cost": 2424.124029,
+        "Impressions": 56569,
+        "Clicks": 1275
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Vadodara",
+        "Ad Network Type": "CONTENT",
+        "Installs": 1785,
+        "Cost": 136267.890663,
+        "Impressions": 3042333,
+        "Clicks": 14896
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Vadodara",
+        "Ad Network Type": "SEARCH",
+        "Installs": 2352,
+        "Cost": 53854.625082,
+        "Impressions": 90409,
+        "Clicks": 4703
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Vadodara",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 12,
+        "Cost": 484.995209,
+        "Impressions": 2404,
+        "Clicks": 49
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Vadodara",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 756,
+        "Cost": 42297.794674000004,
+        "Impressions": 1206450,
+        "Clicks": 28981
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Varanasi",
+        "Ad Network Type": "CONTENT",
+        "Installs": 2004,
+        "Cost": 127169.08165499999,
+        "Impressions": 2738300,
+        "Clicks": 12105
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Varanasi",
+        "Ad Network Type": "SEARCH",
+        "Installs": 3505,
+        "Cost": 72033.296248,
+        "Impressions": 66558,
+        "Clicks": 6176
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Varanasi",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 4,
+        "Cost": 157.01,
+        "Impressions": 1585,
+        "Clicks": 26
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Varanasi",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 504,
+        "Cost": 28505.652669,
+        "Impressions": 786065,
+        "Clicks": 17221
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Vijaywada",
+        "Ad Network Type": "CONTENT",
+        "Installs": 2118,
+        "Cost": 96538.37986,
+        "Impressions": 1703874,
+        "Clicks": 10690
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Vijaywada",
+        "Ad Network Type": "SEARCH",
+        "Installs": 2049,
+        "Cost": 29690.974351,
+        "Impressions": 52998,
+        "Clicks": 3754
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Vijaywada",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 4,
+        "Cost": 54.52,
+        "Impressions": 621,
+        "Clicks": 9
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Vijaywada",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 452,
+        "Cost": 17718.640246,
+        "Impressions": 513746,
+        "Clicks": 12787
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Villupuram",
+        "Ad Network Type": "CONTENT",
+        "Installs": 22,
+        "Cost": 2122.296702,
+        "Impressions": 43783,
+        "Clicks": 226
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Villupuram",
+        "Ad Network Type": "SEARCH",
+        "Installs": 19,
+        "Cost": 761.713651,
+        "Impressions": 1129,
+        "Clicks": 54
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Villupuram",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 46,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Villupuram",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 19,
+        "Cost": 1869.0343750000002,
+        "Impressions": 47258,
+        "Clicks": 1206
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Virudhunagar",
+        "Ad Network Type": "CONTENT",
+        "Installs": 8,
+        "Cost": 1156.231613,
+        "Impressions": 22219,
+        "Clicks": 124
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Virudhunagar",
+        "Ad Network Type": "SEARCH",
+        "Installs": 25,
+        "Cost": 1273.125194,
+        "Impressions": 660,
+        "Clicks": 59
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Virudhunagar",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 21,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Virudhunagar",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 14,
+        "Cost": 836.1527669999999,
+        "Impressions": 22398,
+        "Clicks": 512
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Visakhapatnam",
+        "Ad Network Type": "CONTENT",
+        "Installs": 1413,
+        "Cost": 52106.225817000006,
+        "Impressions": 823904,
+        "Clicks": 4693
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Visakhapatnam",
+        "Ad Network Type": "SEARCH",
+        "Installs": 2428,
+        "Cost": 28867.573691999998,
+        "Impressions": 35534,
+        "Clicks": 4324
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Visakhapatnam",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 3,
+        "Cost": 65.95374699999999,
+        "Impressions": 434,
+        "Clicks": 8
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Visakhapatnam",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 249,
+        "Cost": 6013.413343,
+        "Impressions": 158980,
+        "Clicks": 4059
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Warangal",
+        "Ad Network Type": "CONTENT",
+        "Installs": 325,
+        "Cost": 16056.626828999999,
+        "Impressions": 291504,
+        "Clicks": 3665
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Warangal",
+        "Ad Network Type": "SEARCH",
+        "Installs": 202,
+        "Cost": 2637.4058569999997,
+        "Impressions": 6975,
+        "Clicks": 360
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Warangal",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 2,
+        "Cost": 34.16,
+        "Impressions": 138,
+        "Clicks": 4
+    },
+    {
+        "Week": "2026-W09",
+        "City": "Warangal",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 172,
+        "Cost": 9065.306356,
+        "Impressions": 282393,
+        "Clicks": 6632
+    },
+    {
+        "Week": "2026-W09",
+        "City": "West Bengal",
+        "Ad Network Type": "CONTENT",
+        "Installs": 132,
+        "Cost": 5822.766019,
+        "Impressions": 76382,
+        "Clicks": 1619
+    },
+    {
+        "Week": "2026-W09",
+        "City": "West Bengal",
+        "Ad Network Type": "SEARCH",
+        "Installs": 105,
+        "Cost": 951.183786,
+        "Impressions": 2619,
+        "Clicks": 177
+    },
+    {
+        "Week": "2026-W09",
+        "City": "West Bengal",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 2,
+        "Cost": 38.75,
+        "Impressions": 42,
+        "Clicks": 2
+    },
+    {
+        "Week": "2026-W09",
+        "City": "West Bengal",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 62,
+        "Cost": 3075.763191,
+        "Impressions": 83895,
+        "Clicks": 2058
+    },
+    {
+        "Week": "2026-W09",
+        "City": "bhuvangiri",
+        "Ad Network Type": "CONTENT",
+        "Installs": 20,
+        "Cost": 1129.079379,
+        "Impressions": 19592,
+        "Clicks": 110
+    },
+    {
+        "Week": "2026-W09",
+        "City": "bhuvangiri",
+        "Ad Network Type": "SEARCH",
+        "Installs": 10,
+        "Cost": 580.360695,
+        "Impressions": 633,
+        "Clicks": 35
+    },
+    {
+        "Week": "2026-W09",
+        "City": "bhuvangiri",
+        "Ad Network Type": "SEARCH_PARTNERS",
+        "Installs": 0,
+        "Cost": 0.0,
+        "Impressions": 17,
+        "Clicks": 0
+    },
+    {
+        "Week": "2026-W09",
+        "City": "bhuvangiri",
+        "Ad Network Type": "YOUTUBE",
+        "Installs": 17,
+        "Cost": 1005.770413,
+        "Impressions": 28843,
+        "Clicks": 525
+    }
+]

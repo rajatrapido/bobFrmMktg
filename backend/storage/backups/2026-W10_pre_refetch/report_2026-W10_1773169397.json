@@ -1,0 +1,2820 @@
+{
+  "week": "2026-W10",
+  "report_type": "google_ads_app_campaign_weekly",
+  "period_config": {
+    "current_week": "2026-W10",
+    "last_week": "2026-W09",
+    "baseline_weeks": [
+      "2026-W07",
+      "2026-W08",
+      "2026-W09"
+    ],
+    "baseline_label": "3W Avg"
+  },
+  "network_dimension": {
+    "allowed_networks_raw": [
+      "SEARCH",
+      "SEARCH_PARTNERS",
+      "YOUTUBE",
+      "DISPLAY"
+    ],
+    "raw_to_report_mapping": {
+      "CONTENT": "DISPLAY",
+      "SEARCH": "SEARCH",
+      "SEARCH_PARTNERS": "SEARCH",
+      "YOUTUBE": "YOUTUBE",
+      "DISPLAY": "DISPLAY"
+    },
+    "final_rows": [
+      "SEARCH",
+      "YOUTUBE",
+      "DISPLAY"
+    ]
+  },
+  "pan_summary": {
+    "metrics": {
+      "installs": {
+        "cw": 403633,
+        "lw": 686909,
+        "baseline_avg": 721223,
+        "cw_vs_lw_pct": -41.24,
+        "cw_vs_baseline_pct": -44.03
+      },
+      "cost": {
+        "cw": 13219841.221,
+        "lw": 19519170.726,
+        "baseline_avg": 19711845.064,
+        "cw_vs_lw_pct": -32.27,
+        "cw_vs_baseline_pct": -32.93
+      },
+      "impressions": {
+        "cw": 241483300,
+        "lw": 299387591,
+        "baseline_avg": 292673068,
+        "cw_vs_lw_pct": -19.34,
+        "cw_vs_baseline_pct": -17.49
+      },
+      "clicks": {
+        "cw": 3241968,
+        "lw": 4269722,
+        "baseline_avg": 4285043,
+        "cw_vs_lw_pct": -24.07,
+        "cw_vs_baseline_pct": -24.34
+      }
+    },
+    "ratios": {
+      "ctr": {
+        "cw": 1.3425,
+        "lw": 1.4262,
+        "baseline_avg": 1.4641,
+        "cw_vs_lw_pct": -5.86,
+        "cw_vs_baseline_pct": -8.3
+      },
+      "cpc": {
+        "cw": 4.0777,
+        "lw": 4.5715,
+        "baseline_avg": 4.6002,
+        "cw_vs_lw_pct": -10.8,
+        "cw_vs_baseline_pct": -11.36
+      },
+      "cpm": {
+        "cw": 54.7443,
+        "lw": 65.197,
+        "baseline_avg": 67.3511,
+        "cw_vs_lw_pct": -16.03,
+        "cw_vs_baseline_pct": -18.72
+      },
+      "cti": {
+        "cw": 12.4502,
+        "lw": 16.0879,
+        "baseline_avg": 16.8312,
+        "cw_vs_lw_pct": -22.61,
+        "cw_vs_baseline_pct": -26.03
+      }
+    },
+    "advanced": {
+      "cost_per_incremental_install": {
+        "cw_vs_lw": 22.2374,
+        "cw_vs_baseline": 20.4414
+      },
+      "incremental_install_share": {
+        "cw": 100.0,
+        "lw": 170.1816,
+        "baseline_avg": 178.6829
+      },
+      "spend_mix_shift_pct": {
+        "search": -19.3305,
+        "youtube": -0.5181,
+        "display": 19.8485
+      }
+    }
+  },
+  "network_summary": {
+    "rows": [
+      {
+        "network": "SEARCH",
+        "metrics": {
+          "installs": {
+            "cw": 154227,
+            "lw": 394256,
+            "cw_vs_lw_pct": -60.88
+          },
+          "cost": {
+            "cw": 1690165.954,
+            "lw": 6268683.835,
+            "cw_vs_lw_pct": -73.04
+          },
+          "impressions": {
+            "cw": 3154829,
+            "lw": 9035263,
+            "cw_vs_lw_pct": -65.08
+          },
+          "clicks": {
+            "cw": 262831,
+            "lw": 702558,
+            "cw_vs_lw_pct": -62.59
+          }
+        },
+        "ratios": {
+          "ctr": {
+            "cw": 8.3311,
+            "lw": 7.7757,
+            "cw_vs_lw_pct": 7.14
+          },
+          "cpc": {
+            "cw": 6.4306,
+            "lw": 8.9227,
+            "cw_vs_lw_pct": -27.93
+          },
+          "cpm": {
+            "cw": 535.7393,
+            "lw": 693.802,
+            "cw_vs_lw_pct": -22.78
+          },
+          "cti": {
+            "cw": 58.6792,
+            "lw": 56.1172,
+            "cw_vs_lw_pct": 4.57
+          }
+        },
+        "advanced": {
+          "cost_per_incremental_install": 19.0749,
+          "incremental_install_share": -24002900.0,
+          "spend_mix_shift_pct": -19.3305,
+          "creative_fatigue_signal": false,
+          "efficiency_deterioration_signal": false
+        }
+      },
+      {
+        "network": "YOUTUBE",
+        "metrics": {
+          "installs": {
+            "cw": 34304,
+            "lw": 57269,
+            "cw_vs_lw_pct": -40.1
+          },
+          "cost": {
+            "cw": 1628132.415,
+            "lw": 2505070.815,
+            "cw_vs_lw_pct": -35.01
+          },
+          "impressions": {
+            "cw": 47464039,
+            "lw": 69762537,
+            "cw_vs_lw_pct": -31.96
+          },
+          "clicks": {
+            "cw": 1365664,
+            "lw": 1917877,
+            "cw_vs_lw_pct": -28.79
+          }
+        },
+        "ratios": {
+          "ctr": {
+            "cw": 2.8773,
+            "lw": 2.7492,
+            "cw_vs_lw_pct": 4.66
+          },
+          "cpc": {
+            "cw": 1.1922,
+            "lw": 1.3062,
+            "cw_vs_lw_pct": -8.73
+          },
+          "cpm": {
+            "cw": 34.3024,
+            "lw": 35.9085,
+            "cw_vs_lw_pct": -4.47
+          },
+          "cti": {
+            "cw": 2.5119,
+            "lw": 2.9861,
+            "cw_vs_lw_pct": -15.88
+          }
+        },
+        "advanced": {
+          "cost_per_incremental_install": 38.1859,
+          "incremental_install_share": -2296500.0,
+          "spend_mix_shift_pct": -0.5181,
+          "creative_fatigue_signal": false,
+          "efficiency_deterioration_signal": false
+        }
+      },
+      {
+        "network": "DISPLAY",
+        "metrics": {
+          "installs": {
+            "cw": 215102,
+            "lw": 235384,
+            "cw_vs_lw_pct": -8.62
+          },
+          "cost": {
+            "cw": 9901542.852,
+            "lw": 10745416.077,
+            "cw_vs_lw_pct": -7.85
+          },
+          "impressions": {
+            "cw": 190864432,
+            "lw": 220589791,
+            "cw_vs_lw_pct": -13.48
+          },
+          "clicks": {
+            "cw": 1613473,
+            "lw": 1649287,
+            "cw_vs_lw_pct": -2.17
+          }
+        },
+        "ratios": {
+          "ctr": {
+            "cw": 0.8454,
+            "lw": 0.7477,
+            "cw_vs_lw_pct": 13.06
+          },
+          "cpc": {
+            "cw": 6.1368,
+            "lw": 6.5152,
+            "cw_vs_lw_pct": -5.81
+          },
+          "cpm": {
+            "cw": 51.8774,
+            "lw": 48.7122,
+            "cw_vs_lw_pct": 6.5
+          },
+          "cti": {
+            "cw": 13.3316,
+            "lw": 14.2719,
+            "cw_vs_lw_pct": -6.59
+          }
+        },
+        "advanced": {
+          "cost_per_incremental_install": 41.607,
+          "incremental_install_share": -2028200.0,
+          "spend_mix_shift_pct": 19.8485,
+          "creative_fatigue_signal": false,
+          "efficiency_deterioration_signal": false
+        }
+      }
+    ]
+  },
+  "significant_changes": [
+    {
+      "level": "city",
+      "entity": "Bangalore",
+      "significance": {
+        "delta_installs": -17017,
+        "pct_change": -58.18,
+        "zscore": -9.346,
+        "impact_score": 0.0422,
+        "learning_or_volatility_flag": false
+      },
+      "summary_metrics": {
+        "metrics": {
+          "installs": {
+            "cw": 12233,
+            "lw": 29250,
+            "baseline_avg": 28972,
+            "cw_vs_lw_pct": -58.18,
+            "cw_vs_baseline_pct": -57.78
+          },
+          "cost": {
+            "cw": 255716.732,
+            "lw": 483718.968,
+            "baseline_avg": 477814.247,
+            "cw_vs_lw_pct": -47.14,
+            "cw_vs_baseline_pct": -46.48
+          },
+          "impressions": {
+            "cw": 5700378,
+            "lw": 6663995,
+            "baseline_avg": 6715909,
+            "cw_vs_lw_pct": -14.46,
+            "cw_vs_baseline_pct": -15.12
+          },
+          "clicks": {
+            "cw": 102872,
+            "lw": 138940,
+            "baseline_avg": 147004,
+            "cw_vs_lw_pct": -25.96,
+            "cw_vs_baseline_pct": -30.02
+          }
+        },
+        "ratios": {
+          "ctr": {
+            "cw": 1.8047,
+            "lw": 2.0849,
+            "baseline_avg": 2.1889,
+            "cw_vs_lw_pct": -13.44,
+            "cw_vs_baseline_pct": -17.55
+          },
+          "cpc": {
+            "cw": 2.4858,
+            "lw": 3.4815,
+            "baseline_avg": 3.2503,
+            "cw_vs_lw_pct": -28.6,
+            "cw_vs_baseline_pct": -23.52
+          },
+          "cpm": {
+            "cw": 44.8596,
+            "lw": 72.5869,
+            "baseline_avg": 71.1466,
+            "cw_vs_lw_pct": -38.2,
+            "cw_vs_baseline_pct": -36.95
+          },
+          "cti": {
+            "cw": 11.8915,
+            "lw": 21.0523,
+            "baseline_avg": 19.7085,
+            "cw_vs_lw_pct": -43.51,
+            "cw_vs_baseline_pct": -39.66
+          }
+        },
+        "advanced": {
+          "cost_per_incremental_install": {
+            "cw_vs_lw": 13.3985,
+            "cw_vs_baseline": 13.268
+          },
+          "incremental_install_share": {
+            "cw": 100.0,
+            "lw": 239.1073,
+            "baseline_avg": 236.8375
+          },
+          "spend_mix_shift_pct": -0.5438,
+          "creative_fatigue_signal": false,
+          "efficiency_deterioration_signal": false,
+          "learning_or_volatility_flag": false
+        }
+      },
+      "network_breakdown": {
+        "rows": [
+          {
+            "network": "SEARCH",
+            "metrics": {
+              "installs": {
+                "cw": 3466,
+                "lw": 20881,
+                "cw_vs_lw_pct": -83.4
+              },
+              "cost": {
+                "cw": 19819.18,
+                "lw": 244068.741,
+                "cw_vs_lw_pct": -91.88
+              },
+              "impressions": {
+                "cw": 35076,
+                "lw": 309500,
+                "cw_vs_lw_pct": -88.67
+              },
+              "clicks": {
+                "cw": 5102,
+                "lw": 32619,
+                "cw_vs_lw_pct": -84.36
+              }
+            },
+            "ratios": {
+              "ctr": {
+                "cw": 14.5456,
+                "lw": 10.5393,
+                "cw_vs_lw_pct": 38.01
+              },
+              "cpc": {
+                "cw": 3.8846,
+                "lw": 7.4824,
+                "cw_vs_lw_pct": -48.08
+              },
+              "cpm": {
+                "cw": 565.0353,
+                "lw": 788.5904,
+                "cw_vs_lw_pct": -28.35
+              },
+              "cti": {
+                "cw": 67.9341,
+                "lw": 64.0148,
+                "cw_vs_lw_pct": 6.12
+              }
+            }
+          },
+          {
+            "network": "YOUTUBE",
+            "metrics": {
+              "installs": {
+                "cw": 2244,
+                "lw": 2756,
+                "cw_vs_lw_pct": -18.58
+              },
+              "cost": {
+                "cw": 93490.502,
+                "lw": 110454.175,
+                "cw_vs_lw_pct": -15.36
+              },
+              "impressions": {
+                "cw": 2507506,
+                "lw": 3049775,
+                "cw_vs_lw_pct": -17.78
+              },
+              "clicks": {
+                "cw": 59190,
+                "lw": 72720,
+                "cw_vs_lw_pct": -18.61
+              }
+            },
+            "ratios": {
+              "ctr": {
+                "cw": 2.3605,
+                "lw": 2.3844,
+                "cw_vs_lw_pct": -1.0
+              },
+              "cpc": {
+                "cw": 1.5795,
+                "lw": 1.5189,
+                "cw_vs_lw_pct": 3.99
+              },
+              "cpm": {
+                "cw": 37.2843,
+                "lw": 36.2172,
+                "cw_vs_lw_pct": 2.95
+              },
+              "cti": {
+                "cw": 3.7912,
+                "lw": 3.7899,
+                "cw_vs_lw_pct": 0.03
+              }
+            }
+          },
+          {
+            "network": "DISPLAY",
+            "metrics": {
+              "installs": {
+                "cw": 6523,
+                "lw": 5613,
+                "cw_vs_lw_pct": 16.21
+              },
+              "cost": {
+                "cw": 142407.05,
+                "lw": 129196.051,
+                "cw_vs_lw_pct": 10.23
+              },
+              "impressions": {
+                "cw": 3157796,
+                "lw": 3304720,
+                "cw_vs_lw_pct": -4.45
+              },
+              "clicks": {
+                "cw": 38580,
+                "lw": 33601,
+                "cw_vs_lw_pct": 14.82
+              }
+            },
+            "ratios": {
+              "ctr": {
+                "cw": 1.2217,
+                "lw": 1.0168,
+                "cw_vs_lw_pct": 20.16
+              },
+              "cpc": {
+                "cw": 3.6912,
+                "lw": 3.845,
+                "cw_vs_lw_pct": -4.0
+              },
+              "cpm": {
+                "cw": 45.097,
+                "lw": 39.0944,
+                "cw_vs_lw_pct": 15.35
+              },
+              "cti": {
+                "cw": 16.9077,
+                "lw": 16.7049,
+                "cw_vs_lw_pct": 1.21
+              }
+            }
+          }
+        ]
+      },
+      "campaigns_to_check": [
+        {
+          "campaign": "BAU-Android-Bangalore-City-Platform-FTU_Firebase_Nov25_Search",
+          "contribution": {
+            "install_delta": -12572,
+            "share_of_entity_delta_pct": 73.88
+          },
+          "metrics": {
+            "installs": {
+              "cw": 7044,
+              "lw": 19616,
+              "baseline_avg": 19029,
+              "cw_vs_lw_pct": -64.09,
+              "cw_vs_baseline_pct": -62.98
+            },
+            "cost": {
+              "cw": 38507.376,
+              "lw": 136792.642,
+              "baseline_avg": 132826.525,
+              "cw_vs_lw_pct": -71.85,
+              "cw_vs_baseline_pct": -71.01
+            },
+            "impressions": {
+              "cw": 476157,
+              "lw": 552597,
+              "baseline_avg": 595618,
+              "cw_vs_lw_pct": -13.83,
+              "cw_vs_baseline_pct": -20.06
+            },
+            "clicks": {
+              "cw": 10725,
+              "lw": 28458,
+              "baseline_avg": 27612,
+              "cw_vs_lw_pct": -62.31,
+              "cw_vs_baseline_pct": -61.16
+            }
+          },
+          "ratios": {
+            "ctr": {
+              "cw": 2.2524,
+              "lw": 5.1499,
+              "baseline_avg": 4.6358,
+              "cw_vs_lw_pct": -56.26,
+              "cw_vs_baseline_pct": -51.41
+            },
+            "cpc": {
+              "cw": 3.5904,
+              "lw": 4.8068,
+              "baseline_avg": 4.8105,
+              "cw_vs_lw_pct": -25.31,
+              "cw_vs_baseline_pct": -25.36
+            },
+            "cpm": {
+              "cw": 80.8712,
+              "lw": 247.545,
+              "baseline_avg": 223.0061,
+              "cw_vs_lw_pct": -67.33,
+              "cw_vs_baseline_pct": -63.74
+            },
+            "cti": {
+              "cw": 65.6783,
+              "lw": 68.9297,
+              "baseline_avg": 68.9177,
+              "cw_vs_lw_pct": -4.72,
+              "cw_vs_baseline_pct": -4.7
+            }
+          },
+          "advanced": {
+            "cost_per_incremental_install": {
+              "cw_vs_lw": 7.8178,
+              "cw_vs_baseline": 7.8695
+            },
+            "incremental_install_share": {
+              "cw": 100.0,
+              "lw": 278.4781,
+              "baseline_avg": 270.1495
+            },
+            "spend_mix_shift_pct": -13.2208,
+            "creative_fatigue_signal": false,
+            "efficiency_deterioration_signal": false,
+            "learning_or_volatility_flag": false
+          },
+          "network_breakdown": {
+            "rows": [
+              {
+                "network": "SEARCH",
+                "metrics": {
+                  "installs": {
+                    "cw": 3466,
+                    "lw": 16738,
+                    "cw_vs_lw_pct": -79.29
+                  },
+                  "cost": {
+                    "cw": 19819.18,
+                    "lw": 121791.333,
+                    "cw_vs_lw_pct": -83.73
+                  },
+                  "impressions": {
+                    "cw": 35076,
+                    "lw": 200000,
+                    "cw_vs_lw_pct": -82.46
+                  },
+                  "clicks": {
+                    "cw": 5102,
+                    "lw": 24057,
+                    "cw_vs_lw_pct": -78.79
+                  }
+                },
+                "ratios": {
+                  "ctr": {
+                    "cw": 14.5456,
+                    "lw": 12.0285,
+                    "cw_vs_lw_pct": 20.93
+                  },
+                  "cpc": {
+                    "cw": 3.8846,
+                    "lw": 5.0626,
+                    "cw_vs_lw_pct": -23.27
+                  },
+                  "cpm": {
+                    "cw": 565.0353,
+                    "lw": 608.9567,
+                    "cw_vs_lw_pct": -7.21
+                  },
+                  "cti": {
+                    "cw": 67.9341,
+                    "lw": 69.5764,
+                    "cw_vs_lw_pct": -2.36
+                  }
+                }
+              },
+              {
+                "network": "YOUTUBE",
+                "metrics": {
+                  "installs": {
+                    "cw": 0,
+                    "lw": 3,
+                    "cw_vs_lw_pct": -100.0
+                  },
+                  "cost": {
+                    "cw": 0.0,
+                    "lw": 10.712,
+                    "cw_vs_lw_pct": -100.0
+                  },
+                  "impressions": {
+                    "cw": 0,
+                    "lw": 74,
+                    "cw_vs_lw_pct": -100.0
+                  },
+                  "clicks": {
+                    "cw": 0,
+                    "lw": 2,
+                    "cw_vs_lw_pct": -100.0
+                  }
+                },
+                "ratios": {
+                  "ctr": {
+                    "cw": 0.0,
+                    "lw": 2.7027,
+                    "cw_vs_lw_pct": -100.0
+                  },
+                  "cpc": {
+                    "cw": 0.0,
+                    "lw": 5.3562,
+                    "cw_vs_lw_pct": -100.0
+                  },
+                  "cpm": {
+                    "cw": 0.0,
+                    "lw": 144.7619,
+                    "cw_vs_lw_pct": -100.0
+                  },
+                  "cti": {
+                    "cw": 0.0,
+                    "lw": 150.0,
+                    "cw_vs_lw_pct": -100.0
+                  }
+                }
+              },
+              {
+                "network": "DISPLAY",
+                "metrics": {
+                  "installs": {
+                    "cw": 3578,
+                    "lw": 2875,
+                    "cw_vs_lw_pct": 24.45
+                  },
+                  "cost": {
+                    "cw": 18688.196,
+                    "lw": 14990.597,
+                    "cw_vs_lw_pct": 24.67
+                  },
+                  "impressions": {
+                    "cw": 441081,
+                    "lw": 352523,
+                    "cw_vs_lw_pct": 25.12
+                  },
+                  "clicks": {
+                    "cw": 5623,
+                    "lw": 4399,
+                    "cw_vs_lw_pct": 27.82
+                  }
+                },
+                "ratios": {
+                  "ctr": {
+                    "cw": 1.2748,
+                    "lw": 1.2479,
+                    "cw_vs_lw_pct": 2.16
+                  },
+                  "cpc": {
+                    "cw": 3.3235,
+                    "lw": 3.4077,
+                    "cw_vs_lw_pct": -2.47
+                  },
+                  "cpm": {
+                    "cw": 42.3691,
+                    "lw": 42.5237,
+                    "cw_vs_lw_pct": -0.36
+                  },
+                  "cti": {
+                    "cw": 63.6315,
+                    "lw": 65.3558,
+                    "cw_vs_lw_pct": -2.64
+                  }
+                }
+              }
+            ]
+          },
+          "adgroups_to_check": [
+            {
+              "ad_group": "ATL-Bawaal KV-PAN-ABC-English-Mar25",
+              "contribution": {
+                "install_delta": -7898,
+                "share_of_campaign_delta_pct": 62.82
+              },
+              "metrics": {
+                "installs": {
+                  "cw": 1792,
+                  "lw": 9690,
+                  "baseline_avg": 9494,
+                  "cw_vs_lw_pct": -81.51,
+                  "cw_vs_baseline_pct": -81.12
+                },
+                "cost": {
+                  "cw": 9104.532,
+                  "lw": 67743.988,
+                  "baseline_avg": 65659.892,
+                  "cw_vs_lw_pct": -86.56,
+                  "cw_vs_baseline_pct": -86.13
+                },
+                "impressions": {
+                  "cw": 220776,
+                  "lw": 275423,
+                  "baseline_avg": 297213,
+                  "cw_vs_lw_pct": -19.84,
+                  "cw_vs_baseline_pct": -25.72
+                },
+                "clicks": {
+                  "cw": 2797,
+                  "lw": 13947,
+                  "baseline_avg": 13678,
+                  "cw_vs_lw_pct": -79.95,
+                  "cw_vs_baseline_pct": -79.55
+                }
+              },
+              "ratios": {
+                "ctr": {
+                  "cw": 1.2669,
+                  "lw": 5.0638,
+                  "baseline_avg": 4.6021,
+                  "cw_vs_lw_pct": -74.98,
+                  "cw_vs_baseline_pct": -72.47
+                },
+                "cpc": {
+                  "cw": 3.2551,
+                  "lw": 4.8572,
+                  "baseline_avg": 4.8004,
+                  "cw_vs_lw_pct": -32.98,
+                  "cw_vs_baseline_pct": -32.19
+                },
+                "cpm": {
+                  "cw": 41.2388,
+                  "lw": 245.9634,
+                  "baseline_avg": 220.9189,
+                  "cw_vs_lw_pct": -83.23,
+                  "cw_vs_baseline_pct": -81.33
+                },
+                "cti": {
+                  "cw": 64.0686,
+                  "lw": 69.4773,
+                  "baseline_avg": 69.4083,
+                  "cw_vs_lw_pct": -7.78,
+                  "cw_vs_baseline_pct": -7.69
+                }
+              },
+              "advanced": {
+                "creative_fatigue_signal": false,
+                "efficiency_deterioration_signal": false,
+                "learning_or_volatility_flag": false
+              }
+            },
+            {
+              "ad_group": "ATL-Breakup KV-PAN-ABC-English-Apr25",
+              "contribution": {
+                "install_delta": -4674,
+                "share_of_campaign_delta_pct": 37.18
+              },
+              "metrics": {
+                "installs": {
+                  "cw": 5252,
+                  "lw": 9926,
+                  "baseline_avg": 9536,
+                  "cw_vs_lw_pct": -47.09,
+                  "cw_vs_baseline_pct": -44.92
+                },
+                "cost": {
+                  "cw": 29402.844,
+                  "lw": 69048.654,
+                  "baseline_avg": 67166.633,
+                  "cw_vs_lw_pct": -57.42,
+                  "cw_vs_baseline_pct": -56.22
+                },
+                "impressions": {
+                  "cw": 255381,
+                  "lw": 277174,
+                  "baseline_avg": 298406,
+                  "cw_vs_lw_pct": -7.86,
+                  "cw_vs_baseline_pct": -14.42
+                },
+                "clicks": {
+                  "cw": 7928,
+                  "lw": 14511,
+                  "baseline_avg": 13934,
+                  "cw_vs_lw_pct": -45.37,
+                  "cw_vs_baseline_pct": -43.1
+                }
+              },
+              "ratios": {
+                "ctr": {
+                  "cw": 3.1044,
+                  "lw": 5.2353,
+                  "baseline_avg": 4.6694,
+                  "cw_vs_lw_pct": -40.7,
+                  "cw_vs_baseline_pct": -33.52
+                },
+                "cpc": {
+                  "cw": 3.7087,
+                  "lw": 4.7584,
+                  "baseline_avg": 4.8205,
+                  "cw_vs_lw_pct": -22.06,
+                  "cw_vs_baseline_pct": -23.06
+                },
+                "cpm": {
+                  "cw": 115.1332,
+                  "lw": 249.1166,
+                  "baseline_avg": 225.085,
+                  "cw_vs_lw_pct": -53.78,
+                  "cw_vs_baseline_pct": -48.85
+                },
+                "cti": {
+                  "cw": 66.2462,
+                  "lw": 68.4033,
+                  "baseline_avg": 68.4362,
+                  "cw_vs_lw_pct": -3.15,
+                  "cw_vs_baseline_pct": -3.2
+                }
+              },
+              "advanced": {
+                "creative_fatigue_signal": false,
+                "efficiency_deterioration_signal": false,
+                "learning_or_volatility_flag": false
+              }
+            }
+          ]
+        },
+        {
+          "campaign": "BAU-Android-Bangalore-City-Platform-Install_Firebase_Jun24",
+          "contribution": {
+            "install_delta": -4445,
+            "share_of_entity_delta_pct": 26.12
+          },
+          "metrics": {
+            "installs": {
+              "cw": 5189,
+              "lw": 9634,
+              "baseline_avg": 9943,
+              "cw_vs_lw_pct": -46.14,
+              "cw_vs_baseline_pct": -47.81
+            },
+            "cost": {
+              "cw": 217209.356,
+              "lw": 346926.326,
+              "baseline_avg": 344987.722,
+              "cw_vs_lw_pct": -37.39,
+              "cw_vs_baseline_pct": -37.04
+            },
+            "impressions": {
+              "cw": 5224221,
+              "lw": 6111398,
+              "baseline_avg": 6120291,
+              "cw_vs_lw_pct": -14.52,
+              "cw_vs_baseline_pct": -14.64
+            },
+            "clicks": {
+              "cw": 92147,
+              "lw": 110482,
+              "baseline_avg": 119392,
+              "cw_vs_lw_pct": -16.6,
+              "cw_vs_baseline_pct": -22.82
+            }
+          },
+          "ratios": {
+            "ctr": {
+              "cw": 1.7638,
+              "lw": 1.8078,
+              "baseline_avg": 1.9508,
+              "cw_vs_lw_pct": -2.43,
+              "cw_vs_baseline_pct": -9.58
+            },
+            "cpc": {
+              "cw": 2.3572,
+              "lw": 3.1401,
+              "baseline_avg": 2.8895,
+              "cw_vs_lw_pct": -24.93,
+              "cw_vs_baseline_pct": -18.42
+            },
+            "cpm": {
+              "cw": 41.5774,
+              "lw": 56.7671,
+              "baseline_avg": 56.3679,
+              "cw_vs_lw_pct": -26.76,
+              "cw_vs_baseline_pct": -26.24
+            },
+            "cti": {
+              "cw": 5.6312,
+              "lw": 8.72,
+              "baseline_avg": 8.328,
+              "cw_vs_lw_pct": -35.42,
+              "cw_vs_baseline_pct": -32.38
+            }
+          },
+          "advanced": {
+            "cost_per_incremental_install": {
+              "cw_vs_lw": 29.1827,
+              "cw_vs_baseline": 26.8781
+            },
+            "incremental_install_share": {
+              "cw": 100.0,
+              "lw": 185.662,
+              "baseline_avg": 191.6169
+            },
+            "spend_mix_shift_pct": 13.2208,
+            "creative_fatigue_signal": false,
+            "efficiency_deterioration_signal": false,
+            "learning_or_volatility_flag": false
+          },
+          "network_breakdown": {
+            "rows": [
+              {
+                "network": "SEARCH",
+                "metrics": {
+                  "installs": {
+                    "cw": 0,
+                    "lw": 4143,
+                    "cw_vs_lw_pct": -100.0
+                  },
+                  "cost": {
+                    "cw": 0.0,
+                    "lw": 122277.408,
+                    "cw_vs_lw_pct": -100.0
+                  },
+                  "impressions": {
+                    "cw": 0,
+                    "lw": 109500,
+                    "cw_vs_lw_pct": -100.0
+                  },
+                  "clicks": {
+                    "cw": 0,
+                    "lw": 8562,
+                    "cw_vs_lw_pct": -100.0
+                  }
+                },
+                "ratios": {
+                  "ctr": {
+                    "cw": 0.0,
+                    "lw": 7.8192,
+                    "cw_vs_lw_pct": -100.0
+                  },
+                  "cpc": {
+                    "cw": 0.0,
+                    "lw": 14.2814,
+                    "cw_vs_lw_pct": -100.0
+                  },
+                  "cpm": {
+                    "cw": 0.0,
+                    "lw": 1116.6887,
+                    "cw_vs_lw_pct": -100.0
+                  },
+                  "cti": {
+                    "cw": 0.0,
+                    "lw": 48.3882,
+                    "cw_vs_lw_pct": -100.0
+                  }
+                }
+              },
+              {
+                "network": "YOUTUBE",
+                "metrics": {
+                  "installs": {
+                    "cw": 2244,
+                    "lw": 2753,
+                    "cw_vs_lw_pct": -18.49
+                  },
+                  "cost": {
+                    "cw": 93490.502,
+                    "lw": 110443.463,
+                    "cw_vs_lw_pct": -15.35
+                  },
+                  "impressions": {
+                    "cw": 2507506,
+                    "lw": 3049701,
+                    "cw_vs_lw_pct": -17.78
+                  },
+                  "clicks": {
+                    "cw": 59190,
+                    "lw": 72718,
+                    "cw_vs_lw_pct": -18.6
+                  }
+                },
+                "ratios": {
+                  "ctr": {
+                    "cw": 2.3605,
+                    "lw": 2.3844,
+                    "cw_vs_lw_pct": -1.0
+                  },
+                  "cpc": {
+                    "cw": 1.5795,
+                    "lw": 1.5188,
+                    "cw_vs_lw_pct": 4.0
+                  },
+                  "cpm": {
+                    "cw": 37.2843,
+                    "lw": 36.2145,
+                    "cw_vs_lw_pct": 2.95
+                  },
+                  "cti": {
+                    "cw": 3.7912,
+                    "lw": 3.7859,
+                    "cw_vs_lw_pct": 0.14
+                  }
+                }
+              },
+              {
+                "network": "DISPLAY",
+                "metrics": {
+                  "installs": {
+                    "cw": 2945,
+                    "lw": 2738,
+                    "cw_vs_lw_pct": 7.56
+                  },
+                  "cost": {
+                    "cw": 123718.854,
+                    "lw": 114205.455,
+                    "cw_vs_lw_pct": 8.33
+                  },
+                  "impressions": {
+                    "cw": 2716715,
+                    "lw": 2952197,
+                    "cw_vs_lw_pct": -7.98
+                  },
+                  "clicks": {
+                    "cw": 32957,
+                    "lw": 29202,
+                    "cw_vs_lw_pct": 12.86
+                  }
+                },
+                "ratios": {
+                  "ctr": {
+                    "cw": 1.2131,
+                    "lw": 0.9892,
+                    "cw_vs_lw_pct": 22.64
+                  },
+                  "cpc": {
+                    "cw": 3.7539,
+                    "lw": 3.9109,
+                    "cw_vs_lw_pct": -4.01
+                  },
+                  "cpm": {
+                    "cw": 45.5399,
+                    "lw": 38.6849,
+                    "cw_vs_lw_pct": 17.72
+                  },
+                  "cti": {
+                    "cw": 8.9359,
+                    "lw": 9.3761,
+                    "cw_vs_lw_pct": -4.69
+                  }
+                }
+              }
+            ]
+          },
+          "adgroups_to_check": [
+            {
+              "ad_group": "Leisure-Hebbal-Localised-ABC-English-May25",
+              "contribution": {
+                "install_delta": -2155,
+                "share_of_campaign_delta_pct": 48.03
+              },
+              "metrics": {
+                "installs": {
+                  "cw": 864,
+                  "lw": 3019,
+                  "baseline_avg": 3025,
+                  "cw_vs_lw_pct": -71.38,
+                  "cw_vs_baseline_pct": -71.44
+                },
+                "cost": {
+                  "cw": 41965.003,
+                  "lw": 81457.72,
+                  "baseline_avg": 79916.116,
+                  "cw_vs_lw_pct": -48.48,
+                  "cw_vs_baseline_pct": -47.49
+                },
+                "impressions": {
+                  "cw": 826323,
+                  "lw": 1055901,
+                  "baseline_avg": 1047789,
+                  "cw_vs_lw_pct": -21.74,
+                  "cw_vs_baseline_pct": -21.14
+                },
+                "clicks": {
+                  "cw": 13639,
+                  "lw": 23199,
+                  "baseline_avg": 25955,
+                  "cw_vs_lw_pct": -41.21,
+                  "cw_vs_baseline_pct": -47.45
+                }
+              },
+              "ratios": {
+                "ctr": {
+                  "cw": 1.6506,
+                  "lw": 2.1971,
+                  "baseline_avg": 2.4771,
+                  "cw_vs_lw_pct": -24.87,
+                  "cw_vs_baseline_pct": -33.37
+                },
+                "cpc": {
+                  "cw": 3.0768,
+                  "lw": 3.5113,
+                  "baseline_avg": 3.079,
+                  "cw_vs_lw_pct": -12.37,
+                  "cw_vs_baseline_pct": -0.07
+                },
+                "cpm": {
+                  "cw": 50.7852,
+                  "lw": 77.1452,
+                  "baseline_avg": 76.2712,
+                  "cw_vs_lw_pct": -34.17,
+                  "cw_vs_baseline_pct": -33.41
+                },
+                "cti": {
+                  "cw": 6.3348,
+                  "lw": 13.0135,
+                  "baseline_avg": 11.6561,
+                  "cw_vs_lw_pct": -51.32,
+                  "cw_vs_baseline_pct": -45.65
+                }
+              },
+              "advanced": {
+                "creative_fatigue_signal": false,
+                "efficiency_deterioration_signal": false,
+                "learning_or_volatility_flag": false
+              }
+            },
+            {
+              "ad_group": "Localised-NorthWest-Localised-AB-English-Dec'25",
+              "contribution": {
+                "install_delta": -809,
+                "share_of_campaign_delta_pct": 18.03
+              },
+              "metrics": {
+                "installs": {
+                  "cw": 668,
+                  "lw": 1477,
+                  "baseline_avg": 1543,
+                  "cw_vs_lw_pct": -54.77,
+                  "cw_vs_baseline_pct": -56.7
+                },
+                "cost": {
+                  "cw": 24163.156,
+                  "lw": 75639.667,
+                  "baseline_avg": 71166.437,
+                  "cw_vs_lw_pct": -68.05,
+                  "cw_vs_baseline_pct": -66.05
+                },
+                "impressions": {
+                  "cw": 701586,
+                  "lw": 898385,
+                  "baseline_avg": 746594,
+                  "cw_vs_lw_pct": -21.91,
+                  "cw_vs_baseline_pct": -6.03
+                },
+                "clicks": {
+                  "cw": 7878,
+                  "lw": 12917,
+                  "baseline_avg": 9185,
+                  "cw_vs_lw_pct": -39.01,
+                  "cw_vs_baseline_pct": -14.23
+                }
+              },
+              "ratios": {
+                "ctr": {
+                  "cw": 1.1229,
+                  "lw": 1.4378,
+                  "baseline_avg": 1.2302,
+                  "cw_vs_lw_pct": -21.9,
+                  "cw_vs_baseline_pct": -8.72
+                },
+                "cpc": {
+                  "cw": 3.0672,
+                  "lw": 5.8558,
+                  "baseline_avg": 7.7484,
+                  "cw_vs_lw_pct": -47.62,
+                  "cw_vs_baseline_pct": -60.42
+                },
+                "cpm": {
+                  "cw": 34.4408,
+                  "lw": 84.1952,
+                  "baseline_avg": 95.3215,
+                  "cw_vs_lw_pct": -59.09,
+                  "cw_vs_baseline_pct": -63.87
+                },
+                "cti": {
+                  "cw": 8.4793,
+                  "lw": 11.4345,
+                  "baseline_avg": 16.7961,
+                  "cw_vs_lw_pct": -25.84,
+                  "cw_vs_baseline_pct": -49.52
+                }
+              },
+              "advanced": {
+                "creative_fatigue_signal": false,
+                "efficiency_deterioration_signal": false,
+                "learning_or_volatility_flag": false
+              }
+            },
+            {
+              "ad_group": "Transit-Jayanagar-Localised-AB-English-May25",
+              "contribution": {
+                "install_delta": -750,
+                "share_of_campaign_delta_pct": 16.71
+              },
+              "metrics": {
+                "installs": {
+                  "cw": 1538,
+                  "lw": 2288,
+                  "baseline_avg": 2224,
+                  "cw_vs_lw_pct": -32.78,
+                  "cw_vs_baseline_pct": -30.83
+                },
+                "cost": {
+                  "cw": 68089.736,
+                  "lw": 79042.104,
+                  "baseline_avg": 75162.61,
+                  "cw_vs_lw_pct": -13.86,
+                  "cw_vs_baseline_pct": -9.41
+                },
+                "impressions": {
+                  "cw": 1181589,
+                  "lw": 1000915,
+                  "baseline_avg": 938303,
+                  "cw_vs_lw_pct": 18.05,
+                  "cw_vs_baseline_pct": 25.93
+                },
+                "clicks": {
+                  "cw": 15981,
+                  "lw": 14573,
+                  "baseline_avg": 15065,
+                  "cw_vs_lw_pct": 9.66,
+                  "cw_vs_baseline_pct": 6.08
+                }
+              },
+              "ratios": {
+                "ctr": {
+                  "cw": 1.3525,
+                  "lw": 1.456,
+                  "baseline_avg": 1.6056,
+                  "cw_vs_lw_pct": -7.11,
+                  "cw_vs_baseline_pct": -15.76
+                },
+                "cpc": {
+                  "cw": 4.2607,
+                  "lw": 5.4239,
+                  "baseline_avg": 4.9892,
+                  "cw_vs_lw_pct": -21.45,
+                  "cw_vs_baseline_pct": -14.6
+                },
+                "cpm": {
+                  "cw": 57.6256,
+                  "lw": 78.9698,
+                  "baseline_avg": 80.1049,
+                  "cw_vs_lw_pct": -27.03,
+                  "cw_vs_baseline_pct": -28.06
+                },
+                "cti": {
+                  "cw": 9.6239,
+                  "lw": 15.7003,
+                  "baseline_avg": 14.7605,
+                  "cw_vs_lw_pct": -38.7,
+                  "cw_vs_baseline_pct": -34.8
+                }
+              },
+              "advanced": {
+                "creative_fatigue_signal": true,
+                "efficiency_deterioration_signal": false,
+                "learning_or_volatility_flag": false
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "city",
+      "entity": "Delhi",
+      "significance": {
+        "delta_installs": -15832,
+        "pct_change": -11.07,
+        "zscore": -3.252,
+        "impact_score": 0.0392,
+        "learning_or_volatility_flag": false
+      },
+      "summary_metrics": {
+        "metrics": {
+          "installs": {
+            "cw": 127187,
+            "lw": 143019,
+            "baseline_avg": 149410,
+            "cw_vs_lw_pct": -11.07,
+            "cw_vs_baseline_pct": -14.87
+          },
+          "cost": {
+            "cw": 3559859.231,
+            "lw": 3969486.383,
+            "baseline_avg": 3930023.845,
+            "cw_vs_lw_pct": -10.32,
+            "cw_vs_baseline_pct": -9.42
+          },
+          "impressions": {
+            "cw": 47042632,
+            "lw": 51604995,
+            "baseline_avg": 47830928,
+            "cw_vs_lw_pct": -8.84,
+            "cw_vs_baseline_pct": -1.65
+          },
+          "clicks": {
+            "cw": 692197,
+            "lw": 842881,
+            "baseline_avg": 899600,
+            "cw_vs_lw_pct": -17.88,
+            "cw_vs_baseline_pct": -23.06
+          }
+        },
+        "ratios": {
+          "ctr": {
+            "cw": 1.4714,
+            "lw": 1.6333,
+            "baseline_avg": 1.8808,
+            "cw_vs_lw_pct": -9.91,
+            "cw_vs_baseline_pct": -21.77
+          },
+          "cpc": {
+            "cw": 5.1428,
+            "lw": 4.7094,
+            "baseline_avg": 4.3686,
+            "cw_vs_lw_pct": 9.2,
+            "cw_vs_baseline_pct": 17.72
+          },
+          "cpm": {
+            "cw": 75.673,
+            "lw": 76.9206,
+            "baseline_avg": 82.1649,
+            "cw_vs_lw_pct": -1.62,
+            "cw_vs_baseline_pct": -7.9
+          },
+          "cti": {
+            "cw": 18.3744,
+            "lw": 16.9679,
+            "baseline_avg": 16.6085,
+            "cw_vs_lw_pct": 8.29,
+            "cw_vs_baseline_pct": 10.63
+          }
+        },
+        "advanced": {
+          "cost_per_incremental_install": {
+            "cw_vs_lw": 25.8734,
+            "cw_vs_baseline": 16.6568
+          },
+          "incremental_install_share": {
+            "cw": 100.0,
+            "lw": 112.4478,
+            "baseline_avg": 117.4727
+          },
+          "spend_mix_shift_pct": 6.5918,
+          "creative_fatigue_signal": false,
+          "efficiency_deterioration_signal": false,
+          "learning_or_volatility_flag": false
+        }
+      },
+      "network_breakdown": {
+        "rows": [
+          {
+            "network": "SEARCH",
+            "metrics": {
+              "installs": {
+                "cw": 51353,
+                "lw": 65652,
+                "cw_vs_lw_pct": -21.78
+              },
+              "cost": {
+                "cw": 792249.511,
+                "lw": 1236175.202,
+                "cw_vs_lw_pct": -35.91
+              },
+              "impressions": {
+                "cw": 1283301,
+                "lw": 1902701,
+                "cw_vs_lw_pct": -32.55
+              },
+              "clicks": {
+                "cw": 95586,
+                "lw": 128719,
+                "cw_vs_lw_pct": -25.74
+              }
+            },
+            "ratios": {
+              "ctr": {
+                "cw": 7.4484,
+                "lw": 6.7651,
+                "cw_vs_lw_pct": 10.1
+              },
+              "cpc": {
+                "cw": 8.2883,
+                "lw": 9.6037,
+                "cw_vs_lw_pct": -13.7
+              },
+              "cpm": {
+                "cw": 617.3528,
+                "lw": 649.6949,
+                "cw_vs_lw_pct": -4.98
+              },
+              "cti": {
+                "cw": 53.7244,
+                "lw": 51.0041,
+                "cw_vs_lw_pct": 5.33
+              }
+            }
+          },
+          {
+            "network": "YOUTUBE",
+            "metrics": {
+              "installs": {
+                "cw": 10080,
+                "lw": 13623,
+                "cw_vs_lw_pct": -26.01
+              },
+              "cost": {
+                "cw": 303108.876,
+                "lw": 417517.626,
+                "cw_vs_lw_pct": -27.4
+              },
+              "impressions": {
+                "cw": 7270172,
+                "lw": 10239971,
+                "cw_vs_lw_pct": -29.0
+              },
+              "clicks": {
+                "cw": 248740,
+                "lw": 389402,
+                "cw_vs_lw_pct": -36.12
+              }
+            },
+            "ratios": {
+              "ctr": {
+                "cw": 3.4214,
+                "lw": 3.8028,
+                "cw_vs_lw_pct": -10.03
+              },
+              "cpc": {
+                "cw": 1.2186,
+                "lw": 1.0722,
+                "cw_vs_lw_pct": 13.65
+              },
+              "cpm": {
+                "cw": 41.6921,
+                "lw": 40.7733,
+                "cw_vs_lw_pct": 2.25
+              },
+              "cti": {
+                "cw": 4.0524,
+                "lw": 3.4984,
+                "cw_vs_lw_pct": 15.84
+              }
+            }
+          },
+          {
+            "network": "DISPLAY",
+            "metrics": {
+              "installs": {
+                "cw": 65754,
+                "lw": 63744,
+                "cw_vs_lw_pct": 3.15
+              },
+              "cost": {
+                "cw": 2464500.845,
+                "lw": 2315793.555,
+                "cw_vs_lw_pct": 6.42
+              },
+              "impressions": {
+                "cw": 38489159,
+                "lw": 39462323,
+                "cw_vs_lw_pct": -2.47
+              },
+              "clicks": {
+                "cw": 347871,
+                "lw": 324760,
+                "cw_vs_lw_pct": 7.12
+              }
+            },
+            "ratios": {
+              "ctr": {
+                "cw": 0.9038,
+                "lw": 0.823,
+                "cw_vs_lw_pct": 9.82
+              },
+              "cpc": {
+                "cw": 7.0845,
+                "lw": 7.1308,
+                "cw_vs_lw_pct": -0.65
+              },
+              "cpm": {
+                "cw": 64.031,
+                "lw": 58.6837,
+                "cw_vs_lw_pct": 9.11
+              },
+              "cti": {
+                "cw": 18.9018,
+                "lw": 19.628,
+                "cw_vs_lw_pct": -3.7
+              }
+            }
+          }
+        ]
+      },
+      "campaigns_to_check": [
+        {
+          "campaign": "BAU-Android-Delhi-City-Platform-Install_Firebase_Aug25",
+          "contribution": {
+            "install_delta": -13933,
+            "share_of_entity_delta_pct": 88.01
+          },
+          "metrics": {
+            "installs": {
+              "cw": 127008,
+              "lw": 140941,
+              "baseline_avg": 145769,
+              "cw_vs_lw_pct": -9.89,
+              "cw_vs_baseline_pct": -12.87
+            },
+            "cost": {
+              "cw": 3550550.272,
+              "lw": 3905386.168,
+              "baseline_avg": 3816680.312,
+              "cw_vs_lw_pct": -9.09,
+              "cw_vs_baseline_pct": -6.97
+            },
+            "impressions": {
+              "cw": 46900331,
+              "lw": 50910096,
+              "baseline_avg": 45993856,
+              "cw_vs_lw_pct": -7.88,
+              "cw_vs_baseline_pct": 1.97
+            },
+            "clicks": {
+              "cw": 691428,
+              "lw": 837953,
+              "baseline_avg": 828752,
+              "cw_vs_lw_pct": -17.49,
+              "cw_vs_baseline_pct": -16.57
+            }
+          },
+          "ratios": {
+            "ctr": {
+              "cw": 1.4742,
+              "lw": 1.6459,
+              "baseline_avg": 1.8019,
+              "cw_vs_lw_pct": -10.43,
+              "cw_vs_baseline_pct": -18.18
+            },
+            "cpc": {
+              "cw": 5.1351,
+              "lw": 4.6606,
+              "baseline_avg": 4.6053,
+              "cw_vs_lw_pct": 10.18,
+              "cw_vs_baseline_pct": 11.5
+            },
+            "cpm": {
+              "cw": 75.7042,
+              "lw": 76.7114,
+              "baseline_avg": 82.9824,
+              "cw_vs_lw_pct": -1.31,
+              "cw_vs_baseline_pct": -8.77
+            },
+            "cti": {
+              "cw": 18.3689,
+              "lw": 16.8197,
+              "baseline_avg": 17.589,
+              "cw_vs_lw_pct": 9.21,
+              "cw_vs_baseline_pct": 4.43
+            }
+          },
+          "advanced": {
+            "cost_per_incremental_install": {
+              "cw_vs_lw": 25.4673,
+              "cw_vs_baseline": 14.1853
+            },
+            "incremental_install_share": {
+              "cw": 100.0,
+              "lw": 110.9702,
+              "baseline_avg": 114.7715
+            },
+            "spend_mix_shift_pct": 1.3533,
+            "creative_fatigue_signal": false,
+            "efficiency_deterioration_signal": false,
+            "learning_or_volatility_flag": false
+          },
+          "network_breakdown": {
+            "rows": [
+              {
+                "network": "SEARCH",
+                "metrics": {
+                  "installs": {
+                    "cw": 51353,
+                    "lw": 65014,
+                    "cw_vs_lw_pct": -21.01
+                  },
+                  "cost": {
+                    "cw": 792249.511,
+                    "lw": 1211042.557,
+                    "cw_vs_lw_pct": -34.58
+                  },
+                  "impressions": {
+                    "cw": 1283301,
+                    "lw": 1793526,
+                    "cw_vs_lw_pct": -28.45
+                  },
+                  "clicks": {
+                    "cw": 95586,
+                    "lw": 126601,
+                    "cw_vs_lw_pct": -24.5
+                  }
+                },
+                "ratios": {
+                  "ctr": {
+                    "cw": 7.4484,
+                    "lw": 7.0588,
+                    "cw_vs_lw_pct": 5.52
+                  },
+                  "cpc": {
+                    "cw": 8.2883,
+                    "lw": 9.5658,
+                    "cw_vs_lw_pct": -13.35
+                  },
+                  "cpm": {
+                    "cw": 617.3528,
+                    "lw": 675.23,
+                    "cw_vs_lw_pct": -8.57
+                  },
+                  "cti": {
+                    "cw": 53.7244,
+                    "lw": 51.3535,
+                    "cw_vs_lw_pct": 4.62
+                  }
+                }
+              },
+              {
+                "network": "YOUTUBE",
+                "metrics": {
+                  "installs": {
+                    "cw": 10080,
+                    "lw": 13618,
+                    "cw_vs_lw_pct": -25.98
+                  },
+                  "cost": {
+                    "cw": 303108.876,
+                    "lw": 417472.153,
+                    "cw_vs_lw_pct": -27.39
+                  },
+                  "impressions": {
+                    "cw": 7270172,
+                    "lw": 10239195,
+                    "cw_vs_lw_pct": -29.0
+                  },
+                  "clicks": {
+                    "cw": 248740,
+                    "lw": 389384,
+                    "cw_vs_lw_pct": -36.12
+                  }
+                },
+                "ratios": {
+                  "ctr": {
+                    "cw": 3.4214,
+                    "lw": 3.8029,
+                    "cw_vs_lw_pct": -10.03
+                  },
+                  "cpc": {
+                    "cw": 1.2186,
+                    "lw": 1.0721,
+                    "cw_vs_lw_pct": 13.66
+                  },
+                  "cpm": {
+                    "cw": 41.6921,
+                    "lw": 40.772,
+                    "cw_vs_lw_pct": 2.26
+                  },
+                  "cti": {
+                    "cw": 4.0524,
+                    "lw": 3.4973,
+                    "cw_vs_lw_pct": 15.87
+                  }
+                }
+              },
+              {
+                "network": "DISPLAY",
+                "metrics": {
+                  "installs": {
+                    "cw": 65575,
+                    "lw": 62309,
+                    "cw_vs_lw_pct": 5.24
+                  },
+                  "cost": {
+                    "cw": 2455191.886,
+                    "lw": 2276871.458,
+                    "cw_vs_lw_pct": 7.83
+                  },
+                  "impressions": {
+                    "cw": 38346858,
+                    "lw": 38877375,
+                    "cw_vs_lw_pct": -1.36
+                  },
+                  "clicks": {
+                    "cw": 347102,
+                    "lw": 321968,
+                    "cw_vs_lw_pct": 7.81
+                  }
+                },
+                "ratios": {
+                  "ctr": {
+                    "cw": 0.9052,
+                    "lw": 0.8282,
+                    "cw_vs_lw_pct": 9.3
+                  },
+                  "cpc": {
+                    "cw": 7.0734,
+                    "lw": 7.0717,
+                    "cw_vs_lw_pct": 0.02
+                  },
+                  "cpm": {
+                    "cw": 64.0259,
+                    "lw": 58.5655,
+                    "cw_vs_lw_pct": 9.32
+                  },
+                  "cti": {
+                    "cw": 18.8921,
+                    "lw": 19.3525,
+                    "cw_vs_lw_pct": -2.38
+                  }
+                }
+              }
+            ]
+          },
+          "adgroups_to_check": [
+            {
+              "ad_group": "Transit-Railway-Localised-AC-English-Dec24",
+              "contribution": {
+                "install_delta": 6637,
+                "share_of_campaign_delta_pct": 18.69
+              },
+              "metrics": {
+                "installs": {
+                  "cw": 69381,
+                  "lw": 62744,
+                  "baseline_avg": 62174,
+                  "cw_vs_lw_pct": 10.58,
+                  "cw_vs_baseline_pct": 11.59
+                },
+                "cost": {
+                  "cw": 1855230.463,
+                  "lw": 1699922.037,
+                  "baseline_avg": 1592094.279,
+                  "cw_vs_lw_pct": 9.14,
+                  "cw_vs_baseline_pct": 16.53
+                },
+                "impressions": {
+                  "cw": 20589708,
+                  "lw": 21048229,
+                  "baseline_avg": 17684677,
+                  "cw_vs_lw_pct": -2.18,
+                  "cw_vs_baseline_pct": 16.43
+                },
+                "clicks": {
+                  "cw": 200005,
+                  "lw": 185279,
+                  "baseline_avg": 169693,
+                  "cw_vs_lw_pct": 7.95,
+                  "cw_vs_baseline_pct": 17.86
+                }
+              },
+              "ratios": {
+                "ctr": {
+                  "cw": 0.9714,
+                  "lw": 0.8803,
+                  "baseline_avg": 0.9595,
+                  "cw_vs_lw_pct": 10.35,
+                  "cw_vs_baseline_pct": 1.23
+                },
+                "cpc": {
+                  "cw": 9.2759,
+                  "lw": 9.1749,
+                  "baseline_avg": 9.3822,
+                  "cw_vs_lw_pct": 1.1,
+                  "cw_vs_baseline_pct": -1.13
+                },
+                "cpm": {
+                  "cw": 90.1047,
+                  "lw": 80.7632,
+                  "baseline_avg": 90.0268,
+                  "cw_vs_lw_pct": 11.57,
+                  "cw_vs_baseline_pct": 0.09
+                },
+                "cti": {
+                  "cw": 34.6896,
+                  "lw": 33.8646,
+                  "baseline_avg": 36.6392,
+                  "cw_vs_lw_pct": 2.44,
+                  "cw_vs_baseline_pct": -5.32
+                }
+              },
+              "advanced": {
+                "creative_fatigue_signal": false,
+                "efficiency_deterioration_signal": false,
+                "learning_or_volatility_flag": false
+              }
+            },
+            {
+              "ad_group": "UseCase-Cricket-PAN-ABC-English-Jun25",
+              "contribution": {
+                "install_delta": -5970,
+                "share_of_campaign_delta_pct": 16.81
+              },
+              "metrics": {
+                "installs": {
+                  "cw": 25750,
+                  "lw": 31720,
+                  "baseline_avg": 34732,
+                  "cw_vs_lw_pct": -18.82,
+                  "cw_vs_baseline_pct": -25.86
+                },
+                "cost": {
+                  "cw": 724167.75,
+                  "lw": 794710.033,
+                  "baseline_avg": 818879.106,
+                  "cw_vs_lw_pct": -8.88,
+                  "cw_vs_baseline_pct": -11.57
+                },
+                "impressions": {
+                  "cw": 7091382,
+                  "lw": 7485215,
+                  "baseline_avg": 6142709,
+                  "cw_vs_lw_pct": -5.26,
+                  "cw_vs_baseline_pct": 15.44
+                },
+                "clicks": {
+                  "cw": 70846,
+                  "lw": 85574,
+                  "baseline_avg": 84073,
+                  "cw_vs_lw_pct": -17.21,
+                  "cw_vs_baseline_pct": -15.73
+                }
+              },
+              "ratios": {
+                "ctr": {
+                  "cw": 0.999,
+                  "lw": 1.1432,
+                  "baseline_avg": 1.3687,
+                  "cw_vs_lw_pct": -12.61,
+                  "cw_vs_baseline_pct": -27.01
+                },
+                "cpc": {
+                  "cw": 10.2217,
+                  "lw": 9.2868,
+                  "baseline_avg": 9.7401,
+                  "cw_vs_lw_pct": 10.07,
+                  "cw_vs_baseline_pct": 4.94
+                },
+                "cpm": {
+                  "cw": 102.1194,
+                  "lw": 106.1706,
+                  "baseline_avg": 133.3091,
+                  "cw_vs_lw_pct": -3.82,
+                  "cw_vs_baseline_pct": -23.4
+                },
+                "cti": {
+                  "cw": 36.3464,
+                  "lw": 37.0673,
+                  "baseline_avg": 41.3115,
+                  "cw_vs_lw_pct": -1.94,
+                  "cw_vs_baseline_pct": -12.02
+                }
+              },
+              "advanced": {
+                "creative_fatigue_signal": false,
+                "efficiency_deterioration_signal": true,
+                "learning_or_volatility_flag": false
+              }
+            },
+            {
+              "ad_group": "Generic-Tourist2-Localised-Bike-English-Dec24",
+              "contribution": {
+                "install_delta": -4776,
+                "share_of_campaign_delta_pct": 13.45
+              },
+              "metrics": {
+                "installs": {
+                  "cw": 2603,
+                  "lw": 7379,
+                  "baseline_avg": 7717,
+                  "cw_vs_lw_pct": -64.72,
+                  "cw_vs_baseline_pct": -66.27
+                },
+                "cost": {
+                  "cw": 95361.337,
+                  "lw": 329395.202,
+                  "baseline_avg": 311960.32,
+                  "cw_vs_lw_pct": -71.05,
+                  "cw_vs_baseline_pct": -69.43
+                },
+                "impressions": {
+                  "cw": 2261348,
+                  "lw": 3796231,
+                  "baseline_avg": 3750329,
+                  "cw_vs_lw_pct": -40.43,
+                  "cw_vs_baseline_pct": -39.7
+                },
+                "clicks": {
+                  "cw": 65995,
+                  "lw": 111373,
+                  "baseline_avg": 120114,
+                  "cw_vs_lw_pct": -40.74,
+                  "cw_vs_baseline_pct": -45.06
+                }
+              },
+              "ratios": {
+                "ctr": {
+                  "cw": 2.9184,
+                  "lw": 2.9338,
+                  "baseline_avg": 3.2028,
+                  "cw_vs_lw_pct": -0.52,
+                  "cw_vs_baseline_pct": -8.88
+                },
+                "cpc": {
+                  "cw": 1.445,
+                  "lw": 2.9576,
+                  "baseline_avg": 2.5972,
+                  "cw_vs_lw_pct": -51.14,
+                  "cw_vs_baseline_pct": -44.36
+                },
+                "cpm": {
+                  "cw": 42.1701,
+                  "lw": 86.769,
+                  "baseline_avg": 83.1821,
+                  "cw_vs_lw_pct": -51.4,
+                  "cw_vs_baseline_pct": -49.3
+                },
+                "cti": {
+                  "cw": 3.9442,
+                  "lw": 6.6255,
+                  "baseline_avg": 6.425,
+                  "cw_vs_lw_pct": -40.47,
+                  "cw_vs_baseline_pct": -38.61
+                }
+              },
+              "advanced": {
+                "creative_fatigue_signal": false,
+                "efficiency_deterioration_signal": false,
+                "learning_or_volatility_flag": false
+              }
+            }
+          ]
+        },
+        {
+          "campaign": "BAU-Android-Delhi-City-Platform-MetroTicket_Firebase_Sep25",
+          "contribution": {
+            "install_delta": -1899,
+            "share_of_entity_delta_pct": 11.99
+          },
+          "metrics": {
+            "installs": {
+              "cw": 179,
+              "lw": 2078,
+              "baseline_avg": 3639,
+              "cw_vs_lw_pct": -91.39,
+              "cw_vs_baseline_pct": -95.08
+            },
+            "cost": {
+              "cw": 9308.959,
+              "lw": 64100.215,
+              "baseline_avg": 98666.817,
+              "cw_vs_lw_pct": -85.48,
+              "cw_vs_baseline_pct": -90.57
+            },
+            "impressions": {
+              "cw": 142301,
+              "lw": 694899,
+              "baseline_avg": 995162,
+              "cw_vs_lw_pct": -79.52,
+              "cw_vs_baseline_pct": -85.7
+            },
+            "clicks": {
+              "cw": 769,
+              "lw": 4928,
+              "baseline_avg": 7374,
+              "cw_vs_lw_pct": -84.4,
+              "cw_vs_baseline_pct": -89.57
+            }
+          },
+          "ratios": {
+            "ctr": {
+              "cw": 0.5404,
+              "lw": 0.7092,
+              "baseline_avg": 0.741,
+              "cw_vs_lw_pct": -23.8,
+              "cw_vs_baseline_pct": -27.07
+            },
+            "cpc": {
+              "cw": 12.1053,
+              "lw": 13.0073,
+              "baseline_avg": 13.3804,
+              "cw_vs_lw_pct": -6.94,
+              "cw_vs_baseline_pct": -9.53
+            },
+            "cpm": {
+              "cw": 65.4174,
+              "lw": 92.2439,
+              "baseline_avg": 99.1465,
+              "cw_vs_lw_pct": -29.08,
+              "cw_vs_baseline_pct": -34.02
+            },
+            "cti": {
+              "cw": 23.277,
+              "lw": 42.1672,
+              "baseline_avg": 49.3445,
+              "cw_vs_lw_pct": -44.8,
+              "cw_vs_baseline_pct": -52.83
+            }
+          },
+          "advanced": {
+            "cost_per_incremental_install": {
+              "cw_vs_lw": 28.8527,
+              "cw_vs_baseline": 25.8285
+            },
+            "incremental_install_share": {
+              "cw": 100.0,
+              "lw": 1160.8939,
+              "baseline_avg": 2032.7747
+            },
+            "spend_mix_shift_pct": -1.3533,
+            "creative_fatigue_signal": false,
+            "efficiency_deterioration_signal": false,
+            "learning_or_volatility_flag": false
+          },
+          "network_breakdown": {
+            "rows": [
+              {
+                "network": "SEARCH",
+                "metrics": {
+                  "installs": {
+                    "cw": 0,
+                    "lw": 638,
+                    "cw_vs_lw_pct": -100.0
+                  },
+                  "cost": {
+                    "cw": 0.0,
+                    "lw": 25132.645,
+                    "cw_vs_lw_pct": -100.0
+                  },
+                  "impressions": {
+                    "cw": 0,
+                    "lw": 109175,
+                    "cw_vs_lw_pct": -100.0
+                  },
+                  "clicks": {
+                    "cw": 0,
+                    "lw": 2118,
+                    "cw_vs_lw_pct": -100.0
+                  }
+                },
+                "ratios": {
+                  "ctr": {
+                    "cw": 0.0,
+                    "lw": 1.94,
+                    "cw_vs_lw_pct": -100.0
+                  },
+                  "cpc": {
+                    "cw": 0.0,
+                    "lw": 11.8662,
+                    "cw_vs_lw_pct": -100.0
+                  },
+                  "cpm": {
+                    "cw": 0.0,
+                    "lw": 230.2051,
+                    "cw_vs_lw_pct": -100.0
+                  },
+                  "cti": {
+                    "cw": 0.0,
+                    "lw": 30.1228,
+                    "cw_vs_lw_pct": -100.0
+                  }
+                }
+              },
+              {
+                "network": "YOUTUBE",
+                "metrics": {
+                  "installs": {
+                    "cw": 0,
+                    "lw": 5,
+                    "cw_vs_lw_pct": -100.0
+                  },
+                  "cost": {
+                    "cw": 0.0,
+                    "lw": 45.474,
+                    "cw_vs_lw_pct": -100.0
+                  },
+                  "impressions": {
+                    "cw": 0,
+                    "lw": 776,
+                    "cw_vs_lw_pct": -100.0
+                  },
+                  "clicks": {
+                    "cw": 0,
+                    "lw": 18,
+                    "cw_vs_lw_pct": -100.0
+                  }
+                },
+                "ratios": {
+                  "ctr": {
+                    "cw": 0.0,
+                    "lw": 2.3196,
+                    "cw_vs_lw_pct": -100.0
+                  },
+                  "cpc": {
+                    "cw": 0.0,
+                    "lw": 2.5263,
+                    "cw_vs_lw_pct": -100.0
+                  },
+                  "cpm": {
+                    "cw": 0.0,
+                    "lw": 58.6002,
+                    "cw_vs_lw_pct": -100.0
+                  },
+                  "cti": {
+                    "cw": 0.0,
+                    "lw": 27.7778,
+                    "cw_vs_lw_pct": -100.0
+                  }
+                }
+              },
+              {
+                "network": "DISPLAY",
+                "metrics": {
+                  "installs": {
+                    "cw": 179,
+                    "lw": 1435,
+                    "cw_vs_lw_pct": -87.53
+                  },
+                  "cost": {
+                    "cw": 9308.959,
+                    "lw": 38922.097,
+                    "cw_vs_lw_pct": -76.08
+                  },
+                  "impressions": {
+                    "cw": 142301,
+                    "lw": 584948,
+                    "cw_vs_lw_pct": -75.67
+                  },
+                  "clicks": {
+                    "cw": 769,
+                    "lw": 2792,
+                    "cw_vs_lw_pct": -72.46
+                  }
+                },
+                "ratios": {
+                  "ctr": {
+                    "cw": 0.5404,
+                    "lw": 0.4773,
+                    "cw_vs_lw_pct": 13.22
+                  },
+                  "cpc": {
+                    "cw": 12.1053,
+                    "lw": 13.9406,
+                    "cw_vs_lw_pct": -13.17
+                  },
+                  "cpm": {
+                    "cw": 65.4174,
+                    "lw": 66.5394,
+                    "cw_vs_lw_pct": -1.69
+                  },
+                  "cti": {
+                    "cw": 23.277,
+                    "lw": 51.3968,
+                    "cw_vs_lw_pct": -54.71
+                  }
+                }
+              }
+            ]
+          },
+          "adgroups_to_check": [
+            {
+              "ad_group": "MetroTicket-Metro-Localised-ABC-English-Set1A-Sep25",
+              "contribution": {
+                "install_delta": -336,
+                "share_of_campaign_delta_pct": 50.0
+              },
+              "metrics": {
+                "installs": {
+                  "cw": 19,
+                  "lw": 355,
+                  "baseline_avg": 705,
+                  "cw_vs_lw_pct": -94.65,
+                  "cw_vs_baseline_pct": -97.3
+                },
+                "cost": {
+                  "cw": 1080.222,
+                  "lw": 15295.983,
+                  "baseline_avg": 26362.229,
+                  "cw_vs_lw_pct": -92.94,
+                  "cw_vs_baseline_pct": -95.9
+                },
+                "impressions": {
+                  "cw": 17662,
+                  "lw": 171209,
+                  "baseline_avg": 263677,
+                  "cw_vs_lw_pct": -89.68,
+                  "cw_vs_baseline_pct": -93.3
+                },
+                "clicks": {
+                  "cw": 94,
+                  "lw": 1219,
+                  "baseline_avg": 2074,
+                  "cw_vs_lw_pct": -92.29,
+                  "cw_vs_baseline_pct": -95.47
+                }
+              },
+              "ratios": {
+                "ctr": {
+                  "cw": 0.5322,
+                  "lw": 0.712,
+                  "baseline_avg": 0.7866,
+                  "cw_vs_lw_pct": -25.25,
+                  "cw_vs_baseline_pct": -32.34
+                },
+                "cpc": {
+                  "cw": 11.4917,
+                  "lw": 12.548,
+                  "baseline_avg": 12.7108,
+                  "cw_vs_lw_pct": -8.42,
+                  "cw_vs_baseline_pct": -9.59
+                },
+                "cpm": {
+                  "cw": 61.1608,
+                  "lw": 89.341,
+                  "baseline_avg": 99.9793,
+                  "cw_vs_lw_pct": -31.54,
+                  "cw_vs_baseline_pct": -38.83
+                },
+                "cti": {
+                  "cw": 20.2128,
+                  "lw": 29.1222,
+                  "baseline_avg": 33.9923,
+                  "cw_vs_lw_pct": -30.59,
+                  "cw_vs_baseline_pct": -40.54
+                }
+              },
+              "advanced": {
+                "creative_fatigue_signal": false,
+                "efficiency_deterioration_signal": false,
+                "learning_or_volatility_flag": false
+              }
+            },
+            {
+              "ad_group": "MetroTicket-Metro-Localised-ABC-English-Tourist2-Sep25",
+              "contribution": {
+                "install_delta": -336,
+                "share_of_campaign_delta_pct": 50.0
+              },
+              "metrics": {
+                "installs": {
+                  "cw": 160,
+                  "lw": 496,
+                  "baseline_avg": 679,
+                  "cw_vs_lw_pct": -67.74,
+                  "cw_vs_baseline_pct": -76.44
+                },
+                "cost": {
+                  "cw": 8228.737,
+                  "lw": 19914.744,
+                  "baseline_avg": 24573.108,
+                  "cw_vs_lw_pct": -58.68,
+                  "cw_vs_baseline_pct": -66.51
+                },
+                "impressions": {
+                  "cw": 124639,
+                  "lw": 241557,
+                  "baseline_avg": 250849,
+                  "cw_vs_lw_pct": -48.4,
+                  "cw_vs_baseline_pct": -50.31
+                },
+                "clicks": {
+                  "cw": 675,
+                  "lw": 1705,
+                  "baseline_avg": 1972,
+                  "cw_vs_lw_pct": -60.41,
+                  "cw_vs_baseline_pct": -65.77
+                }
+              },
+              "ratios": {
+                "ctr": {
+                  "cw": 0.5416,
+                  "lw": 0.7058,
+                  "baseline_avg": 0.7861,
+                  "cw_vs_lw_pct": -23.27,
+                  "cw_vs_baseline_pct": -31.11
+                },
+                "cpc": {
+                  "cw": 12.1907,
+                  "lw": 11.6802,
+                  "baseline_avg": 12.461,
+                  "cw_vs_lw_pct": 4.37,
+                  "cw_vs_baseline_pct": -2.17
+                },
+                "cpm": {
+                  "cw": 66.0206,
+                  "lw": 82.4432,
+                  "baseline_avg": 97.9598,
+                  "cw_vs_lw_pct": -19.92,
+                  "cw_vs_baseline_pct": -32.6
+                },
+                "cti": {
+                  "cw": 23.7037,
+                  "lw": 29.0909,
+                  "baseline_avg": 34.432,
+                  "cw_vs_lw_pct": -18.52,
+                  "cw_vs_baseline_pct": -31.16
+                }
+              },
+              "advanced": {
+                "creative_fatigue_signal": false,
+                "efficiency_deterioration_signal": true,
+                "learning_or_volatility_flag": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "auto_todos": [
+    {
+      "level": "city",
+      "entity": "Bangalore",
+      "city": "Bangalore",
+      "campaign": null,
+      "issue": "Significant install movement vs LW/3W baseline",
+      "impact_score": 0.0422,
+      "severity": "low",
+      "recommendation": "Check bid/creative mix in this city and scale winning ad groups."
+    },
+    {
+      "level": "city",
+      "entity": "Delhi",
+      "city": "Delhi",
+      "campaign": null,
+      "issue": "Significant install movement vs LW/3W baseline",
+      "impact_score": 0.0392,
+      "severity": "low",
+      "recommendation": "Check bid/creative mix in this city and scale winning ad groups."
+    },
+    {
+      "level": "campaign",
+      "entity": "BAU-Android-Delhi-City-Platform-Install_Firebase_Aug25",
+      "city": "Delhi",
+      "campaign": "BAU-Android-Delhi-City-Platform-Install_Firebase_Aug25",
+      "issue": "Significant install movement vs LW/3W baseline",
+      "impact_score": 0.0345,
+      "severity": "low",
+      "recommendation": "Review keyword/creative mix and rebalance budget toward strongest ad groups."
+    },
+    {
+      "level": "campaign",
+      "entity": "BAU-Android-Bangalore-City-Platform-FTU_Firebase_Nov25_Search",
+      "city": "Bangalore",
+      "campaign": "BAU-Android-Bangalore-City-Platform-FTU_Firebase_Nov25_Search",
+      "issue": "Significant install movement vs LW/3W baseline",
+      "impact_score": 0.0311,
+      "severity": "low",
+      "recommendation": "Review keyword/creative mix and rebalance budget toward strongest ad groups."
+    },
+    {
+      "level": "campaign",
+      "entity": "BAU-Android-Bangalore-City-Platform-Install_Firebase_Jun24",
+      "city": "Bangalore",
+      "campaign": "BAU-Android-Bangalore-City-Platform-Install_Firebase_Jun24",
+      "issue": "Significant install movement vs LW/3W baseline",
+      "impact_score": 0.011,
+      "severity": "low",
+      "recommendation": "Review keyword/creative mix and rebalance budget toward strongest ad groups."
+    },
+    {
+      "level": "campaign",
+      "entity": "BAU-Android-Delhi-City-Platform-MetroTicket_Firebase_Sep25",
+      "city": "Delhi",
+      "campaign": "BAU-Android-Delhi-City-Platform-MetroTicket_Firebase_Sep25",
+      "issue": "Significant install movement vs LW/3W baseline",
+      "impact_score": 0.0047,
+      "severity": "low",
+      "recommendation": "Review keyword/creative mix and rebalance budget toward strongest ad groups."
+    }
+  ],
+  "top_wasted_spend_candidates": [
+    {
+      "level": "campaign",
+      "entity": "BAU-Android-Mumbai-City-Platform-FTU_Firebase_Feb24",
+      "city": "Mumbai",
+      "cw_cost": 1752707.9328,
+      "cw_installs": 41159,
+      "cw_cti": 23.6272,
+      "lw_cti": 25.1101,
+      "cti_delta_pct": -5.91,
+      "reason": "High spend + weak installs + worsening CTI"
+    },
+    {
+      "level": "campaign",
+      "entity": "BAU-Android-Surat-City-Platform-FTU_Firebase_Apr24",
+      "city": "Surat",
+      "cw_cost": 672292.1171,
+      "cw_installs": 7802,
+      "cw_cti": 3.2787,
+      "lw_cti": 4.278,
+      "cti_delta_pct": -23.36,
+      "reason": "High spend + weak installs + worsening CTI"
+    },
+    {
+      "level": "campaign",
+      "entity": "BAU-Android-Kolkata-City-Platform-FTU_Firebase_May22",
+      "city": "Kolkata",
+      "cw_cost": 327977.2693,
+      "cw_installs": 7327,
+      "cw_cti": 13.3743,
+      "lw_cti": 15.4321,
+      "cti_delta_pct": -13.33,
+      "reason": "High spend + weak installs + worsening CTI"
+    },
+    {
+      "level": "campaign",
+      "entity": "BAU-Android-Lucknow-City-Platform-FTU_Firebase_Sep24",
+      "city": "Lucknow",
+      "cw_cost": 310464.553,
+      "cw_installs": 6632,
+      "cw_cti": 9.8813,
+      "lw_cti": 23.0084,
+      "cti_delta_pct": -57.05,
+      "reason": "High spend + weak installs + worsening CTI"
+    },
+    {
+      "level": "campaign",
+      "entity": "BAU-Android-Patna-City-Platform-FTU_Firebase_Jul23",
+      "city": "Patna",
+      "cw_cost": 285412.4349,
+      "cw_installs": 5900,
+      "cw_cti": 11.7091,
+      "lw_cti": 28.8721,
+      "cti_delta_pct": -59.44,
+      "reason": "High spend + weak installs + worsening CTI"
+    }
+  ],
+  "recent_changes": [],
+  "installs": 403633,
+  "cost": 13219841.221,
+  "clicks": 3241968,
+  "impressions": 241483300,
+  "wow_growth": -41.24,
+  "trend_windows": {
+    "current_week": "2026-W10",
+    "last_week": "2026-W09",
+    "baseline_weeks": [
+      "2026-W07",
+      "2026-W08",
+      "2026-W09"
+    ]
+  },
+  "pan_network": [
+    {
+      "network": "SEARCH",
+      "metrics": {
+        "Installs": 154227,
+        "Cost": 1690165.954,
+        "Impressions": 3154829,
+        "Clicks": 262831
+      },
+      "wow_changes": {
+        "Installs": -60.88,
+        "Cost": -73.04,
+        "Impressions": -65.08,
+        "Clicks": -62.59
+      }
+    },
+    {
+      "network": "YOUTUBE",
+      "metrics": {
+        "Installs": 34304,
+        "Cost": 1628132.415,
+        "Impressions": 47464039,
+        "Clicks": 1365664
+      },
+      "wow_changes": {
+        "Installs": -40.1,
+        "Cost": -35.01,
+        "Impressions": -31.96,
+        "Clicks": -28.79
+      }
+    },
+    {
+      "network": "DISPLAY",
+      "metrics": {
+        "Installs": 215102,
+        "Cost": 9901542.852,
+        "Impressions": 190864432,
+        "Clicks": 1613473
+      },
+      "wow_changes": {
+        "Installs": -8.62,
+        "Cost": -7.85,
+        "Impressions": -13.48,
+        "Clicks": -2.17
+      }
+    }
+  ],
+  "city_insights": [
+    {
+      "city": "Bangalore",
+      "metrics": {
+        "Installs": 12233.0,
+        "Cost": 255716.732119,
+        "Impressions": 5700378.0,
+        "Clicks": 102872.0
+      },
+      "wow_changes": {
+        "Installs": -58.18,
+        "Cost": -47.14,
+        "Impressions": -14.46,
+        "Clicks": -25.96
+      },
+      "stats": {
+        "delta": -17017.0,
+        "pct_change": -58.18,
+        "z_score": -9.346,
+        "significant": true
+      },
+      "movers": []
+    },
+    {
+      "city": "Delhi",
+      "metrics": {
+        "Installs": 127187.0,
+        "Cost": 3559859.2312849998,
+        "Impressions": 47042632.0,
+        "Clicks": 692197.0
+      },
+      "wow_changes": {
+        "Installs": -11.07,
+        "Cost": -10.32,
+        "Impressions": -8.84,
+        "Clicks": -17.88
+      },
+      "stats": {
+        "delta": -15832.0,
+        "pct_change": -11.07,
+        "z_score": -3.252,
+        "significant": true
+      },
+      "movers": []
+    }
+  ],
+  "campaign_insights": [
+    {
+      "city": "Bangalore",
+      "campaign": "BAU-Android-Bangalore-City-Platform-FTU_Firebase_Nov25_Search",
+      "metrics": {
+        "Installs": 7044.0,
+        "Cost": 38507.375964,
+        "Impressions": 476157.0,
+        "Clicks": 10725.0
+      },
+      "wow_changes": {
+        "Installs": -64.09,
+        "Cost": -71.85,
+        "Impressions": -13.83,
+        "Clicks": -62.31
+      },
+      "stats": {
+        "delta": -12572.0,
+        "pct_change": -64.09,
+        "z_score": -7.464,
+        "significant": true
+      }
+    },
+    {
+      "city": "Bangalore",
+      "campaign": "BAU-Android-Bangalore-City-Platform-Install_Firebase_Jun24",
+      "metrics": {
+        "Installs": 5189.0,
+        "Cost": 217209.356155,
+        "Impressions": 5224221.0,
+        "Clicks": 92147.0
+      },
+      "wow_changes": {
+        "Installs": -46.14,
+        "Cost": -37.39,
+        "Impressions": -14.52,
+        "Clicks": -16.6
+      },
+      "stats": {
+        "delta": -4445.0,
+        "pct_change": -46.14,
+        "z_score": -15.019,
+        "significant": true
+      }
+    },
+    {
+      "city": "Delhi",
+      "campaign": "BAU-Android-Delhi-City-Platform-Install_Firebase_Aug25",
+      "metrics": {
+        "Installs": 127008.0,
+        "Cost": 3550550.272134,
+        "Impressions": 46900331.0,
+        "Clicks": 691428.0
+      },
+      "wow_changes": {
+        "Installs": -9.89,
+        "Cost": -9.09,
+        "Impressions": -7.88,
+        "Clicks": -17.49
+      },
+      "stats": {
+        "delta": -13933.0,
+        "pct_change": -9.89,
+        "z_score": -2.728,
+        "significant": true
+      }
+    },
+    {
+      "city": "Delhi",
+      "campaign": "BAU-Android-Delhi-City-Platform-MetroTicket_Firebase_Sep25",
+      "metrics": {
+        "Installs": 179.0,
+        "Cost": 9308.959151,
+        "Impressions": 142301.0,
+        "Clicks": 769.0
+      },
+      "wow_changes": {
+        "Installs": -91.39,
+        "Cost": -85.48,
+        "Impressions": -79.52,
+        "Clicks": -84.4
+      },
+      "stats": {
+        "delta": -1899.0,
+        "pct_change": -91.39,
+        "z_score": -2.492,
+        "significant": true
+      }
+    }
+  ],
+  "adgroup_insights": [
+    {
+      "city": "Bangalore",
+      "campaign": "BAU-Android-Bangalore-City-Platform-FTU_Firebase_Nov25_Search",
+      "ad_group": "ATL-Bawaal KV-PAN-ABC-English-Mar25",
+      "install_change": -7898,
+      "stats": {
+        "delta": -7898.0
+      }
+    },
+    {
+      "city": "Bangalore",
+      "campaign": "BAU-Android-Bangalore-City-Platform-FTU_Firebase_Nov25_Search",
+      "ad_group": "ATL-Breakup KV-PAN-ABC-English-Apr25",
+      "install_change": -4674,
+      "stats": {
+        "delta": -4674.0
+      }
+    },
+    {
+      "city": "Bangalore",
+      "campaign": "BAU-Android-Bangalore-City-Platform-Install_Firebase_Jun24",
+      "ad_group": "Leisure-Hebbal-Localised-ABC-English-May25",
+      "install_change": -2155,
+      "stats": {
+        "delta": -2155.0
+      }
+    },
+    {
+      "city": "Bangalore",
+      "campaign": "BAU-Android-Bangalore-City-Platform-Install_Firebase_Jun24",
+      "ad_group": "Localised-NorthWest-Localised-AB-English-Dec'25",
+      "install_change": -809,
+      "stats": {
+        "delta": -809.0
+      }
+    },
+    {
+      "city": "Bangalore",
+      "campaign": "BAU-Android-Bangalore-City-Platform-Install_Firebase_Jun24",
+      "ad_group": "Transit-Jayanagar-Localised-AB-English-May25",
+      "install_change": -750,
+      "stats": {
+        "delta": -750.0
+      }
+    },
+    {
+      "city": "Delhi",
+      "campaign": "BAU-Android-Delhi-City-Platform-Install_Firebase_Aug25",
+      "ad_group": "Transit-Railway-Localised-AC-English-Dec24",
+      "install_change": 6637,
+      "stats": {
+        "delta": 6637.0
+      }
+    },
+    {
+      "city": "Delhi",
+      "campaign": "BAU-Android-Delhi-City-Platform-Install_Firebase_Aug25",
+      "ad_group": "UseCase-Cricket-PAN-ABC-English-Jun25",
+      "install_change": -5970,
+      "stats": {
+        "delta": -5970.0
+      }
+    },
+    {
+      "city": "Delhi",
+      "campaign": "BAU-Android-Delhi-City-Platform-Install_Firebase_Aug25",
+      "ad_group": "Generic-Tourist2-Localised-Bike-English-Dec24",
+      "install_change": -4776,
+      "stats": {
+        "delta": -4776.0
+      }
+    },
+    {
+      "city": "Delhi",
+      "campaign": "BAU-Android-Delhi-City-Platform-MetroTicket_Firebase_Sep25",
+      "ad_group": "MetroTicket-Metro-Localised-ABC-English-Set1A-Sep25",
+      "install_change": -336,
+      "stats": {
+        "delta": -336.0
+      }
+    },
+    {
+      "city": "Delhi",
+      "campaign": "BAU-Android-Delhi-City-Platform-MetroTicket_Firebase_Sep25",
+      "ad_group": "MetroTicket-Metro-Localised-ABC-English-Tourist2-Sep25",
+      "install_change": -336,
+      "stats": {
+        "delta": -336.0
+      }
+    }
+  ],
+  "summary": "<b>AI Summary (Mock):</b> Performance looks stable with consistent install volume. Recommend monitoring cost-per-install trends for next week.",
+  "created_at": "2026-03-09T23:41:38.325224",
+  "run_meta": {
+    "target_week": "2026-W10",
+    "required_weeks": [
+      "2026-W07",
+      "2026-W08",
+      "2026-W09",
+      "2026-W10"
+    ],
+    "rows_used": 27056,
+    "storage_mode": "processed_report_only_with_local_aggregates",
+    "raw_source": "local_aggregates_cache_first",
+    "thresholds": {
+      "min_impressions": 17118,
+      "min_clicks": 4,
+      "min_installs": 1,
+      "impact_floor_ratio": 0.015,
+      "pct_change_floor": 12.0,
+      "zscore_floor": 1.5,
+      "city_coverage_target": 0.4,
+      "city_contrib_floor": 0.05
+    },
+    "aggregate_dir": "/Users/E2005/projects/bobfrmmktg/backend/storage/aggregates/weeks"
+  }
+}
